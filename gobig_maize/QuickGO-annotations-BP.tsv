@@ -1,0 +1,838 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	SLIMMED FROM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0A060D764	GRF1	involved_in	GO:0007275	GO:0048366	leaf development	ECO:0000315	IMP	PMID:26036253		4577	UniProt		P
+UniProtKB	A0A1D6EFT8	EDS	involved_in	GO:0009987	GO:0046246	terpene biosynthetic process	ECO:0000314	IDA	PMID:29570233		4577	UniProt		P
+UniProtKB	A0A1D6EFT8	EDS	involved_in	GO:0009058	GO:0046246	terpene biosynthetic process	ECO:0000314	IDA	PMID:29570233		4577	UniProt		P
+UniProtKB	A0A1D6EFT8	EDS	involved_in	GO:0006629	GO:0046246	terpene biosynthetic process	ECO:0000314	IDA	PMID:29570233		4577	UniProt		P
+UniProtKB	A0A1D6EFT8	EDS	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:29570233		4577	UniProt		P
+UniProtKB	A0A1D6EFT8	EDS	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:29570233		4577	UniProt		P
+UniProtKB	A0A1D6EFT8	EDS	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:29570233		4577	UniProt		P
+UniProtKB	A0A1D6EFT8	EDS	involved_in	GO:0009987	GO:0051762	sesquiterpene biosynthetic process	ECO:0000314	IDA	PMID:29570233		4577	UniProt		P
+UniProtKB	A0A1D6EFT8	EDS	involved_in	GO:0009058	GO:0051762	sesquiterpene biosynthetic process	ECO:0000314	IDA	PMID:29570233		4577	UniProt		P
+UniProtKB	A0A1D6EFT8	EDS	involved_in	GO:0006629	GO:0051762	sesquiterpene biosynthetic process	ECO:0000314	IDA	PMID:29570233		4577	UniProt		P
+UniProtKB	A0A1D6F9Y9	CYP92C6	involved_in	GO:0009605	GO:0080027	response to herbivore	ECO:0000270	IEP	PMID:27662898		4577	UniProt		P
+UniProtKB	A0A1D6F9Y9	CYP92C6	involved_in	GO:0009607	GO:0080027	response to herbivore	ECO:0000270	IEP	PMID:27662898		4577	UniProt		P
+UniProtKB	A0A1D6F9Y9	CYP92C6	involved_in	GO:0009987	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	A0A1D6F9Y9	CYP92C6	involved_in	GO:0009058	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	A0A1D6F9Y9	CYP92C6	involved_in	GO:0006629	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	A0A1D6GNR3	KWL1	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:30651637		4577	UniProt		P
+UniProtKB	A0A1D6GNR3	KWL1	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:30651637		4577	UniProt		P
+UniProtKB	A0A1D6GNR3	KWL1	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:30651637		4577	UniProt		P
+UniProtKB	A0A1D6GQ67	CYP71Z16	involved_in	GO:0009987	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6GQ67	CYP71Z16	involved_in	GO:0009058	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6GQ67	CYP71Z16	involved_in	GO:0019748	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6GQ67	CYP71Z16	involved_in	GO:0006629	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6HSP4	CYP92C5	involved_in	GO:0009605	GO:0080027	response to herbivore	ECO:0000270	IEP	PMID:27662898		4577	UniProt		P
+UniProtKB	A0A1D6HSP4	CYP92C5	involved_in	GO:0009607	GO:0080027	response to herbivore	ECO:0000270	IEP	PMID:27662898		4577	UniProt		P
+UniProtKB	A0A1D6HSP4	CYP92C5	involved_in	GO:0009987	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	A0A1D6HSP4	CYP92C5	involved_in	GO:0009058	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	A0A1D6HSP4	CYP92C5	involved_in	GO:0006629	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0042221	GO:0046688	response to copper ion	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0042221	GO:0042542	response to hydrogen peroxide	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0006950	GO:0042542	response to hydrogen peroxide	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0006950	GO:0009611	response to wounding	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009605	GO:0009617	response to bacterium	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009607	GO:0009617	response to bacterium	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009605	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009607	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009416	GO:0009646	response to absence of light	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009628	GO:0009651	response to salt stress	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0006950	GO:0009651	response to salt stress	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009719	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0042221	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009719	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0042221	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	NOT|involved_in	GO:0009719	GO:0009739	response to gibberellin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	NOT|involved_in	GO:0042221	GO:0009739	response to gibberellin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0042221	GO:0009751	response to salicylic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009719	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0042221	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6JZU3	103634525	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19682768		4577	AgBase		P
+UniProtKB	A0A1D6K6U5	CPPS2	involved_in	GO:0009987	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6K6U5	CPPS2	involved_in	GO:0009058	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6K6U5	CPPS2	involved_in	GO:0019748	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6K6U5	CPPS2	involved_in	GO:0006629	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6K6U5	CPPS2	involved_in	GO:0009987	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:16307364		4577	UniProt		P
+UniProtKB	A0A1D6K6U5	CPPS2	involved_in	GO:0009058	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:16307364		4577	UniProt		P
+UniProtKB	A0A1D6K6U5	CPPS2	involved_in	GO:0006629	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:16307364		4577	UniProt		P
+UniProtKB	A0A1D6K6U5	CPPS2	involved_in	GO:0009987	GO:0009686	gibberellin biosynthetic process	ECO:0000315	IMP	PMID:16307364		4577	UniProt		P
+UniProtKB	A0A1D6K6U5	CPPS2	involved_in	GO:0009058	GO:0009686	gibberellin biosynthetic process	ECO:0000315	IMP	PMID:16307364		4577	UniProt		P
+UniProtKB	A0A1D6K6U5	CPPS2	involved_in	GO:0006629	GO:0009686	gibberellin biosynthetic process	ECO:0000315	IMP	PMID:16307364		4577	UniProt		P
+UniProtKB	A0A1D6KL43	PSA2	involved_in	GO:0015979	GO:0048564	photosystem I assembly	ECO:0000314	IDA	PMID:25228689		4577	UniProt		P
+UniProtKB	A0A1D6KL43	PSA2	involved_in	GO:0006091	GO:0048564	photosystem I assembly	ECO:0000314	IDA	PMID:25228689		4577	UniProt		P
+UniProtKB	A0A1D6KL43	PSA2	involved_in	GO:0016043	GO:0048564	photosystem I assembly	ECO:0000314	IDA	PMID:25228689		4577	UniProt		P
+UniProtKB	A0A1D6KUI6	KSL4	involved_in	GO:0009987	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6KUI6	KSL4	involved_in	GO:0009058	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6KUI6	KSL4	involved_in	GO:0019748	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6KUI6	KSL4	involved_in	GO:0006629	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:29475898		4577	UniProt		P
+UniProtKB	A0A1D6L709	VP8	involved_in	GO:0048856	GO:0010074	maintenance of meristem identity	ECO:0000315	IMP	PMID:18203869		4577	UniProt		P
+UniProtKB	A0A1D6LAB7	RH3B	involved_in	GO:0009987	GO:0042254	ribosome biogenesis	ECO:0000315	IMP	PMID:22576849		4577	UniProt		P
+UniProtKB	A0A1D6LAB7	RH3B	involved_in	GO:0016043	GO:0009658	chloroplast organization	ECO:0000315	IMP	PMID:22576849		4577	UniProt		P
+UniProtKB	A0A1D6LAB7	RH3B	involved_in	GO:0009058	GO:0000373	Group II intron splicing	ECO:0000315	IMP	PMID:22576849		4577	UniProt		P
+UniProtKB	A0A1D6LAB7	RH3B	involved_in	GO:0006139	GO:0000373	Group II intron splicing	ECO:0000315	IMP	PMID:22576849		4577	UniProt		P
+UniProtKB	A0A1D6LTV0	TPS26	involved_in	GO:0009987	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18218975		4577	UniProt		P
+UniProtKB	A0A1D6LTV0	TPS26	involved_in	GO:0009058	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18218975		4577	UniProt		P
+UniProtKB	A0A1D6LTV0	TPS26	involved_in	GO:0006629	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18218975		4577	UniProt		P
+UniProtKB	A0A1D6LTV0	TPS26	involved_in	GO:0006950	GO:0009611	response to wounding	ECO:0000270	IEP	PMID:18218975		4577	UniProt		P
+UniProtKB	A0A1D6N272	GRMZM2G124911	involved_in	GO:0009987	GO:0030974	thiamine pyrophosphate transmembrane transport	ECO:0000314	IDA	PMID:22426856		4577	UniProt		P
+UniProtKB	A0A1D6N272	GRMZM2G124911	involved_in	GO:0006810	GO:0030974	thiamine pyrophosphate transmembrane transport	ECO:0000314	IDA	PMID:22426856		4577	UniProt		P
+UniProtKB	A0A1D6N272	GRMZM2G124911	enables	GO:0009987	GO:0090422	thiamine pyrophosphate transmembrane transporter activity	ECO:0000314	IDA	PMID:22426856		4577	UniProt		F
+UniProtKB	A0A1D6N272	GRMZM2G124911	enables	GO:0006810	GO:0090422	thiamine pyrophosphate transmembrane transporter activity	ECO:0000314	IDA	PMID:22426856		4577	UniProt		F
+UniProtKB	A0A1D6P520	Hm2	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	A0A1D6P520	Hm2	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	A0A1D6P520	Hm2	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	A0A1D6P520	Hm2	involved_in	GO:0009987	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	A0A1D6P520	Hm2	involved_in	GO:0009056	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	A0A1D6P520	Hm2	involved_in	GO:0019748	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	A0A1D6P520	Hm2	involved_in	GO:0042221	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	A0A291LSD6	TPS21	involved_in	GO:0009605	GO:0080027	response to herbivore	ECO:0000270	IEP	PMID:28931629		4577	UniProt		P
+UniProtKB	A0A291LSD6	TPS21	involved_in	GO:0009607	GO:0080027	response to herbivore	ECO:0000270	IEP	PMID:28931629		4577	UniProt		P
+UniProtKB	A0A291LSD6	TPS21	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:28931629		4577	UniProt		P
+UniProtKB	A0A291LSD6	TPS21	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:28931629		4577	UniProt		P
+UniProtKB	A0A291LSD6	TPS21	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:28931629		4577	UniProt		P
+UniProtKB	A0A291LSD6	TPS21	involved_in	GO:0009987	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:28931629		4577	UniProt		P
+UniProtKB	A0A291LSD6	TPS21	involved_in	GO:0009058	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:28931629		4577	UniProt		P
+UniProtKB	A0A291LSD6	TPS21	involved_in	GO:0006629	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:28931629		4577	UniProt		P
+UniProtKB	A0A3L6EVD3	ZmHK3b	NOT|involved_in	GO:0007165	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	A0A3L6EVD3	ZmHK3b	NOT|involved_in	GO:0009719	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	A0A3L6EVD3	ZmHK3b	NOT|involved_in	GO:0042221	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0009605	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0009607	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0009719	GO:0009723	response to ethylene	ECO:0000270	IEP	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0042221	GO:0009723	response to ethylene	ECO:0000270	IEP	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0009719	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0042221	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0042221	GO:0009751	response to salicylic acid	ECO:0000270	IEP	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0009719	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0042221	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0009987	GO:0042758	long-chain fatty acid catabolic process	ECO:0000314	IDA	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0009056	GO:0042758	long-chain fatty acid catabolic process	ECO:0000314	IDA	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI1	LOX6	involved_in	GO:0006629	GO:0042758	long-chain fatty acid catabolic process	ECO:0000314	IDA	PMID:17922288		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0007623	GO:0007623	circadian rhythm	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0009628	GO:0009409	response to cold	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0006950	GO:0009409	response to cold	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0006950	GO:0009611	response to wounding	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0009605	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0009607	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0009719	GO:0009723	response to ethylene	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0042221	GO:0009723	response to ethylene	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0009719	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0042221	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0042221	GO:0009751	response to salicylic acid	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0009719	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI5	LOX10	involved_in	GO:0042221	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	NOT|involved_in	GO:0007623	GO:0007623	circadian rhythm	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	NOT|involved_in	GO:0009628	GO:0009409	response to cold	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	NOT|involved_in	GO:0006950	GO:0009409	response to cold	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	NOT|involved_in	GO:0006950	GO:0009611	response to wounding	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	NOT|involved_in	GO:0009605	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	NOT|involved_in	GO:0009607	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	NOT|involved_in	GO:0009719	GO:0009723	response to ethylene	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	NOT|involved_in	GO:0042221	GO:0009723	response to ethylene	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	involved_in	GO:0009719	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	involved_in	GO:0042221	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	NOT|involved_in	GO:0042221	GO:0009751	response to salicylic acid	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	NOT|involved_in	GO:0009719	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A1XCI6	LOX11	NOT|involved_in	GO:0042221	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:17005920		4577	AgBase		P
+UniProtKB	A2SZW8	PER1	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:18944174		4577	AgBase		P
+UniProtKB	A2SZW8	PER1	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:18944174		4577	AgBase		P
+UniProtKB	A2SZW8	PER1	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:18944174		4577	AgBase		P
+UniProtKB	A2SZW8	PER1	enables	GO:0009987	GO:0004601	peroxidase activity	ECO:0000315	IMP	PMID:18944174		4577	AgBase		F
+UniProtKB	A2SZW8	PER1	enables	GO:0042221	GO:0004601	peroxidase activity	ECO:0000315	IMP	PMID:18944174		4577	AgBase		F
+UniProtKB	A5HEG9	GRF10	involved_in	GO:0007275	GO:0048366	leaf development	ECO:0000315	IMP	PMID:24854713		4577	UniProt		P
+UniProtKB	A5HEG9	GRF10	involved_in	GO:0009987	GO:0008283	cell population proliferation	ECO:0000315	IMP	PMID:24854713		4577	UniProt		P
+UniProtKB	A5HEH4	GIF1	involved_in	GO:0007275	GO:0048366	leaf development	ECO:0000315	IMP	PMID:29437990		4577	UniProt		P
+UniProtKB	A5HEH4	GIF1	involved_in	GO:0009987	GO:0008283	cell population proliferation	ECO:0000315	IMP	PMID:29437990		4577	UniProt		P
+UniProtKB	A5HEH4	GIF1	involved_in	GO:0009908	GO:0010582	floral meristem determinacy	ECO:0000315	IMP	PMID:29437990		4577	UniProt		P
+UniProtKB	A6YSL1	RNC1	involved_in	GO:0009987	GO:0042254	ribosome biogenesis	ECO:0000315	IMP	PMID:17693527		4577	UniProt		P
+UniProtKB	A6YSL1	RNC1	involved_in	GO:0009058	GO:0000373	Group II intron splicing	ECO:0000315	IMP	PMID:17693527		4577	UniProt		P
+UniProtKB	A6YSL1	RNC1	involved_in	GO:0006139	GO:0000373	Group II intron splicing	ECO:0000315	IMP	PMID:17693527		4577	UniProt		P
+UniProtKB	A7KVC2	MRP4	involved_in	GO:0009987	GO:0055085	transmembrane transport	ECO:0000315	IMP	PMID:17676037		4577	UniProt		P
+UniProtKB	A7KVC2	MRP4	involved_in	GO:0006810	GO:0055085	transmembrane transport	ECO:0000315	IMP	PMID:17676037		4577	UniProt		P
+UniProtKB	A7LN87	PPR5	involved_in	GO:0009058	GO:0000373	Group II intron splicing	ECO:0000314	IDA	PMID:18591259		4577	UniProt		P
+UniProtKB	A7LN87	PPR5	involved_in	GO:0006139	GO:0000373	Group II intron splicing	ECO:0000314	IDA	PMID:18591259		4577	UniProt		P
+UniProtKB	A7LN87	PPR5	involved_in	GO:0009058	GO:0031425	chloroplast RNA processing	ECO:0000315	IMP	PMID:18591259		4577	UniProt		P
+UniProtKB	A7LN87	PPR5	involved_in	GO:0006139	GO:0031425	chloroplast RNA processing	ECO:0000315	IMP	PMID:18591259		4577	UniProt		P
+UniProtKB	A7XN92	CFM3	involved_in	GO:0009058	GO:0000373	Group II intron splicing	ECO:0000315	IMP	PMID:18799595		4577	UniProt		P
+UniProtKB	A7XN92	CFM3	involved_in	GO:0006139	GO:0000373	Group II intron splicing	ECO:0000315	IMP	PMID:18799595		4577	UniProt		P
+UniProtKB	B0KZ40	PSY3	involved_in	GO:0009987	GO:0016117	carotenoid biosynthetic process	ECO:0000314	IDA	PMID:18162592		4577	UniProt		P
+UniProtKB	B0KZ40	PSY3	involved_in	GO:0009058	GO:0016117	carotenoid biosynthetic process	ECO:0000314	IDA	PMID:18162592		4577	UniProt		P
+UniProtKB	B0KZ40	PSY3	involved_in	GO:0006629	GO:0016117	carotenoid biosynthetic process	ECO:0000314	IDA	PMID:18162592		4577	UniProt		P
+UniProtKB	B0KZ40	PSY3	enables	GO:0009987	GO:0046905	15-cis-phytoene synthase activity	ECO:0000314	IDA	PMID:18162592		4577	UniProt		F
+UniProtKB	B0KZ40	PSY3	enables	GO:0009058	GO:0046905	15-cis-phytoene synthase activity	ECO:0000314	IDA	PMID:18162592		4577	UniProt		F
+UniProtKB	B0KZ40	PSY3	enables	GO:0006629	GO:0046905	15-cis-phytoene synthase activity	ECO:0000314	IDA	PMID:18162592		4577	UniProt		F
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009605	GO:0080027	response to herbivore	ECO:0000270	IEP	PMID:29151152		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009607	GO:0080027	response to herbivore	ECO:0000270	IEP	PMID:29151152		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009605	GO:0080027	response to herbivore	ECO:0000270	IEP	PMID:18296628		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009607	GO:0080027	response to herbivore	ECO:0000270	IEP	PMID:18296628		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009987	GO:0051762	sesquiterpene biosynthetic process	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009058	GO:0051762	sesquiterpene biosynthetic process	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0006629	GO:0051762	sesquiterpene biosynthetic process	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009987	GO:0045339	farnesyl diphosphate catabolic process	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009056	GO:0045339	farnesyl diphosphate catabolic process	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0006629	GO:0045339	farnesyl diphosphate catabolic process	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009987	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18296628		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009058	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18296628		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0006629	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18296628		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009605	GO:0009625	response to insect	ECO:0000270	IEP	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009607	GO:0009625	response to insect	ECO:0000270	IEP	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009987	GO:1901937	beta-caryophyllene biosynthetic process	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009058	GO:1901937	beta-caryophyllene biosynthetic process	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0006629	GO:1901937	beta-caryophyllene biosynthetic process	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009605	GO:0002213	defense response to insect	ECO:0000314	IDA	PMID:29151152		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009607	GO:0002213	defense response to insect	ECO:0000314	IDA	PMID:29151152		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0006950	GO:0002213	defense response to insect	ECO:0000314	IDA	PMID:29151152		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009605	GO:0002213	defense response to insect	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0009607	GO:0002213	defense response to insect	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B2C4D0	TPS23	involved_in	GO:0006950	GO:0002213	defense response to insect	ECO:0000314	IDA	PMID:28428873		4577	UniProt		P
+UniProtKB	B4F8I5	COAC2	enables	GO:0009987	GO:0015228	coenzyme A transmembrane transporter activity	ECO:0000316	IGI	PMID:23590975	UniProtKB:P38702	4577	UniProt		F
+UniProtKB	B4F8I5	COAC2	enables	GO:0006810	GO:0015228	coenzyme A transmembrane transporter activity	ECO:0000316	IGI	PMID:23590975	UniProtKB:P38702	4577	UniProt		F
+UniProtKB	B4F8I5	COAC2	involved_in	GO:0009987	GO:1990559	mitochondrial coenzyme A transmembrane transport	ECO:0000316	IGI	PMID:23590975	UniProtKB:P38702	4577	UniProt		P
+UniProtKB	B4F8I5	COAC2	involved_in	GO:0006810	GO:1990559	mitochondrial coenzyme A transmembrane transport	ECO:0000316	IGI	PMID:23590975	UniProtKB:P38702	4577	UniProt		P
+UniProtKB	B4F9A4	DMAS1	involved_in	GO:0009987	GO:0019290	siderophore biosynthetic process	ECO:0000314	IDA	PMID:16926158		4577	UniProt		P
+UniProtKB	B4F9A4	DMAS1	involved_in	GO:0009058	GO:0019290	siderophore biosynthetic process	ECO:0000314	IDA	PMID:16926158		4577	UniProt		P
+UniProtKB	B4F9A4	DMAS1	involved_in	GO:0019748	GO:0019290	siderophore biosynthetic process	ECO:0000314	IDA	PMID:16926158		4577	UniProt		P
+UniProtKB	B4F9A4	DMAS1	involved_in	GO:0009605	GO:1990641	response to iron ion starvation	ECO:0000270	IEP	PMID:16926158		4577	UniProt		P
+UniProtKB	B4F9A4	DMAS1	involved_in	GO:0006950	GO:1990641	response to iron ion starvation	ECO:0000270	IEP	PMID:16926158		4577	UniProt		P
+UniProtKB	B4FIJ0	GRMZM2G118515	involved_in	GO:0009987	GO:0030974	thiamine pyrophosphate transmembrane transport	ECO:0000315	IMP	PMID:22426856		4577	CACAO		P
+UniProtKB	B4FIJ0	GRMZM2G118515	involved_in	GO:0006810	GO:0030974	thiamine pyrophosphate transmembrane transport	ECO:0000315	IMP	PMID:22426856		4577	CACAO		P
+UniProtKB	B4FIJ0	GRMZM2G118515	involved_in	GO:0009987	GO:0030974	thiamine pyrophosphate transmembrane transport	ECO:0000314	IDA	PMID:22426856		4577	UniProt		P
+UniProtKB	B4FIJ0	GRMZM2G118515	involved_in	GO:0006810	GO:0030974	thiamine pyrophosphate transmembrane transport	ECO:0000314	IDA	PMID:22426856		4577	UniProt		P
+UniProtKB	B4FIJ0	GRMZM2G118515	enables	GO:0009987	GO:0090422	thiamine pyrophosphate transmembrane transporter activity	ECO:0000314	IDA	PMID:22426856		4577	UniProt		F
+UniProtKB	B4FIJ0	GRMZM2G118515	enables	GO:0006810	GO:0090422	thiamine pyrophosphate transmembrane transporter activity	ECO:0000314	IDA	PMID:22426856		4577	UniProt		F
+UniProtKB	B4FK49	ndpk1	involved_in	GO:0009058	GO:0009142	nucleoside triphosphate biosynthetic process	ECO:0000314	IDA	PMID:25679041		4577	UniProt		P
+UniProtKB	B4FK49	ndpk1	involved_in	GO:0006139	GO:0009142	nucleoside triphosphate biosynthetic process	ECO:0000314	IDA	PMID:25679041		4577	UniProt		P
+UniProtKB	B4FK49	ndpk1	involved_in	GO:0016043	GO:0034214	protein hexamerization	ECO:0000314	IDA	PMID:25679041		4577	UniProt		P
+UniProtKB	B4FNX4	MYB31	involved_in	GO:0006950	GO:0009611	response to wounding	ECO:0000270	IEP	PMID:16941210		4577	UniProt		P
+UniProtKB	B4FSG1	PSA3	involved_in	GO:0015979	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:28522455		4577	UniProt		P
+UniProtKB	B4FSG1	PSA3	involved_in	GO:0006091	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:28522455		4577	UniProt		P
+UniProtKB	B4FSG1	PSA3	involved_in	GO:0016043	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:28522455		4577	UniProt		P
+UniProtKB	B4FTR7	TAB2	involved_in	GO:0015979	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:25725436		4577	UniProt		P
+UniProtKB	B4FTR7	TAB2	involved_in	GO:0006091	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:25725436		4577	UniProt		P
+UniProtKB	B4FTR7	TAB2	involved_in	GO:0016043	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:25725436		4577	UniProt		P
+UniProtKB	B4FTR7	TAB2	involved_in	GO:0016043	GO:0009658	chloroplast organization	ECO:0000315	IMP	PMID:25725436		4577	UniProt		P
+UniProtKB	B4FUP5	CM2	involved_in	GO:0009987	GO:0046417	chorismate metabolic process	ECO:0000314	IDA	PMID:21976020		4577	UniProt		P
+UniProtKB	B4FUP5	CM2	involved_in	GO:0008152	GO:0046417	chorismate metabolic process	ECO:0000314	IDA	PMID:21976020		4577	UniProt		P
+UniProtKB	B4FVP3	CYP71Z18	involved_in	GO:0009987	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:26471326		4577	UniProt		P
+UniProtKB	B4FVP3	CYP71Z18	involved_in	GO:0009058	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:26471326		4577	UniProt		P
+UniProtKB	B4FVP3	CYP71Z18	involved_in	GO:0019748	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:26471326		4577	UniProt		P
+UniProtKB	B4FVP3	CYP71Z18	involved_in	GO:0006629	GO:0051502	diterpene phytoalexin biosynthetic process	ECO:0000314	IDA	PMID:26471326		4577	UniProt		P
+UniProtKB	B4FZ87	ACHE	involved_in	GO:0009056	GO:0006581	acetylcholine catabolic process	ECO:0000314	IDA	PMID:15980188		4577	UniProt		P
+UniProtKB	B6TGN4	MTERF4	involved_in	GO:0009987	GO:0042254	ribosome biogenesis	ECO:0000315	IMP	PMID:24500208		4577	UniProt		P
+UniProtKB	B6TGN4	MTERF4	involved_in	GO:0009058	GO:0008380	RNA splicing	ECO:0000315	IMP	PMID:24500208		4577	UniProt		P
+UniProtKB	B6TGN4	MTERF4	involved_in	GO:0006139	GO:0008380	RNA splicing	ECO:0000315	IMP	PMID:24500208		4577	UniProt		P
+UniProtKB	B6TTV8	WTF1	involved_in	GO:0009058	GO:0008380	RNA splicing	ECO:0000315	IMP	PMID:19251672		4577	UniProt		P
+UniProtKB	B6TTV8	WTF1	involved_in	GO:0006139	GO:0008380	RNA splicing	ECO:0000315	IMP	PMID:19251672		4577	UniProt		P
+UniProtKB	C0HFE5	ORRM1	involved_in	GO:0006139	GO:0016554	cytidine to uridine editing	ECO:0000315	IMP	PMID:23487777		4577	UniProt		P
+UniProtKB	C0HFE5	ORRM1	involved_in	GO:0006139	GO:1900871	chloroplast mRNA modification	ECO:0000315	IMP	PMID:23487777		4577	UniProt		P
+UniProtKB	C0P9J6	AMADH1A	involved_in	GO:0009987	GO:0110095	cellular detoxification of aldehyde	ECO:0000314	IDA	PMID:23408433		4577	UniProt		P
+UniProtKB	C0P9J6	AMADH1A	involved_in	GO:0042221	GO:0110095	cellular detoxification of aldehyde	ECO:0000314	IDA	PMID:23408433		4577	UniProt		P
+UniProtKB	C0PEY7	PYG7	involved_in	GO:0015979	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:28522455		4577	UniProt		P
+UniProtKB	C0PEY7	PYG7	involved_in	GO:0006091	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:28522455		4577	UniProt		P
+UniProtKB	C0PEY7	PYG7	involved_in	GO:0016043	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:28522455		4577	UniProt		P
+UniProtKB	C0RWW9	AM1	involved_in	GO:0007049	GO:0051321	meiotic cell cycle	ECO:0000315	IMP	PMID:19204280		4577	UniProt		P
+UniProtKB	C0RWW9	AM1	involved_in	GO:0000003	GO:0051321	meiotic cell cycle	ECO:0000315	IMP	PMID:19204280		4577	UniProt		P
+UniProtKB	C4IZI7	TAC1	involved_in	GO:0007275	GO:0060771	phyllotactic patterning	ECO:0000315	IMP	PMID:21687735		4577	UniProt		P
+UniProtKB	C4IZI7	TAC1	involved_in	GO:0048856	GO:0001763	morphogenesis of a branching structure	ECO:0000315	IMP	PMID:21687735		4577	UniProt		P
+UniProtKB	C6KEM4	AMADH2	involved_in	GO:0009987	GO:0110095	cellular detoxification of aldehyde	ECO:0000314	IDA	PMID:23408433		4577	UniProt		P
+UniProtKB	C6KEM4	AMADH2	involved_in	GO:0042221	GO:0110095	cellular detoxification of aldehyde	ECO:0000314	IDA	PMID:23408433		4577	UniProt		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0042221	GO:0046688	response to copper ion	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0042221	GO:0042542	response to hydrogen peroxide	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0006950	GO:0042542	response to hydrogen peroxide	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0006950	GO:0009611	response to wounding	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009605	GO:0009617	response to bacterium	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009607	GO:0009617	response to bacterium	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009605	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009607	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009416	GO:0009646	response to absence of light	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009628	GO:0009651	response to salt stress	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0006950	GO:0009651	response to salt stress	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009719	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0042221	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009719	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0042221	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	NOT|involved_in	GO:0009719	GO:0009739	response to gibberellin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	NOT|involved_in	GO:0042221	GO:0009739	response to gibberellin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0042221	GO:0009751	response to salicylic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009719	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0042221	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19682768		4577	AgBase		P
+UniProtKB	D4HR93	PR10.1	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19682768		4577	AgBase		P
+UniProtKB	G1AQA5	gt1	involved_in	GO:0009908	GO:0048450	floral organ structural organization	ECO:0000315	IMP	PMID:21808030		381124	CACAO		P
+UniProtKB	G5DDC2	AMADH1B	involved_in	GO:0009987	GO:0110095	cellular detoxification of aldehyde	ECO:0000314	IDA	PMID:23408433		4577	UniProt		P
+UniProtKB	G5DDC2	AMADH1B	involved_in	GO:0042221	GO:0110095	cellular detoxification of aldehyde	ECO:0000314	IDA	PMID:23408433		4577	UniProt		P
+UniProtKB	I1VZH2	PPR8522	involved_in	GO:0009791	GO:0009793	embryo development ending in seed dormancy	ECO:0000315	IMP	PMID:22945943		4577	CACAO		P
+UniProtKB	I1VZH2	PPR8522	involved_in	GO:0009790	GO:0009793	embryo development ending in seed dormancy	ECO:0000315	IMP	PMID:22945943		4577	CACAO		P
+UniProtKB	I1VZH2	PPR8522	involved_in	GO:0000003	GO:0009793	embryo development ending in seed dormancy	ECO:0000315	IMP	PMID:22945943		4577	CACAO		P
+UniProtKB	K7UTH7	ERA1	involved_in	GO:0009987	GO:0042254	ribosome biogenesis	ECO:0000315	IMP	PMID:25725436		4577	UniProt		P
+UniProtKB	K7UTH7	ERA1	involved_in	GO:0009058	GO:0006364	rRNA processing	ECO:0000315	IMP	PMID:25725436		4577	UniProt		P
+UniProtKB	K7UTH7	ERA1	involved_in	GO:0006139	GO:0006364	rRNA processing	ECO:0000315	IMP	PMID:25725436		4577	UniProt		P
+UniProtKB	K7VCB9	THIM	involved_in	GO:0009058	GO:0036172	thiamine salvage	ECO:0000314	IDA	PMID:23816351		4577	UniProt		P
+UniProtKB	K7VCB9	THIM	involved_in	GO:0006139	GO:0036172	thiamine salvage	ECO:0000314	IDA	PMID:23816351		4577	UniProt		P
+UniProtKB	K7VCB9	THIM	involved_in	GO:0009987	GO:0009228	thiamine biosynthetic process	ECO:0000314	IDA	PMID:23816351		4577	UniProt		P
+UniProtKB	K7VCB9	THIM	involved_in	GO:0009058	GO:0009228	thiamine biosynthetic process	ECO:0000314	IDA	PMID:23816351		4577	UniProt		P
+UniProtKB	K7VLR4	APT1	involved_in	GO:0009856	GO:0048868	pollen tube development	ECO:0000315	IMP	PMID:16299389		4577	UniProt		P
+UniProtKB	K7VLR4	APT1	involved_in	GO:0048856	GO:0048868	pollen tube development	ECO:0000315	IMP	PMID:16299389		4577	UniProt		P
+UniProtKB	K7VYZ9	COAC1	enables	GO:0009987	GO:0015228	coenzyme A transmembrane transporter activity	ECO:0000316	IGI	PMID:23590975	UniProtKB:P38702	4577	UniProt		F
+UniProtKB	K7VYZ9	COAC1	enables	GO:0006810	GO:0015228	coenzyme A transmembrane transporter activity	ECO:0000316	IGI	PMID:23590975	UniProtKB:P38702	4577	UniProt		F
+UniProtKB	K7VYZ9	COAC1	involved_in	GO:0009987	GO:1990559	mitochondrial coenzyme A transmembrane transport	ECO:0000316	IGI	PMID:23590975	UniProtKB:P38702	4577	UniProt		P
+UniProtKB	K7VYZ9	COAC1	involved_in	GO:0006810	GO:1990559	mitochondrial coenzyme A transmembrane transport	ECO:0000316	IGI	PMID:23590975	UniProtKB:P38702	4577	UniProt		P
+UniProtKB	K7WIZ6	PYRR	involved_in	GO:0008152	GO:1901135	carbohydrate derivative metabolic process	ECO:0000314	IDA	PMID:25431972		4577	UniProt		P
+UniProtKB	O22637	SU1	involved_in	GO:0009987	GO:0010021	amylopectin biosynthetic process	ECO:0000315	IMP	PMID:7773016		4577	UniProt		P
+UniProtKB	O22637	SU1	involved_in	GO:0009058	GO:0010021	amylopectin biosynthetic process	ECO:0000315	IMP	PMID:7773016		4577	UniProt		P
+UniProtKB	O22637	SU1	involved_in	GO:0009987	GO:0010021	amylopectin biosynthetic process	ECO:0000315	IMP	PMID:9625695		4577	UniProt		P
+UniProtKB	O22637	SU1	involved_in	GO:0009058	GO:0010021	amylopectin biosynthetic process	ECO:0000315	IMP	PMID:9625695		4577	UniProt		P
+UniProtKB	O22655	PRO4	involved_in	GO:0009987	GO:0007097	nuclear migration	ECO:0000314	IDA	PMID:9634586		4577	AgBase		P
+UniProtKB	O22655	PRO4	involved_in	GO:0006810	GO:0007097	nuclear migration	ECO:0000314	IDA	PMID:9634586		4577	AgBase		P
+UniProtKB	O22655	PRO4	involved_in	GO:0016043	GO:0042989	sequestering of actin monomers	ECO:0000314	IDA	PMID:10760246		4577	AgBase		P
+UniProtKB	O23813	SIR	involved_in	GO:0016043	GO:1900160	plastid chromosome packaging	ECO:0000314	IDA	PMID:11997391		4577	CAFA		P
+UniProtKB	O23887	AO1	involved_in	GO:0009987	GO:0009851	auxin biosynthetic process	ECO:0000314	IDA	PMID:12226218		4577	UniProt		P
+UniProtKB	O23887	AO1	involved_in	GO:0009058	GO:0009851	auxin biosynthetic process	ECO:0000314	IDA	PMID:12226218		4577	UniProt		P
+UniProtKB	O24413	RPP3A	involved_in	GO:0009628	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:9276949		4577	AgBase		P
+UniProtKB	O24413	RPP3A	involved_in	GO:0006950	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:9276949		4577	AgBase		P
+UniProtKB	O24562	CAD	involved_in	GO:0009987	GO:0009809	lignin biosynthetic process	ECO:0000315	IMP	PMID:9675900		4577	UniProt		P
+UniProtKB	O24562	CAD	involved_in	GO:0009058	GO:0009809	lignin biosynthetic process	ECO:0000315	IMP	PMID:9675900		4577	UniProt		P
+UniProtKB	O24562	CAD	involved_in	GO:0019748	GO:0009809	lignin biosynthetic process	ECO:0000315	IMP	PMID:9675900		4577	UniProt		P
+UniProtKB	O24563	CCR	involved_in	GO:0009987	GO:0009809	lignin biosynthetic process	ECO:0000315	IMP	PMID:21493812		4577	CACAO		P
+UniProtKB	O24563	CCR	involved_in	GO:0009058	GO:0009809	lignin biosynthetic process	ECO:0000315	IMP	PMID:21493812		4577	CACAO		P
+UniProtKB	O24563	CCR	involved_in	GO:0019748	GO:0009809	lignin biosynthetic process	ECO:0000315	IMP	PMID:21493812		4577	CACAO		P
+UniProtKB	O24573	RP-P0	involved_in	GO:0009628	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:9276949		4577	AgBase		P
+UniProtKB	O24573	RP-P0	involved_in	GO:0006950	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:9276949		4577	AgBase		P
+UniProtKB	O48950	TATB	enables	GO:0009987	GO:0009977	proton motive force dependent protein transmembrane transporter activity	ECO:0000314	IDA	PMID:9367960		4577	UniProt		F
+UniProtKB	O48950	TATB	enables	GO:0006810	GO:0009977	proton motive force dependent protein transmembrane transporter activity	ECO:0000314	IDA	PMID:9367960		4577	UniProt		F
+UniProtKB	O48950	TATB	enables	GO:0009987	GO:0009977	proton motive force dependent protein transmembrane transporter activity	ECO:0000314	IDA	PMID:10402459		4577	UniProt		F
+UniProtKB	O48950	TATB	enables	GO:0006810	GO:0009977	proton motive force dependent protein transmembrane transporter activity	ECO:0000314	IDA	PMID:10402459		4577	UniProt		F
+UniProtKB	O48950	TATB	involved_in	GO:0009987	GO:0045038	protein import into chloroplast thylakoid membrane	ECO:0000314	IDA	PMID:10402459		4577	UniProt		P
+UniProtKB	O48950	TATB	involved_in	GO:0006810	GO:0045038	protein import into chloroplast thylakoid membrane	ECO:0000314	IDA	PMID:10402459		4577	UniProt		P
+UniProtKB	O48950	TATB	involved_in	GO:0009987	GO:0043953	protein transport by the Tat complex	ECO:0000314	IDA	PMID:9367960		4577	UniProt		P
+UniProtKB	O48950	TATB	involved_in	GO:0006810	GO:0043953	protein transport by the Tat complex	ECO:0000314	IDA	PMID:9367960		4577	UniProt		P
+UniProtKB	O48950	TATB	involved_in	GO:0009987	GO:0043953	protein transport by the Tat complex	ECO:0000314	IDA	PMID:10402459		4577	UniProt		P
+UniProtKB	O48950	TATB	involved_in	GO:0006810	GO:0043953	protein transport by the Tat complex	ECO:0000314	IDA	PMID:10402459		4577	UniProt		P
+UniProtKB	O48950	TATB	involved_in	GO:0009987	GO:0045038	protein import into chloroplast thylakoid membrane	ECO:0000315	IMP	PMID:9367960		4577	UniProt		P
+UniProtKB	O48950	TATB	involved_in	GO:0006810	GO:0045038	protein import into chloroplast thylakoid membrane	ECO:0000315	IMP	PMID:9367960		4577	UniProt		P
+UniProtKB	O49010	SBP1	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:9501141		4577	AgBase		P
+UniProtKB	O49010	SBP1	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:9501141		4577	AgBase		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:16668492		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:16668492		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:16668492		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:1359642		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:1359642		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:1359642		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009987	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009056	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0019748	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0042221	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:9465077		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009987	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:16668492		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009056	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:16668492		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0019748	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:16668492		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0042221	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:16668492		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009987	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:1359642		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0009056	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:1359642		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0019748	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:1359642		4577	UniProt		P
+UniProtKB	O49163	Hm1	involved_in	GO:0042221	GO:0009407	toxin catabolic process	ECO:0000314	IDA	PMID:1359642		4577	UniProt		P
+UniProtKB	O64409	gor1	enables	GO:0009987	GO:0004362	glutathione-disulfide reductase (NADP) activity	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		F
+UniProtKB	O64409	gor1	enables	GO:0042221	GO:0004362	glutathione-disulfide reductase (NADP) activity	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		F
+UniProtKB	O64409	gor1	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		P
+UniProtKB	O64409	gor1	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		P
+UniProtKB	O64411	MPAO1	involved_in	GO:0009056	GO:0006598	polyamine catabolic process	ECO:0000314	IDA	PMID:16331971		4577	UniProt		P
+UniProtKB	O64960	hsp22	involved_in	GO:0009628	GO:0009408	response to heat	ECO:0000314	IDA	PMID:9501143		4577	AgBase		P
+UniProtKB	O64960	hsp22	involved_in	GO:0006950	GO:0009408	response to heat	ECO:0000314	IDA	PMID:9501143		4577	AgBase		P
+UniProtKB	O64964	TIP1-1	enables	GO:0009987	GO:0015250	water channel activity	ECO:0000314	IDA	PMID:9701570		4577	AgBase		F
+UniProtKB	O64964	TIP1-1	enables	GO:0006810	GO:0015250	water channel activity	ECO:0000314	IDA	PMID:9701570		4577	AgBase		F
+UniProtKB	O64964	TIP1-1	involved_in	GO:0007275	GO:0048366	leaf development	ECO:0000270	IEP	PMID:9701570		4577	AgBase		P
+UniProtKB	O64964	TIP1-1	involved_in	GO:0048856	GO:0009826	unidimensional cell growth	ECO:0000270	IEP	PMID:9701570		4577	AgBase		P
+UniProtKB	O64964	TIP1-1	involved_in	GO:0016049	GO:0009826	unidimensional cell growth	ECO:0000270	IEP	PMID:9701570		4577	AgBase		P
+UniProtKB	O64964	TIP1-1	involved_in	GO:0006810	GO:0006833	water transport	ECO:0000315	IMP	PMID:9701570		4577	AgBase		P
+UniProtKB	O81481	eIF4E1	involved_in	GO:0009719	GO:0009723	response to ethylene	ECO:0000270	IEP	PMID:23474695		4577	UniProt		P
+UniProtKB	O81481	eIF4E1	involved_in	GO:0042221	GO:0009723	response to ethylene	ECO:0000270	IEP	PMID:23474695		4577	UniProt		P
+UniProtKB	O81481	eIF4E1	involved_in	GO:0042221	GO:0009751	response to salicylic acid	ECO:0000270	IEP	PMID:23474695		4577	UniProt		P
+UniProtKB	O81481	eIF4E1	involved_in	GO:0009719	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:23474695		4577	UniProt		P
+UniProtKB	O81481	eIF4E1	involved_in	GO:0042221	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:23474695		4577	UniProt		P
+UniProtKB	O81481	eIF4E1	involved_in	GO:0009628	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:10417723		4577	AgBase		P
+UniProtKB	O81481	eIF4E1	involved_in	GO:0006950	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:10417723		4577	AgBase		P
+UniProtKB	O81482	O81482	NOT|involved_in	GO:0009628	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:10417723		4577	AgBase		P
+UniProtKB	O81482	O81482	NOT|involved_in	GO:0006950	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:10417723		4577	AgBase		P
+UniProtKB	O82423	541677	involved_in	GO:0065009	GO:0043086	negative regulation of catalytic activity	ECO:0000314	IDA	PMID:9756901		4577	AgBase		P
+UniProtKB	O82424	O82424	involved_in	GO:0065009	GO:0043086	negative regulation of catalytic activity	ECO:0000314	IDA	PMID:9756901		4577	AgBase		P
+UniProtKB	P04712	SH-1	involved_in	GO:0009628	GO:0034059	response to anoxia	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	P04712	SH-1	involved_in	GO:0006950	GO:0034059	response to anoxia	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	P04907	GST3	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:3532034		4577	AgBase		P
+UniProtKB	P04907	GST3	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:3532034		4577	AgBase		P
+UniProtKB	P08440	P08440	involved_in	GO:0009628	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:1664617		4577	AgBase		P
+UniProtKB	P08440	P08440	involved_in	GO:0006950	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:1664617		4577	AgBase		P
+UniProtKB	P08735	GAPC1	NOT|involved_in	GO:0009416	GO:0009416	response to light stimulus	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	P09233	SODA.4	involved_in	GO:0042221	GO:0009410	response to xenobiotic stimulus	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P09233	SODA.4	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:1516816		4577	AgBase		P
+UniProtKB	P09233	SODA.4	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:1516816		4577	AgBase		P
+UniProtKB	P09233	SODA.4	NOT|involved_in	GO:0009719	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P09233	SODA.4	NOT|involved_in	GO:0042221	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P09233	SODA.4	enables	GO:0009987	GO:0004784	superoxide dismutase activity	ECO:0000314	IDA	PMID:1516816		4577	AgBase		F
+UniProtKB	P09233	SODA.4	enables	GO:0042221	GO:0004784	superoxide dismutase activity	ECO:0000314	IDA	PMID:1516816		4577	AgBase		F
+UniProtKB	P09233	SODA.4	enables	GO:0008152	GO:0004784	superoxide dismutase activity	ECO:0000314	IDA	PMID:1516816		4577	AgBase		F
+UniProtKB	P09233	SODA.4	enables	GO:0006950	GO:0004784	superoxide dismutase activity	ECO:0000314	IDA	PMID:1516816		4577	AgBase		F
+UniProtKB	P09233	SODA.4	NOT|involved_in	GO:0009628	GO:0006970	response to osmotic stress	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P09233	SODA.4	NOT|involved_in	GO:0006950	GO:0006970	response to osmotic stress	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P09233	SODA.4	involved_in	GO:0042221	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P09233	SODA.4	involved_in	GO:0006950	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P09315	GAPA	involved_in	GO:0009416	GO:0009416	response to light stimulus	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	P12365	CAT2	enables	GO:0009987	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17314079		4577	AgBase		F
+UniProtKB	P12365	CAT2	enables	GO:0042221	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17314079		4577	AgBase		F
+UniProtKB	P12365	CAT2	enables	GO:0009987	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17555277		4577	AgBase		F
+UniProtKB	P12365	CAT2	enables	GO:0042221	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17555277		4577	AgBase		F
+UniProtKB	P12365	CAT2	enables	GO:0009987	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:11903976		4577	AgBase		F
+UniProtKB	P12365	CAT2	enables	GO:0042221	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:11903976		4577	AgBase		F
+UniProtKB	P12365	CAT2	involved_in	GO:0042221	GO:0009410	response to xenobiotic stimulus	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P12365	CAT2	involved_in	GO:0009719	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P12365	CAT2	involved_in	GO:0042221	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P12365	CAT2	involved_in	GO:0042221	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P12365	CAT2	involved_in	GO:0006950	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P12365	CAT2	involved_in	GO:0042221	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P12365	CAT2	involved_in	GO:0006950	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P12653	GST1	involved_in	GO:0042221	GO:0009410	response to xenobiotic stimulus	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P12653	GST1	involved_in	GO:0042221	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P12653	GST1	involved_in	GO:0006950	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P17571	NNR1	involved_in	GO:0009987	GO:0042128	nitrate assimilation	ECO:0000314	IDA	PMID:2189408		4577	UniProt		P
+UniProtKB	P17571	NNR1	involved_in	GO:0008152	GO:0042128	nitrate assimilation	ECO:0000314	IDA	PMID:2189408		4577	UniProt		P
+UniProtKB	P17571	NNR1	involved_in	GO:0009987	GO:0042128	nitrate assimilation	ECO:0000315	IMP	PMID:8188655		4577	UniProt		P
+UniProtKB	P17571	NNR1	involved_in	GO:0008152	GO:0042128	nitrate assimilation	ECO:0000315	IMP	PMID:8188655		4577	UniProt		P
+UniProtKB	P18122	CAT1	enables	GO:0009987	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17314079		4577	AgBase		F
+UniProtKB	P18122	CAT1	enables	GO:0042221	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17314079		4577	AgBase		F
+UniProtKB	P18122	CAT1	enables	GO:0009987	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17555277		4577	AgBase		F
+UniProtKB	P18122	CAT1	enables	GO:0042221	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17555277		4577	AgBase		F
+UniProtKB	P18122	CAT1	enables	GO:0009987	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:11903976		4577	AgBase		F
+UniProtKB	P18122	CAT1	enables	GO:0042221	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:11903976		4577	AgBase		F
+UniProtKB	P18122	CAT1	enables	GO:0009987	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:12223775		4577	AgBase		F
+UniProtKB	P18122	CAT1	enables	GO:0042221	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:12223775		4577	AgBase		F
+UniProtKB	P18122	CAT1	involved_in	GO:0042221	GO:0009410	response to xenobiotic stimulus	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P18122	CAT1	involved_in	GO:0009719	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P18122	CAT1	involved_in	GO:0042221	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P18122	CAT1	involved_in	GO:0006950	GO:0006979	response to oxidative stress	ECO:0000314	IDA	PMID:12223775		4577	AgBase		P
+UniProtKB	P18122	CAT1	involved_in	GO:0042221	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P18122	CAT1	involved_in	GO:0006950	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P18122	CAT1	involved_in	GO:0042221	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P18122	CAT1	involved_in	GO:0006950	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P18122	CAT1	involved_in	GO:0009628	GO:0009631	cold acclimation	ECO:0000315	IMP	PMID:12223775		4577	AgBase		P
+UniProtKB	P18122	CAT1	involved_in	GO:0006950	GO:0009631	cold acclimation	ECO:0000315	IMP	PMID:12223775		4577	AgBase		P
+UniProtKB	P18123	CAT3	enables	GO:0009987	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17314079		4577	AgBase		F
+UniProtKB	P18123	CAT3	enables	GO:0042221	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17314079		4577	AgBase		F
+UniProtKB	P18123	CAT3	enables	GO:0009987	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17555277		4577	AgBase		F
+UniProtKB	P18123	CAT3	enables	GO:0042221	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:17555277		4577	AgBase		F
+UniProtKB	P18123	CAT3	enables	GO:0009987	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:11903976		4577	AgBase		F
+UniProtKB	P18123	CAT3	enables	GO:0042221	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:11903976		4577	AgBase		F
+UniProtKB	P18123	CAT3	enables	GO:0009987	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:12223775		4577	AgBase		F
+UniProtKB	P18123	CAT3	enables	GO:0042221	GO:0004096	catalase activity	ECO:0000314	IDA	PMID:12223775		4577	AgBase		F
+UniProtKB	P18123	CAT3	involved_in	GO:0042221	GO:0009410	response to xenobiotic stimulus	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P18123	CAT3	involved_in	GO:0009719	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P18123	CAT3	involved_in	GO:0042221	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P18123	CAT3	involved_in	GO:0006950	GO:0006979	response to oxidative stress	ECO:0000314	IDA	PMID:12223775		4577	AgBase		P
+UniProtKB	P18123	CAT3	involved_in	GO:0042221	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P18123	CAT3	involved_in	GO:0006950	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P18123	CAT3	involved_in	GO:0042221	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P18123	CAT3	involved_in	GO:0006950	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:11903976		4577	AgBase		P
+UniProtKB	P18123	CAT3	involved_in	GO:0009628	GO:0009631	cold acclimation	ECO:0000315	IMP	PMID:12223775		4577	AgBase		P
+UniProtKB	P18123	CAT3	involved_in	GO:0006950	GO:0009631	cold acclimation	ECO:0000315	IMP	PMID:12223775		4577	AgBase		P
+UniProtKB	P24345	KN-1	involved_in	GO:0009987	GO:0010497	plasmodesmata-mediated intercellular transport	ECO:0000315	IMP	PMID:17965274		4577	UniProt		P
+UniProtKB	P24345	KN-1	involved_in	GO:0006810	GO:0010497	plasmodesmata-mediated intercellular transport	ECO:0000315	IMP	PMID:17965274		4577	UniProt		P
+UniProtKB	P27787	FDX1	enables	GO:0006091	GO:0009055	electron transfer activity	ECO:0000314	IDA	PMID:11724563		4577	AgBase		F
+UniProtKB	P27787	FDX1	involved_in	GO:0006091	GO:0022900	electron transport chain	ECO:0000314	IDA	PMID:11724563		4577	AgBase		P
+UniProtKB	P27787	FDX1	involved_in	GO:0009416	GO:0009416	response to light stimulus	ECO:0000270	IEP	PMID:16668188		4577	AgBase		P
+UniProtKB	P27788	FDX3	enables	GO:0006091	GO:0009055	electron transfer activity	ECO:0000314	IDA	PMID:11724563		4577	AgBase		F
+UniProtKB	P27788	FDX3	involved_in	GO:0006091	GO:0022900	electron transport chain	ECO:0000314	IDA	PMID:11724563		4577	AgBase		P
+UniProtKB	P27788	FDX3	NOT|involved_in	GO:0009416	GO:0009416	response to light stimulus	ECO:0000270	IEP	PMID:16668188		4577	AgBase		P
+UniProtKB	P27789	FDX5	involved_in	GO:0009416	GO:0009416	response to light stimulus	ECO:0000270	IEP	PMID:16668188		4577	AgBase		P
+UniProtKB	P29022	CHIA	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:1551872		4577	UniProt		P
+UniProtKB	P29022	CHIA	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:1551872		4577	UniProt		P
+UniProtKB	P29022	CHIA	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:1551872		4577	UniProt		P
+UniProtKB	P29022	CHIA	involved_in	GO:0008152	GO:0006040	amino sugar metabolic process	ECO:0000314	IDA	PMID:1740436		4577	UniProt		P
+UniProtKB	P29022	CHIA	involved_in	GO:0008152	GO:0006040	amino sugar metabolic process	ECO:0000314	IDA	PMID:28328103		4577	UniProt		P
+UniProtKB	P29022	CHIA	involved_in	GO:0008152	GO:0006040	amino sugar metabolic process	ECO:0000314	IDA	PMID:24616181		4577	UniProt		P
+UniProtKB	P29518	BT1	involved_in	GO:0009987	GO:0090480	purine nucleotide-sugar transmembrane transport	ECO:0000314	IDA	PMID:17562699		4577	CACAO		P
+UniProtKB	P29518	BT1	involved_in	GO:0006810	GO:0090480	purine nucleotide-sugar transmembrane transport	ECO:0000314	IDA	PMID:17562699		4577	CACAO		P
+UniProtKB	P29518	BT1	involved_in	GO:0006810	GO:0015866	ADP transport	ECO:0000314	IDA	PMID:17562699		4577	CACAO		P
+UniProtKB	P33679	Zlp	acts_upstream_of_or_within_positive_effect	GO:0009605	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:7846159		4577	AgBase		P
+UniProtKB	P33679	Zlp	acts_upstream_of_or_within_positive_effect	GO:0009607	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:7846159		4577	AgBase		P
+UniProtKB	P33679	Zlp	acts_upstream_of_or_within_positive_effect	GO:0006950	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:7846159		4577	AgBase		P
+UniProtKB	P35081	PRO1	involved_in	GO:0007165	GO:0030845	phospholipase C-inhibiting G protein-coupled receptor signaling pathway	ECO:0000314	IDA	PMID:10760246		4577	AgBase		P
+UniProtKB	P35081	PRO1	involved_in	GO:0009987	GO:0007097	nuclear migration	ECO:0000314	IDA	PMID:9634586		4577	AgBase		P
+UniProtKB	P35081	PRO1	involved_in	GO:0006810	GO:0007097	nuclear migration	ECO:0000314	IDA	PMID:9634586		4577	AgBase		P
+UniProtKB	P35081	PRO1	involved_in	GO:0016043	GO:0042989	sequestering of actin monomers	ECO:0000314	IDA	PMID:10760246		4577	AgBase		P
+UniProtKB	P35081	PRO1	involved_in	GO:0016043	GO:0051259	protein complex oligomerization	ECO:0000314	IDA	DOI:10.1046/j.1440-1592.2000.00155.x		4577	UniProt		P
+UniProtKB	P35082	PRO2	involved_in	GO:0009987	GO:0007097	nuclear migration	ECO:0000314	IDA	PMID:9581573		4577	AgBase		P
+UniProtKB	P35082	PRO2	involved_in	GO:0006810	GO:0007097	nuclear migration	ECO:0000314	IDA	PMID:9581573		4577	AgBase		P
+UniProtKB	P35083	PRO3	involved_in	GO:0009987	GO:0007097	nuclear migration	ECO:0000314	IDA	PMID:9581573		4577	AgBase		P
+UniProtKB	P35083	PRO3	involved_in	GO:0006810	GO:0007097	nuclear migration	ECO:0000314	IDA	PMID:9581573		4577	AgBase		P
+UniProtKB	P41978	SODA.1	involved_in	GO:0009719	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P41978	SODA.1	involved_in	GO:0042221	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P41978	SODA.1	involved_in	GO:0009628	GO:0006970	response to osmotic stress	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P41978	SODA.1	involved_in	GO:0006950	GO:0006970	response to osmotic stress	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P41979	SODA.2	involved_in	GO:0009719	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P41979	SODA.2	involved_in	GO:0042221	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P41979	SODA.2	involved_in	GO:0009628	GO:0006970	response to osmotic stress	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P41979	SODA.2	involved_in	GO:0006950	GO:0006970	response to osmotic stress	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P41980	SODA.3	involved_in	GO:0009719	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P41980	SODA.3	involved_in	GO:0042221	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P41980	SODA.3	involved_in	GO:0009628	GO:0006970	response to osmotic stress	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P41980	SODA.3	involved_in	GO:0006950	GO:0006970	response to osmotic stress	ECO:0000270	IEP	PMID:12232316		4577	AgBase		P
+UniProtKB	P42057	POR1	enables	GO:0009987	GO:0008308	voltage-gated monoatomic anion channel activity	ECO:0000314	IDA	PMID:16664537		4577	AgBase		F
+UniProtKB	P42057	POR1	enables	GO:0006810	GO:0008308	voltage-gated monoatomic anion channel activity	ECO:0000314	IDA	PMID:16664537		4577	AgBase		F
+UniProtKB	P42057	POR1	involved_in	GO:0006810	GO:0006820	monoatomic anion transport	ECO:0000314	IDA	PMID:16664537		4577	AgBase		P
+UniProtKB	P46420	GST4	involved_in	GO:0042221	GO:0009410	response to xenobiotic stimulus	ECO:0000314	IDA	PMID:8278534		4577	AgBase		P
+UniProtKB	P46420	GST4	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:8278534		4577	AgBase		P
+UniProtKB	P46420	GST4	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:8278534		4577	AgBase		P
+UniProtKB	P49727	P49727	involved_in	GO:0006091	GO:0009060	aerobic respiration	ECO:0000316	IGI	PMID:1961737	UniProtKB:P08067	4577	AgBase		P
+UniProtKB	P49727	P49727	involved_in	GO:0009628	GO:0009408	response to heat	ECO:0000316	IGI	PMID:1961737	UniProtKB:P08067	4577	AgBase		P
+UniProtKB	P49727	P49727	involved_in	GO:0006950	GO:0009408	response to heat	ECO:0000316	IGI	PMID:1961737	UniProtKB:P08067	4577	AgBase		P
+UniProtKB	P49727	P49727	enables	GO:0006091	GO:0008121	ubiquinol-cytochrome-c reductase activity	ECO:0000316	IGI	PMID:1961737	UniProtKB:P08067	4577	AgBase		F
+UniProtKB	P49727	P49727	enables	GO:0006810	GO:0008121	ubiquinol-cytochrome-c reductase activity	ECO:0000316	IGI	PMID:1961737	UniProtKB:P08067	4577	AgBase		F
+UniProtKB	P52580	IRL	involved_in	GO:0009605	GO:0010438	cellular response to sulfur starvation	ECO:0000270	IEP	PMID:8597660		4577	AgBase		P
+UniProtKB	P52580	IRL	involved_in	GO:0007154	GO:0010438	cellular response to sulfur starvation	ECO:0000270	IEP	PMID:8597660		4577	AgBase		P
+UniProtKB	P52580	IRL	involved_in	GO:0006950	GO:0010438	cellular response to sulfur starvation	ECO:0000270	IEP	PMID:8597660		4577	AgBase		P
+UniProtKB	P93647	LON1	involved_in	GO:0009628	GO:0009408	response to heat	ECO:0000314	IDA	PMID:9620272		4577	AgBase		P
+UniProtKB	P93647	LON1	involved_in	GO:0006950	GO:0009408	response to heat	ECO:0000314	IDA	PMID:9620272		4577	AgBase		P
+UniProtKB	P93647	LON1	involved_in	GO:0006259	GO:0032042	mitochondrial DNA metabolic process	ECO:0000314	IDA	PMID:9620272		4577	AgBase		P
+UniProtKB	P93647	LON1	involved_in	GO:0016043	GO:0032042	mitochondrial DNA metabolic process	ECO:0000314	IDA	PMID:9620272		4577	AgBase		P
+UniProtKB	P93647	LON1	involved_in	GO:0006259	GO:0032042	mitochondrial DNA metabolic process	ECO:0000316	IGI	PMID:9620272	UniProtKB:P36775	4577	AgBase		P
+UniProtKB	P93647	LON1	involved_in	GO:0016043	GO:0032042	mitochondrial DNA metabolic process	ECO:0000316	IGI	PMID:9620272	UniProtKB:P36775	4577	AgBase		P
+UniProtKB	P93800	sod4	involved_in	GO:0042221	GO:0009410	response to xenobiotic stimulus	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P93800	sod4	involved_in	GO:0042221	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P93800	sod4	involved_in	GO:0006950	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P93801	sod4A	involved_in	GO:0042221	GO:0009410	response to xenobiotic stimulus	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P93801	sod4A	involved_in	GO:0042221	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	P93801	sod4A	involved_in	GO:0006950	GO:0000302	response to reactive oxygen species	ECO:0000270	IEP	PMID:17314079		4577	AgBase		P
+UniProtKB	Q06509	COMT	involved_in	GO:0009987	GO:0019438	aromatic compound biosynthetic process	ECO:0000314	IDA	DOI:10.1080/13880200701729745		4577	UniProt		P
+UniProtKB	Q06509	COMT	involved_in	GO:0009058	GO:0019438	aromatic compound biosynthetic process	ECO:0000314	IDA	DOI:10.1080/13880200701729745		4577	UniProt		P
+UniProtKB	Q06509	COMT	involved_in	GO:0006950	GO:0009611	response to wounding	ECO:0000270	IEP	PMID:16941210		4577	UniProt		P
+UniProtKB	Q09054	GAPC2	NOT|involved_in	GO:0009628	GO:0009408	response to heat	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	Q09054	GAPC2	NOT|involved_in	GO:0006950	GO:0009408	response to heat	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	Q09054	GAPC2	NOT|involved_in	GO:0009628	GO:0034059	response to anoxia	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	Q09054	GAPC2	NOT|involved_in	GO:0006950	GO:0034059	response to anoxia	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	Q09054	GAPC2	NOT|involved_in	GO:0009628	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:9037163		4577	AgBase		P
+UniProtKB	Q09054	GAPC2	NOT|involved_in	GO:0006950	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:9037163		4577	AgBase		P
+UniProtKB	Q19KC1	NIP2-1	involved_in	GO:0006810	GO:0015840	urea transport	ECO:0000314	IDA	PMID:22360887		4577	CACAO		P
+UniProtKB	Q1EG72	TPS11	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:28931629		4577	UniProt		P
+UniProtKB	Q1EG72	TPS11	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:28931629		4577	UniProt		P
+UniProtKB	Q1EG72	TPS11	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:28931629		4577	UniProt		P
+UniProtKB	Q1EG72	TPS11	involved_in	GO:0009987	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18524777		4577	UniProt		P
+UniProtKB	Q1EG72	TPS11	involved_in	GO:0009058	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18524777		4577	UniProt		P
+UniProtKB	Q1EG72	TPS11	involved_in	GO:0006629	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18524777		4577	UniProt		P
+UniProtKB	Q1W5S8	RA3	involved_in	GO:0009058	GO:0005992	trehalose biosynthetic process	ECO:0000314	IDA	PMID:16688177		4577	UniProt		P
+UniProtKB	Q1W5S8	RA3	involved_in	GO:0005975	GO:0005992	trehalose biosynthetic process	ECO:0000314	IDA	PMID:16688177		4577	UniProt		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0042221	GO:0046688	response to copper ion	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:18944208		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:18944208		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:18944208		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0042221	GO:0042542	response to hydrogen peroxide	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0006950	GO:0042542	response to hydrogen peroxide	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009628	GO:0009409	response to cold	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0006950	GO:0009409	response to cold	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0006950	GO:0009611	response to wounding	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009605	GO:0009617	response to bacterium	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009607	GO:0009617	response to bacterium	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009605	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:18944208		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009607	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:18944208		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009605	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009607	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009416	GO:0009646	response to absence of light	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009628	GO:0009651	response to salt stress	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0006950	GO:0009651	response to salt stress	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009719	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0042221	GO:0009733	response to auxin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009719	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0042221	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009719	GO:0009739	response to gibberellin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0042221	GO:0009739	response to gibberellin	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0042221	GO:0009751	response to salicylic acid	ECO:0000270	IEP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29SB6	100284195	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19682768		4577	AgBase		P
+UniProtKB	Q29VN1	TPS3	involved_in	GO:0006950	GO:0009611	response to wounding	ECO:0000270	IEP	PMID:26378100		4577	UniProt		P
+UniProtKB	Q29VN2	TPS2	involved_in	GO:0009987	GO:0051762	sesquiterpene biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	Q29VN2	TPS2	involved_in	GO:0009058	GO:0051762	sesquiterpene biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	Q29VN2	TPS2	involved_in	GO:0006629	GO:0051762	sesquiterpene biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	Q29VN2	TPS2	involved_in	GO:0009987	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	Q29VN2	TPS2	involved_in	GO:0009058	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	Q29VN2	TPS2	involved_in	GO:0006629	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	Q29VN2	TPS2	involved_in	GO:0006950	GO:0009611	response to wounding	ECO:0000270	IEP	PMID:27662898		4577	UniProt		P
+UniProtKB	Q29VN2	TPS2	involved_in	GO:0006950	GO:0009611	response to wounding	ECO:0000270	IEP	PMID:26378100		4577	UniProt		P
+UniProtKB	Q29VN2	TPS2	involved_in	GO:0009987	GO:0043693	monoterpene biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	Q29VN2	TPS2	involved_in	GO:0009058	GO:0043693	monoterpene biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	Q29VN2	TPS2	involved_in	GO:0006629	GO:0043693	monoterpene biosynthetic process	ECO:0000314	IDA	PMID:27662898		4577	UniProt		P
+UniProtKB	Q41736	Q41736	enables	GO:0006091	GO:0009055	electron transfer activity	ECO:0000314	IDA	PMID:11724563		4577	AgBase		F
+UniProtKB	Q41736	Q41736	involved_in	GO:0006091	GO:0022900	electron transport chain	ECO:0000314	IDA	PMID:11724563		4577	AgBase		P
+UniProtKB	Q41771	AN1	involved_in	GO:0009987	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:16307364		4577	UniProt		P
+UniProtKB	Q41771	AN1	involved_in	GO:0009058	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:16307364		4577	UniProt		P
+UniProtKB	Q41771	AN1	involved_in	GO:0006629	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:16307364		4577	UniProt		P
+UniProtKB	Q41771	AN1	involved_in	GO:0009987	GO:0009686	gibberellin biosynthetic process	ECO:0000315	IMP	PMID:16307364		4577	UniProt		P
+UniProtKB	Q41771	AN1	involved_in	GO:0009058	GO:0009686	gibberellin biosynthetic process	ECO:0000315	IMP	PMID:16307364		4577	UniProt		P
+UniProtKB	Q41771	AN1	involved_in	GO:0006629	GO:0009686	gibberellin biosynthetic process	ECO:0000315	IMP	PMID:16307364		4577	UniProt		P
+UniProtKB	Q43247	GAPC3	involved_in	GO:0009628	GO:0009408	response to heat	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	Q43247	GAPC3	involved_in	GO:0006950	GO:0009408	response to heat	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	Q43247	GAPC3	NOT|involved_in	GO:0009628	GO:0009408	response to heat	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43247	GAPC3	NOT|involved_in	GO:0006950	GO:0009408	response to heat	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43247	GAPC3	NOT|involved_in	GO:0009628	GO:0009409	response to cold	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43247	GAPC3	NOT|involved_in	GO:0006950	GO:0009409	response to cold	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43247	GAPC3	NOT|involved_in	GO:0009628	GO:0009651	response to salt stress	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43247	GAPC3	NOT|involved_in	GO:0006950	GO:0009651	response to salt stress	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43247	GAPC3	involved_in	GO:0009628	GO:0034059	response to anoxia	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	Q43247	GAPC3	involved_in	GO:0006950	GO:0034059	response to anoxia	ECO:0000270	IEP	PMID:2535522		4577	AgBase		P
+UniProtKB	Q43247	GAPC3	involved_in	GO:0009628	GO:0034059	response to anoxia	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43247	GAPC3	involved_in	GO:0006950	GO:0034059	response to anoxia	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43359	gpc4	NOT|involved_in	GO:0009628	GO:0009408	response to heat	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43359	gpc4	NOT|involved_in	GO:0006950	GO:0009408	response to heat	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43359	gpc4	NOT|involved_in	GO:0009628	GO:0009409	response to cold	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43359	gpc4	NOT|involved_in	GO:0006950	GO:0009409	response to cold	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43359	gpc4	NOT|involved_in	GO:0009628	GO:0009651	response to salt stress	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43359	gpc4	NOT|involved_in	GO:0006950	GO:0009651	response to salt stress	ECO:0000270	IEP	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43359	gpc4	involved_in	GO:0009628	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43359	gpc4	involved_in	GO:0006950	GO:0034059	response to anoxia	ECO:0000314	IDA	PMID:9037163		4577	AgBase		P
+UniProtKB	Q43712	CRT1	involved_in	GO:0019725	GO:0032469	endoplasmic reticulum calcium ion homeostasis	ECO:0000315	IMP	PMID:11457960		4577	AgBase		P
+UniProtKB	Q4QSC8	SGO1	involved_in	GO:0007049	GO:0045144	meiotic sister chromatid segregation	ECO:0000315	IMP	PMID:15916952		4577	UniProt		P
+UniProtKB	Q4QSC8	SGO1	involved_in	GO:0000003	GO:0045144	meiotic sister chromatid segregation	ECO:0000315	IMP	PMID:15916952		4577	UniProt		P
+UniProtKB	Q4QSC8	SGO1	involved_in	GO:0016043	GO:0045144	meiotic sister chromatid segregation	ECO:0000315	IMP	PMID:15916952		4577	UniProt		P
+UniProtKB	Q5EUD4	PDIL5-1	involved_in	GO:0009987	GO:0034976	response to endoplasmic reticulum stress	ECO:0000270	IEP	PMID:15684019		4577	AgBase		P
+UniProtKB	Q5EUD4	PDIL5-1	involved_in	GO:0006950	GO:0034976	response to endoplasmic reticulum stress	ECO:0000270	IEP	PMID:15684019		4577	AgBase		P
+UniProtKB	Q5GA22	MIK	involved_in	GO:0009987	GO:0010264	myo-inositol hexakisphosphate biosynthetic process	ECO:0000315	IMP	PMID:15918884		4577	UniProt		P
+UniProtKB	Q5GA22	MIK	involved_in	GO:0009058	GO:0010264	myo-inositol hexakisphosphate biosynthetic process	ECO:0000315	IMP	PMID:15918884		4577	UniProt		P
+UniProtKB	Q5GJ59	TPS7	involved_in	GO:0009987	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:27421723		4577	UniProt		P
+UniProtKB	Q5GJ59	TPS7	involved_in	GO:0009058	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:27421723		4577	UniProt		P
+UniProtKB	Q5GJ59	TPS7	involved_in	GO:0006629	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:27421723		4577	UniProt		P
+UniProtKB	Q5GJ59	TPS7	involved_in	GO:0009605	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:27421723		4577	UniProt		P
+UniProtKB	Q5GJ59	TPS7	involved_in	GO:0009607	GO:0009620	response to fungus	ECO:0000270	IEP	PMID:27421723		4577	UniProt		P
+UniProtKB	Q5GJ59	TPS7	involved_in	GO:0009719	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:27421723		4577	UniProt		P
+UniProtKB	Q5GJ59	TPS7	involved_in	GO:0042221	GO:0009737	response to abscisic acid	ECO:0000270	IEP	PMID:27421723		4577	UniProt		P
+UniProtKB	Q5GJ59	TPS7	involved_in	GO:0009719	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:27421723		4577	UniProt		P
+UniProtKB	Q5GJ59	TPS7	involved_in	GO:0042221	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:27421723		4577	UniProt		P
+UniProtKB	Q5GJ60	TPS6	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:28931629		4577	UniProt		P
+UniProtKB	Q5GJ60	TPS6	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:28931629		4577	UniProt		P
+UniProtKB	Q5GJ60	TPS6	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:28931629		4577	UniProt		P
+UniProtKB	Q5GJ60	TPS6	involved_in	GO:0009987	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18524777		4577	UniProt		P
+UniProtKB	Q5GJ60	TPS6	involved_in	GO:0009058	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18524777		4577	UniProt		P
+UniProtKB	Q5GJ60	TPS6	involved_in	GO:0006629	GO:0016114	terpenoid biosynthetic process	ECO:0000314	IDA	PMID:18524777		4577	UniProt		P
+UniProtKB	Q6EI12	PSY2	involved_in	GO:0009987	GO:0016117	carotenoid biosynthetic process	ECO:0000314	IDA	PMID:15247400		4577	UniProt		P
+UniProtKB	Q6EI12	PSY2	involved_in	GO:0009058	GO:0016117	carotenoid biosynthetic process	ECO:0000314	IDA	PMID:15247400		4577	UniProt		P
+UniProtKB	Q6EI12	PSY2	involved_in	GO:0006629	GO:0016117	carotenoid biosynthetic process	ECO:0000314	IDA	PMID:15247400		4577	UniProt		P
+UniProtKB	Q6EI12	PSY2	enables	GO:0009987	GO:0046905	15-cis-phytoene synthase activity	ECO:0000314	IDA	PMID:15247400		4577	UniProt		F
+UniProtKB	Q6EI12	PSY2	enables	GO:0009058	GO:0046905	15-cis-phytoene synthase activity	ECO:0000314	IDA	PMID:15247400		4577	UniProt		F
+UniProtKB	Q6EI12	PSY2	enables	GO:0006629	GO:0046905	15-cis-phytoene synthase activity	ECO:0000314	IDA	PMID:15247400		4577	UniProt		F
+UniProtKB	Q6JAH6	100273297	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		P
+UniProtKB	Q6JAH6	100273297	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		P
+UniProtKB	Q6JAH6	100273297	enables	GO:0009987	GO:0004602	glutathione peroxidase activity	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		F
+UniProtKB	Q6JAH6	100273297	enables	GO:0042221	GO:0004602	glutathione peroxidase activity	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		F
+UniProtKB	Q6W2J0	PHS1	involved_in	GO:0007049	GO:0007129	homologous chromosome pairing at meiosis	ECO:0000315	IMP	PMID:19918061		4577	UniProt		P
+UniProtKB	Q6W2J0	PHS1	involved_in	GO:0000003	GO:0007129	homologous chromosome pairing at meiosis	ECO:0000315	IMP	PMID:19918061		4577	UniProt		P
+UniProtKB	Q6W2J0	PHS1	involved_in	GO:0016043	GO:0007129	homologous chromosome pairing at meiosis	ECO:0000315	IMP	PMID:19918061		4577	UniProt		P
+UniProtKB	Q6XC06	GlxI	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:18943070		4577	AgBase		P
+UniProtKB	Q6XC06	GlxI	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:18943070		4577	AgBase		P
+UniProtKB	Q6XC06	GlxI	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000314	IDA	PMID:18943070		4577	AgBase		P
+UniProtKB	Q6XZ78	FRK2	enables	GO:0009987	GO:0008865	fructokinase activity	ECO:0000314	IDA	PMID:11432937		4577	AgBase		F
+UniProtKB	Q6XZ78	FRK2	enables	GO:0005975	GO:0008865	fructokinase activity	ECO:0000314	IDA	PMID:11432937		4577	AgBase		F
+UniProtKB	Q6XZ78	FRK2	involved_in	GO:0009987	GO:0046835	carbohydrate phosphorylation	ECO:0000314	IDA	PMID:11432937		4577	AgBase		P
+UniProtKB	Q6XZ78	FRK2	involved_in	GO:0005975	GO:0046835	carbohydrate phosphorylation	ECO:0000314	IDA	PMID:11432937		4577	AgBase		P
+UniProtKB	Q6XZ78	FRK2	NOT|enables	GO:0009987	GO:0004340	glucokinase activity	ECO:0000314	IDA	PMID:11432937		4577	AgBase		F
+UniProtKB	Q6XZ78	FRK2	NOT|enables	GO:0005975	GO:0004340	glucokinase activity	ECO:0000314	IDA	PMID:11432937		4577	AgBase		F
+UniProtKB	Q76GZ9	ZmHK3a	enables	GO:0007165	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q76GZ9	ZmHK3a	enables	GO:0009719	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q76GZ9	ZmHK3a	enables	GO:0036211	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q76GZ9	ZmHK3a	enables	GO:0042221	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q76GZ9	ZmHK3a	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q76GZ9	ZmHK3a	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q76GZ9	ZmHK3a	involved_in	GO:0007165	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q76GZ9	ZmHK3a	involved_in	GO:0009719	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q76GZ9	ZmHK3a	involved_in	GO:0042221	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q76H00	ZmHK2	enables	GO:0007165	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q76H00	ZmHK2	enables	GO:0009719	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q76H00	ZmHK2	enables	GO:0036211	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q76H00	ZmHK2	enables	GO:0042221	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q76H00	ZmHK2	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q76H00	ZmHK2	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q76H00	ZmHK2	involved_in	GO:0007165	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q76H00	ZmHK2	involved_in	GO:0009719	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q76H00	ZmHK2	involved_in	GO:0042221	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q7XB40	gs	enables	GO:0009987	GO:0004363	glutathione synthase activity	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		F
+UniProtKB	Q7XB40	gs	enables	GO:0009058	GO:0004363	glutathione synthase activity	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		F
+UniProtKB	Q7XB40	gs	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		P
+UniProtKB	Q7XB40	gs	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		P
+UniProtKB	Q84LB3	Q84LB3	NOT|involved_in	GO:0009628	GO:0009631	cold acclimation	ECO:0000270	IEP	PMID:12746512		4577	AgBase		P
+UniProtKB	Q84LB3	Q84LB3	NOT|involved_in	GO:0006950	GO:0009631	cold acclimation	ECO:0000270	IEP	PMID:12746512		4577	AgBase		P
+UniProtKB	Q84LB4	ZEAMMB73_Zm00001d034188	NOT|involved_in	GO:0009628	GO:0009631	cold acclimation	ECO:0000270	IEP	PMID:12746512		4577	AgBase		P
+UniProtKB	Q84LB4	ZEAMMB73_Zm00001d034188	NOT|involved_in	GO:0006950	GO:0009631	cold acclimation	ECO:0000270	IEP	PMID:12746512		4577	AgBase		P
+UniProtKB	Q84Y01	ITPK1	involved_in	GO:0009987	GO:0010264	myo-inositol hexakisphosphate biosynthetic process	ECO:0000315	IMP	PMID:12586875		4577	UniProt		P
+UniProtKB	Q84Y01	ITPK1	involved_in	GO:0009058	GO:0010264	myo-inositol hexakisphosphate biosynthetic process	ECO:0000315	IMP	PMID:12586875		4577	UniProt		P
+UniProtKB	Q84Y01	ITPK1	involved_in	GO:0009791	GO:0048316	seed development	ECO:0000315	IMP	PMID:12586875		4577	AgBase		P
+UniProtKB	Q84Y01	ITPK1	involved_in	GO:0000003	GO:0048316	seed development	ECO:0000315	IMP	PMID:12586875		4577	AgBase		P
+UniProtKB	Q84Y01	ITPK1	involved_in	GO:0009987	GO:0010264	myo-inositol hexakisphosphate biosynthetic process	ECO:0000315	IMP	PMID:12586875		4577	AgBase		P
+UniProtKB	Q84Y01	ITPK1	involved_in	GO:0009058	GO:0010264	myo-inositol hexakisphosphate biosynthetic process	ECO:0000315	IMP	PMID:12586875		4577	AgBase		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000270	IEP	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009987	GO:1903448	geraniol biosynthetic process	ECO:0000314	IDA	PMID:12481088		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009058	GO:1903448	geraniol biosynthetic process	ECO:0000314	IDA	PMID:12481088		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0006629	GO:1903448	geraniol biosynthetic process	ECO:0000314	IDA	PMID:12481088		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009987	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009058	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0006629	GO:0016102	diterpenoid biosynthetic process	ECO:0000314	IDA	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009987	GO:0016106	sesquiterpenoid biosynthetic process	ECO:0000314	IDA	PMID:12481088		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009058	GO:0016106	sesquiterpenoid biosynthetic process	ECO:0000314	IDA	PMID:12481088		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0006629	GO:0016106	sesquiterpenoid biosynthetic process	ECO:0000314	IDA	PMID:12481088		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009719	GO:0009723	response to ethylene	ECO:0000270	IEP	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0042221	GO:0009723	response to ethylene	ECO:0000270	IEP	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009719	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0042221	GO:0009753	response to jasmonic acid	ECO:0000270	IEP	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009987	GO:0006715	farnesol biosynthetic process	ECO:0000314	IDA	PMID:12481088		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009058	GO:0006715	farnesol biosynthetic process	ECO:0000314	IDA	PMID:12481088		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0006629	GO:0006715	farnesol biosynthetic process	ECO:0000314	IDA	PMID:12481088		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009987	GO:0033332	ent-kaurene biosynthetic process	ECO:0000314	IDA	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0009058	GO:0033332	ent-kaurene biosynthetic process	ECO:0000314	IDA	PMID:26620527		4577	UniProt		P
+UniProtKB	Q84ZW8	TPS1	involved_in	GO:0006629	GO:0033332	ent-kaurene biosynthetic process	ECO:0000314	IDA	PMID:26620527		4577	UniProt		P
+UniProtKB	Q8L5G8	Q8L5G8	enables	GO:0009987	GO:0008865	fructokinase activity	ECO:0000314	IDA	PMID:11432937		4577	AgBase		F
+UniProtKB	Q8L5G8	Q8L5G8	enables	GO:0005975	GO:0008865	fructokinase activity	ECO:0000314	IDA	PMID:11432937		4577	AgBase		F
+UniProtKB	Q8L5G8	Q8L5G8	involved_in	GO:0009987	GO:0046835	carbohydrate phosphorylation	ECO:0000314	IDA	PMID:11432937		4577	AgBase		P
+UniProtKB	Q8L5G8	Q8L5G8	involved_in	GO:0005975	GO:0046835	carbohydrate phosphorylation	ECO:0000314	IDA	PMID:11432937		4577	AgBase		P
+UniProtKB	Q8L5G8	Q8L5G8	enables	GO:0009987	GO:0004340	glucokinase activity	ECO:0000314	IDA	PMID:11432937		4577	AgBase		F
+UniProtKB	Q8L5G8	Q8L5G8	enables	GO:0005975	GO:0004340	glucokinase activity	ECO:0000314	IDA	PMID:11432937		4577	AgBase		F
+UniProtKB	Q8RXA5	CISZOG2	involved_in	GO:0009987	GO:0006486	protein glycosylation	ECO:0000314	IDA	PMID:12644686		4577	AgBase		P
+UniProtKB	Q8RXA5	CISZOG2	involved_in	GO:0036211	GO:0006486	protein glycosylation	ECO:0000314	IDA	PMID:12644686		4577	AgBase		P
+UniProtKB	Q8RXA5	CISZOG2	involved_in	GO:0009058	GO:0006486	protein glycosylation	ECO:0000314	IDA	PMID:12644686		4577	AgBase		P
+UniProtKB	Q8VXG7	PAL1	involved_in	GO:0042221	GO:0046898	response to cycloheximide	ECO:0000314	IDA	PMID:16658200		4577	AgBase		P
+UniProtKB	Q8VXG7	PAL1	involved_in	GO:0036211	GO:0016598	protein arginylation	ECO:0000314	IDA	PMID:16657749		4577	AgBase		P
+UniProtKB	Q8VXG7	PAL1	involved_in	GO:0009056	GO:0016598	protein arginylation	ECO:0000314	IDA	PMID:16657749		4577	AgBase		P
+UniProtKB	Q8VXG7	PAL1	involved_in	GO:0009719	GO:0009739	response to gibberellin	ECO:0000314	IDA	PMID:16658200		4577	AgBase		P
+UniProtKB	Q8VXG7	PAL1	involved_in	GO:0042221	GO:0009739	response to gibberellin	ECO:0000314	IDA	PMID:16658200		4577	AgBase		P
+UniProtKB	Q8W4W3	gsh1	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		P
+UniProtKB	Q8W4W3	gsh1	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	DOI:10.1007/s11738-008-0134-x		4577	AgBase		P
+UniProtKB	Q93XP7	CISZOG1	involved_in	GO:0009987	GO:0006486	protein glycosylation	ECO:0000314	IDA	PMID:12644686		4577	AgBase		P
+UniProtKB	Q93XP7	CISZOG1	involved_in	GO:0036211	GO:0006486	protein glycosylation	ECO:0000314	IDA	PMID:12644686		4577	AgBase		P
+UniProtKB	Q93XP7	CISZOG1	involved_in	GO:0009058	GO:0006486	protein glycosylation	ECO:0000314	IDA	PMID:12644686		4577	AgBase		P
+UniProtKB	Q940E8	FEA2	involved_in	GO:0009908	GO:0009908	flower development	ECO:0000315	IMP	PMID:11641280		4577	UniProt		P
+UniProtKB	Q948L2	ZmRR10	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q948L2	ZmRR10	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q94LW1	ZmRR9	enables	GO:0007165	GO:0000156	phosphorelay response regulator activity	ECO:0000314	IDA	PMID:12856940		4577	AgBase		F
+UniProtKB	Q94LW1	ZmRR9	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q94LW1	ZmRR9	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q94LW1	ZmRR9	involved_in	GO:0007165	GO:0000160	phosphorelay signal transduction system	ECO:0000314	IDA	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9ATL3	TIP4-4	involved_in	GO:0006810	GO:0015840	urea transport	ECO:0000315	IMP	PMID:22360887		4577	CACAO		P
+UniProtKB	Q9AV93	ZmRR8	enables	GO:0007165	GO:0000156	phosphorelay response regulator activity	ECO:0000314	IDA	PMID:12856940		4577	AgBase		F
+UniProtKB	Q9AV93	ZmRR8	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9AV93	ZmRR8	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9AV93	ZmRR8	involved_in	GO:0007165	GO:0000160	phosphorelay signal transduction system	ECO:0000314	IDA	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9AXG8	Q9AXG8	involved_in	GO:0009605	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19132874		4577	CACAO		P
+UniProtKB	Q9AXG8	Q9AXG8	involved_in	GO:0009607	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19132874		4577	CACAO		P
+UniProtKB	Q9AXG8	Q9AXG8	involved_in	GO:0006950	GO:0050832	defense response to fungus	ECO:0000315	IMP	PMID:19132874		4577	CACAO		P
+UniProtKB	Q9AXG8	Q9AXG8	involved_in	GO:0009605	GO:0002215	defense response to nematode	ECO:0000315	IMP	PMID:18052887		4577	CACAO		P
+UniProtKB	Q9AXG8	Q9AXG8	involved_in	GO:0009607	GO:0002215	defense response to nematode	ECO:0000315	IMP	PMID:18052887		4577	CACAO		P
+UniProtKB	Q9AXG8	Q9AXG8	involved_in	GO:0006950	GO:0002215	defense response to nematode	ECO:0000315	IMP	PMID:18052887		4577	CACAO		P
+UniProtKB	Q9FER4	paa	involved_in	GO:0042221	GO:0010045	response to nickel cation	ECO:0000270	IEP	PMID:12137958		4577	AgBase		P
+UniProtKB	Q9FER4	paa	involved_in	GO:0042221	GO:0046686	response to cadmium ion	ECO:0000315	IMP	PMID:12137958		4577	AgBase		P
+UniProtKB	Q9FER4	paa	NOT|involved_in	GO:0042221	GO:0046688	response to copper ion	ECO:0000315	IMP	PMID:12137958		4577	AgBase		P
+UniProtKB	Q9FER4	paa	NOT|involved_in	GO:0042221	GO:0010043	response to zinc ion	ECO:0000315	IMP	PMID:12137958		4577	AgBase		P
+UniProtKB	Q9FER4	paa	involved_in	GO:0042221	GO:0010045	response to nickel cation	ECO:0000315	IMP	PMID:12137958		4577	AgBase		P
+UniProtKB	Q9FER4	paa	involved_in	GO:0042221	GO:0032025	response to cobalt ion	ECO:0000315	IMP	PMID:12137958		4577	AgBase		P
+UniProtKB	Q9FR39	PRO5	involved_in	GO:0007165	GO:0030845	phospholipase C-inhibiting G protein-coupled receptor signaling pathway	ECO:0000314	IDA	PMID:10760246		4577	AgBase		P
+UniProtKB	Q9FR39	PRO5	involved_in	GO:0016043	GO:0042989	sequestering of actin monomers	ECO:0000314	IDA	PMID:10760246		4577	AgBase		P
+UniProtKB	Q9FR39	PRO5	involved_in	GO:0009987	GO:0007097	nuclear migration	ECO:0000315	IMP	PMID:11485551		4577	AgBase		P
+UniProtKB	Q9FR39	PRO5	involved_in	GO:0006810	GO:0007097	nuclear migration	ECO:0000315	IMP	PMID:11485551		4577	AgBase		P
+UniProtKB	Q9FRY7	ZmHK1	enables	GO:0007165	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q9FRY7	ZmHK1	enables	GO:0009719	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q9FRY7	ZmHK1	enables	GO:0036211	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q9FRY7	ZmHK1	enables	GO:0042221	GO:0009885	transmembrane histidine kinase cytokinin receptor activity	ECO:0000314	IDA	PMID:15064375		4577	AgBase		F
+UniProtKB	Q9FRY7	ZmHK1	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q9FRY7	ZmHK1	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q9FRY7	ZmHK1	involved_in	GO:0007165	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q9FRY7	ZmHK1	involved_in	GO:0009719	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q9FRY7	ZmHK1	involved_in	GO:0042221	GO:0009736	cytokinin-activated signaling pathway	ECO:0000314	IDA	PMID:15064375		4577	AgBase		P
+UniProtKB	Q9FRY8	ZmRR7	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9FRY8	ZmRR7	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9FRY9	ZmRR6	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9FRY9	ZmRR6	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9FRZ0	ZmRR5	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9FRZ0	ZmRR5	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9FRZ1	ZmRR4	enables	GO:0007165	GO:0000156	phosphorelay response regulator activity	ECO:0000314	IDA	PMID:12856940		4577	AgBase		F
+UniProtKB	Q9FRZ1	ZmRR4	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9FRZ1	ZmRR4	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9FRZ1	ZmRR4	involved_in	GO:0007165	GO:0000160	phosphorelay signal transduction system	ECO:0000314	IDA	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9FXQ7	ZmRR3	NOT|involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9FXQ7	ZmRR3	NOT|involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9M582	HIR3	involved_in	GO:0006950	GO:0006952	defense response	ECO:0000315	IMP	PMID:10862763		4577	AgBase		P
+UniProtKB	Q9S7U8	ZmRR2	enables	GO:0007165	GO:0000156	phosphorelay response regulator activity	ECO:0000314	IDA	PMID:10608665		4577	AgBase		F
+UniProtKB	Q9S7U8	ZmRR2	involved_in	GO:0042221	GO:0060359	response to ammonium ion	ECO:0000270	IEP	PMID:10608665		4577	AgBase		P
+UniProtKB	Q9S7U8	ZmRR2	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9S7U8	ZmRR2	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9S7U8	ZmRR2	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:10608665		4577	AgBase		P
+UniProtKB	Q9S7U8	ZmRR2	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:10608665		4577	AgBase		P
+UniProtKB	Q9S7U8	ZmRR2	involved_in	GO:0042221	GO:0010167	response to nitrate	ECO:0000270	IEP	PMID:10608665		4577	AgBase		P
+UniProtKB	Q9S7U8	ZmRR2	involved_in	GO:0007165	GO:0000160	phosphorelay signal transduction system	ECO:0000314	IDA	PMID:10608665		4577	AgBase		P
+UniProtKB	Q9SLP6	L-FNRI	enables	GO:0006091	GO:0009055	electron transfer activity	ECO:0000314	IDA	PMID:11724563		4577	AgBase		F
+UniProtKB	Q9SLP6	L-FNRI	involved_in	GO:0006091	GO:0022900	electron transport chain	ECO:0000314	IDA	PMID:11724563		4577	AgBase		P
+UniProtKB	Q9SLX1	ZmHP2	involved_in	GO:0007165	GO:0000160	phosphorelay signal transduction system	ECO:0000314	IDA	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9SLX1	ZmHP2	involved_in	GO:0007165	GO:0000160	phosphorelay signal transduction system	ECO:0000314	IDA	PMID:10608665		4577	AgBase		P
+UniProtKB	Q9SM20	gst3b	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:10527424		4577	AgBase		P
+UniProtKB	Q9SM20	gst3b	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:10527424		4577	AgBase		P
+UniProtKB	Q9ST01	ZmHP1	involved_in	GO:0007165	GO:0000160	phosphorelay signal transduction system	ECO:0000314	IDA	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9XF14	BSD2	involved_in	GO:0009987	GO:0061077	chaperone-mediated protein folding	ECO:0000315	IMP	PMID:10330470		4577	UniProt		P
+UniProtKB	Q9XF14	BSD2	involved_in	GO:0019538	GO:0061077	chaperone-mediated protein folding	ECO:0000315	IMP	PMID:10330470		4577	UniProt		P
+UniProtKB	Q9XF14	BSD2	involved_in	GO:0009058	GO:0061077	chaperone-mediated protein folding	ECO:0000315	IMP	PMID:10330470		4577	UniProt		P
+UniProtKB	Q9XF14	BSD2	involved_in	GO:0009987	GO:0061077	chaperone-mediated protein folding	ECO:0000315	IMP	PMID:12239405		4577	UniProt		P
+UniProtKB	Q9XF14	BSD2	involved_in	GO:0019538	GO:0061077	chaperone-mediated protein folding	ECO:0000315	IMP	PMID:12239405		4577	UniProt		P
+UniProtKB	Q9XF14	BSD2	involved_in	GO:0009058	GO:0061077	chaperone-mediated protein folding	ECO:0000315	IMP	PMID:12239405		4577	UniProt		P
+UniProtKB	Q9XF14	BSD2	involved_in	GO:0016043	GO:0110102	ribulose bisphosphate carboxylase complex assembly	ECO:0000315	IMP	PMID:10330470		4577	UniProt		P
+UniProtKB	Q9XF14	BSD2	involved_in	GO:0016043	GO:0110102	ribulose bisphosphate carboxylase complex assembly	ECO:0000315	IMP	PMID:12239405		4577	UniProt		P
+UniProtKB	Q9XF14	BSD2	enables	GO:0009987	GO:0044183	protein folding chaperone	ECO:0000315	IMP	PMID:12239405		4577	UniProt		F
+UniProtKB	Q9XF14	BSD2	enables	GO:0019538	GO:0044183	protein folding chaperone	ECO:0000315	IMP	PMID:12239405		4577	UniProt		F
+UniProtKB	Q9XF14	BSD2	enables	GO:0009058	GO:0044183	protein folding chaperone	ECO:0000315	IMP	PMID:12239405		4577	UniProt		F
+UniProtKB	Q9XF14	BSD2	enables	GO:0009987	GO:0044183	protein folding chaperone	ECO:0000315	IMP	PMID:10330470		4577	UniProt		F
+UniProtKB	Q9XF14	BSD2	enables	GO:0019538	GO:0044183	protein folding chaperone	ECO:0000315	IMP	PMID:10330470		4577	UniProt		F
+UniProtKB	Q9XF14	BSD2	enables	GO:0009058	GO:0044183	protein folding chaperone	ECO:0000315	IMP	PMID:10330470		4577	UniProt		F
+UniProtKB	Q9XFJ8	TATA	enables	GO:0009987	GO:0009977	proton motive force dependent protein transmembrane transporter activity	ECO:0000315	IMP	PMID:10525534		4577	UniProt		F
+UniProtKB	Q9XFJ8	TATA	enables	GO:0006810	GO:0009977	proton motive force dependent protein transmembrane transporter activity	ECO:0000315	IMP	PMID:10525534		4577	UniProt		F
+UniProtKB	Q9XFJ8	TATA	involved_in	GO:0009987	GO:0045038	protein import into chloroplast thylakoid membrane	ECO:0000315	IMP	PMID:10525534		4577	UniProt		P
+UniProtKB	Q9XFJ8	TATA	involved_in	GO:0006810	GO:0045038	protein import into chloroplast thylakoid membrane	ECO:0000315	IMP	PMID:10525534		4577	UniProt		P
+UniProtKB	Q9XFJ8	TATA	involved_in	GO:0009987	GO:0043953	protein transport by the Tat complex	ECO:0000315	IMP	PMID:10525534		4577	UniProt		P
+UniProtKB	Q9XFJ8	TATA	involved_in	GO:0006810	GO:0043953	protein transport by the Tat complex	ECO:0000315	IMP	PMID:10525534		4577	UniProt		P
+UniProtKB	Q9ZP60	gst7	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:10527424		4577	AgBase		P
+UniProtKB	Q9ZP60	gst7	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:10527424		4577	AgBase		P
+UniProtKB	Q9ZP61	gst6	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:10527424		4577	AgBase		P
+UniProtKB	Q9ZP61	gst6	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:10527424		4577	AgBase		P
+UniProtKB	Q9ZP62	gst3a	involved_in	GO:0042221	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:10527424		4577	AgBase		P
+UniProtKB	Q9ZP62	gst3a	involved_in	GO:0006950	GO:0009635	response to herbicide	ECO:0000314	IDA	PMID:10527424		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	enables	GO:0007165	GO:0000156	phosphorelay response regulator activity	ECO:0000314	IDA	PMID:12856940		4577	AgBase		F
+UniProtKB	Q9ZQW0	ZmRR1	enables	GO:0007165	GO:0000156	phosphorelay response regulator activity	ECO:0000314	IDA	PMID:10608665		4577	AgBase		F
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0042221	GO:0060359	response to ammonium ion	ECO:0000270	IEP	PMID:10608665		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:9628026		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:9628026		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:15064375		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:15064375		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:10608665		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000270	IEP	PMID:10608665		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0009719	GO:0009735	response to cytokinin	ECO:0000314	IDA	PMID:11004492		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0042221	GO:0009735	response to cytokinin	ECO:0000314	IDA	PMID:11004492		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0042221	GO:0010167	response to nitrate	ECO:0000270	IEP	PMID:9628026		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0042221	GO:0010167	response to nitrate	ECO:0000270	IEP	PMID:10608665		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0009605	GO:0006995	cellular response to nitrogen starvation	ECO:0000270	IEP	PMID:9628026		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0007154	GO:0006995	cellular response to nitrogen starvation	ECO:0000270	IEP	PMID:9628026		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0006950	GO:0006995	cellular response to nitrogen starvation	ECO:0000270	IEP	PMID:9628026		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0007165	GO:0000160	phosphorelay signal transduction system	ECO:0000314	IDA	PMID:12856940		4577	AgBase		P
+UniProtKB	Q9ZQW0	ZmRR1	involved_in	GO:0007165	GO:0000160	phosphorelay signal transduction system	ECO:0000314	IDA	PMID:10608665		4577	AgBase		P
+UniProtKB	Q9ZR86	Q9ZR86	enables	GO:0009987	GO:0004791	thioredoxin-disulfide reductase (NADP) activity	ECO:0000314	IDA	PMID:9808743		4577	AgBase		F
+UniProtKB	Q9ZR86	Q9ZR86	enables	GO:0042221	GO:0004791	thioredoxin-disulfide reductase (NADP) activity	ECO:0000314	IDA	PMID:9808743		4577	AgBase		F
