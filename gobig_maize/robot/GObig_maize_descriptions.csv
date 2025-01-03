@@ -1,0 +1,1004 @@
+GOID,ONTOLOGY,TERM,LINK
+GO:0006644,biological_process,phospholipid metabolic process,http://purl.obolibrary.org/obo/GO_0006644
+GO:0006631,biological_process,fatty acid metabolic process,http://purl.obolibrary.org/obo/GO_0006631
+GO:0006629,biological_process,lipid metabolic process,http://purl.obolibrary.org/obo/GO_0006629
+GO:0043648,biological_process,dicarboxylic acid metabolic process,http://purl.obolibrary.org/obo/GO_0043648
+GO:0016053,biological_process,organic acid biosynthetic process,http://purl.obolibrary.org/obo/GO_0016053
+GO:0016054,biological_process,organic acid catabolic process,http://purl.obolibrary.org/obo/GO_0016054
+GO:0016042,biological_process,lipid catabolic process,http://purl.obolibrary.org/obo/GO_0016042
+GO:0016043,biological_process,cellular component organization,http://purl.obolibrary.org/obo/GO_0016043
+GO:0031667,biological_process,response to nutrient levels,http://purl.obolibrary.org/obo/GO_0031667
+GO:0043604,biological_process,amide biosynthetic process,http://purl.obolibrary.org/obo/GO_0043604
+GO:0043603,biological_process,amide metabolic process,http://purl.obolibrary.org/obo/GO_0043603
+GO:0006721,biological_process,terpenoid metabolic process,http://purl.obolibrary.org/obo/GO_0006721
+GO:0006720,biological_process,isoprenoid metabolic process,http://purl.obolibrary.org/obo/GO_0006720
+GO:0006725,biological_process,cellular aromatic compound metabolic process,http://purl.obolibrary.org/obo/GO_0006725
+GO:0006766,biological_process,vitamin metabolic process,http://purl.obolibrary.org/obo/GO_0006766
+GO:0006772,biological_process,thiamine metabolic process,http://purl.obolibrary.org/obo/GO_0006772
+GO:0006767,biological_process,water-soluble vitamin metabolic process,http://purl.obolibrary.org/obo/GO_0006767
+GO:0006753,biological_process,nucleoside phosphate metabolic process,http://purl.obolibrary.org/obo/GO_0006753
+GO:0016117,biological_process,carotenoid biosynthetic process,http://purl.obolibrary.org/obo/GO_0016117
+GO:0016119,biological_process,carotene metabolic process,http://purl.obolibrary.org/obo/GO_0016119
+GO:0016120,biological_process,carotene biosynthetic process,http://purl.obolibrary.org/obo/GO_0016120
+GO:0016108,biological_process,tetraterpenoid metabolic process,http://purl.obolibrary.org/obo/GO_0016108
+GO:0016109,biological_process,tetraterpenoid biosynthetic process,http://purl.obolibrary.org/obo/GO_0016109
+GO:0016114,biological_process,terpenoid biosynthetic process,http://purl.obolibrary.org/obo/GO_0016114
+GO:0016115,biological_process,terpenoid catabolic process,http://purl.obolibrary.org/obo/GO_0016115
+GO:0016116,biological_process,carotenoid metabolic process,http://purl.obolibrary.org/obo/GO_0016116
+GO:0006790,biological_process,sulfur compound metabolic process,http://purl.obolibrary.org/obo/GO_0006790
+GO:0006793,biological_process,phosphorus metabolic process,http://purl.obolibrary.org/obo/GO_0006793
+GO:0006796,biological_process,phosphate-containing compound metabolic process,http://purl.obolibrary.org/obo/GO_0006796
+GO:0006518,biological_process,peptide metabolic process,http://purl.obolibrary.org/obo/GO_0006518
+GO:0006581,biological_process,acetylcholine catabolic process,http://purl.obolibrary.org/obo/GO_0006581
+GO:0043436,biological_process,oxoacid metabolic process,http://purl.obolibrary.org/obo/GO_0043436
+GO:0090304,biological_process,nucleic acid metabolic process,http://purl.obolibrary.org/obo/GO_0090304
+GO:0051321,biological_process,meiotic cell cycle,http://purl.obolibrary.org/obo/GO_0051321
+GO:0110095,biological_process,cellular detoxification of aldehyde,http://purl.obolibrary.org/obo/GO_0110095
+GO:0110096,biological_process,cellular response to aldehyde,http://purl.obolibrary.org/obo/GO_0110096
+GO:0014070,biological_process,response to organic cyclic compound,http://purl.obolibrary.org/obo/GO_0014070
+GO:0006810,biological_process,transport,http://purl.obolibrary.org/obo/GO_0006810
+GO:0006807,biological_process,nitrogen compound metabolic process,http://purl.obolibrary.org/obo/GO_0006807
+GO:0006970,biological_process,response to osmotic stress,http://purl.obolibrary.org/obo/GO_0006970
+GO:0043933,biological_process,protein-containing complex organization,http://purl.obolibrary.org/obo/GO_0043933
+GO:0006952,biological_process,defense response,http://purl.obolibrary.org/obo/GO_0006952
+GO:0006950,biological_process,response to stress,http://purl.obolibrary.org/obo/GO_0006950
+GO:0006979,biological_process,response to oxidative stress,http://purl.obolibrary.org/obo/GO_0006979
+GO:0006996,biological_process,organelle organization,http://purl.obolibrary.org/obo/GO_0006996
+GO:0016101,biological_process,diterpenoid metabolic process,http://purl.obolibrary.org/obo/GO_0016101
+GO:0016102,biological_process,diterpenoid biosynthetic process,http://purl.obolibrary.org/obo/GO_0016102
+GO:0065007,biological_process,biological regulation,http://purl.obolibrary.org/obo/GO_0065007
+GO:0065003,biological_process,protein-containing complex assembly,http://purl.obolibrary.org/obo/GO_0065003
+GO:0016070,biological_process,RNA metabolic process,http://purl.obolibrary.org/obo/GO_0016070
+GO:0016071,biological_process,mRNA metabolic process,http://purl.obolibrary.org/obo/GO_0016071
+GO:0016072,biological_process,rRNA metabolic process,http://purl.obolibrary.org/obo/GO_0016072
+GO:0043412,biological_process,macromolecule modification,http://purl.obolibrary.org/obo/GO_0043412
+GO:0031425,biological_process,chloroplast RNA processing,http://purl.obolibrary.org/obo/GO_0031425
+GO:0033993,biological_process,response to lipid,http://purl.obolibrary.org/obo/GO_0033993
+GO:0006396,biological_process,RNA processing,http://purl.obolibrary.org/obo/GO_0006396
+GO:0099402,biological_process,plant organ development,http://purl.obolibrary.org/obo/GO_0099402
+GO:0051503,biological_process,adenine nucleotide transport,http://purl.obolibrary.org/obo/GO_0051503
+GO:0051501,biological_process,diterpene phytoalexin metabolic process,http://purl.obolibrary.org/obo/GO_0051501
+GO:0051502,biological_process,diterpene phytoalexin biosynthetic process,http://purl.obolibrary.org/obo/GO_0051502
+GO:0050794,biological_process,regulation of cellular process,http://purl.obolibrary.org/obo/GO_0050794
+GO:1905392,biological_process,plant organ morphogenesis,http://purl.obolibrary.org/obo/GO_1905392
+GO:0090567,biological_process,reproductive shoot system development,http://purl.obolibrary.org/obo/GO_0090567
+GO:0090698,biological_process,post-embryonic plant morphogenesis,http://purl.obolibrary.org/obo/GO_0090698
+GO:0090696,biological_process,post-embryonic plant organ development,http://purl.obolibrary.org/obo/GO_0090696
+GO:0090697,biological_process,post-embryonic plant organ morphogenesis,http://purl.obolibrary.org/obo/GO_0090697
+GO:0051640,biological_process,organelle localization,http://purl.obolibrary.org/obo/GO_0051640
+GO:0051641,biological_process,cellular localization,http://purl.obolibrary.org/obo/GO_0051641
+GO:0051649,biological_process,establishment of localization in cell,http://purl.obolibrary.org/obo/GO_0051649
+GO:0051647,biological_process,nucleus localization,http://purl.obolibrary.org/obo/GO_0051647
+GO:0051656,biological_process,establishment of organelle localization,http://purl.obolibrary.org/obo/GO_0051656
+GO:0000003,biological_process,reproduction,http://purl.obolibrary.org/obo/GO_0000003
+GO:0051761,biological_process,sesquiterpene metabolic process,http://purl.obolibrary.org/obo/GO_0051761
+GO:0051762,biological_process,sesquiterpene biosynthetic process,http://purl.obolibrary.org/obo/GO_0051762
+GO:0098727,biological_process,maintenance of cell number,http://purl.obolibrary.org/obo/GO_0098727
+GO:0050789,biological_process,regulation of biological process,http://purl.obolibrary.org/obo/GO_0050789
+GO:1901264,biological_process,carbohydrate derivative transport,http://purl.obolibrary.org/obo/GO_1901264
+GO:0098754,biological_process,detoxification,http://purl.obolibrary.org/obo/GO_0098754
+GO:1901293,biological_process,nucleoside phosphate biosynthetic process,http://purl.obolibrary.org/obo/GO_1901293
+GO:0001763,biological_process,morphogenesis of a branching structure,http://purl.obolibrary.org/obo/GO_0001763
+GO:0098869,biological_process,cellular oxidant detoxification,http://purl.obolibrary.org/obo/GO_0098869
+GO:0002213,biological_process,defense response to insect,http://purl.obolibrary.org/obo/GO_0002213
+GO:0051259,biological_process,protein complex oligomerization,http://purl.obolibrary.org/obo/GO_0051259
+GO:0051234,biological_process,establishment of localization,http://purl.obolibrary.org/obo/GO_0051234
+GO:0051180,biological_process,vitamin transport,http://purl.obolibrary.org/obo/GO_0051180
+GO:0051179,biological_process,localization,http://purl.obolibrary.org/obo/GO_0051179
+GO:0036172,biological_process,thiamine salvage,http://purl.obolibrary.org/obo/GO_0036172
+GO:0051707,biological_process,response to other organism,http://purl.obolibrary.org/obo/GO_0051707
+GO:0051716,biological_process,cellular response to stimulus,http://purl.obolibrary.org/obo/GO_0051716
+GO:0043170,biological_process,macromolecule metabolic process,http://purl.obolibrary.org/obo/GO_0043170
+GO:0006364,biological_process,rRNA processing,http://purl.obolibrary.org/obo/GO_0006364
+GO:0043207,biological_process,response to external biotic stimulus,http://purl.obolibrary.org/obo/GO_0043207
+GO:0016553,biological_process,base conversion or substitution editing,http://purl.obolibrary.org/obo/GO_0016553
+GO:0016554,biological_process,cytidine to uridine editing,http://purl.obolibrary.org/obo/GO_0016554
+GO:0016556,biological_process,mRNA modification,http://purl.obolibrary.org/obo/GO_0016556
+GO:0090407,biological_process,organophosphate biosynthetic process,http://purl.obolibrary.org/obo/GO_0090407
+GO:0006862,biological_process,nucleotide transport,http://purl.obolibrary.org/obo/GO_0006862
+GO:0045117,biological_process,azole transmembrane transport,http://purl.obolibrary.org/obo/GO_0045117
+GO:0008300,biological_process,isoprenoid catabolic process,http://purl.obolibrary.org/obo/GO_0008300
+GO:0008283,biological_process,cell population proliferation,http://purl.obolibrary.org/obo/GO_0008283
+GO:0008291,biological_process,acetylcholine metabolic process,http://purl.obolibrary.org/obo/GO_0008291
+GO:0008299,biological_process,isoprenoid biosynthetic process,http://purl.obolibrary.org/obo/GO_0008299
+GO:1901701,biological_process,cellular response to oxygen-containing compound,http://purl.obolibrary.org/obo/GO_1901701
+GO:1901700,biological_process,response to oxygen-containing compound,http://purl.obolibrary.org/obo/GO_1901700
+GO:0001676,biological_process,long-chain fatty acid metabolic process,http://purl.obolibrary.org/obo/GO_0001676
+GO:1901679,biological_process,nucleotide transmembrane transport,http://purl.obolibrary.org/obo/GO_1901679
+GO:0072531,biological_process,pyrimidine-containing compound transmembrane transport,http://purl.obolibrary.org/obo/GO_0072531
+GO:0072530,biological_process,purine-containing compound transmembrane transport,http://purl.obolibrary.org/obo/GO_0072530
+GO:1901617,biological_process,organic hydroxy compound biosynthetic process,http://purl.obolibrary.org/obo/GO_1901617
+GO:0072528,biological_process,pyrimidine-containing compound biosynthetic process,http://purl.obolibrary.org/obo/GO_0072528
+GO:0072527,biological_process,pyrimidine-containing compound metabolic process,http://purl.obolibrary.org/obo/GO_0072527
+GO:1901615,biological_process,organic hydroxy compound metabolic process,http://purl.obolibrary.org/obo/GO_1901615
+GO:0018130,biological_process,heterocycle biosynthetic process,http://purl.obolibrary.org/obo/GO_0018130
+GO:0072329,biological_process,monocarboxylic acid catabolic process,http://purl.obolibrary.org/obo/GO_0072329
+GO:0035349,biological_process,coenzyme A transmembrane transport,http://purl.obolibrary.org/obo/GO_0035349
+GO:1901360,biological_process,organic cyclic compound metabolic process,http://purl.obolibrary.org/obo/GO_1901360
+GO:1901362,biological_process,organic cyclic compound biosynthetic process,http://purl.obolibrary.org/obo/GO_1901362
+GO:0098542,biological_process,defense response to other organism,http://purl.obolibrary.org/obo/GO_0098542
+GO:0023052,biological_process,signaling,http://purl.obolibrary.org/obo/GO_0023052
+GO:1901135,biological_process,carbohydrate derivative metabolic process,http://purl.obolibrary.org/obo/GO_1901135
+GO:1901137,biological_process,carbohydrate derivative biosynthetic process,http://purl.obolibrary.org/obo/GO_1901137
+GO:0050896,biological_process,response to stimulus,http://purl.obolibrary.org/obo/GO_0050896
+GO:0050832,biological_process,defense response to fungus,http://purl.obolibrary.org/obo/GO_0050832
+GO:1901935,biological_process,beta-caryophyllene metabolic process,http://purl.obolibrary.org/obo/GO_1901935
+GO:1901937,biological_process,beta-caryophyllene biosynthetic process,http://purl.obolibrary.org/obo/GO_1901937
+GO:0008150,biological_process,biological_process,http://purl.obolibrary.org/obo/GO_0008150
+GO:0008152,biological_process,metabolic process,http://purl.obolibrary.org/obo/GO_0008152
+GO:0060771,biological_process,phyllotactic patterning,http://purl.obolibrary.org/obo/GO_0060771
+GO:1901565,biological_process,organonitrogen compound catabolic process,http://purl.obolibrary.org/obo/GO_1901565
+GO:1901564,biological_process,organonitrogen compound metabolic process,http://purl.obolibrary.org/obo/GO_1901564
+GO:1901566,biological_process,organonitrogen compound biosynthetic process,http://purl.obolibrary.org/obo/GO_1901566
+GO:1901576,biological_process,organic substance biosynthetic process,http://purl.obolibrary.org/obo/GO_1901576
+GO:1901575,biological_process,organic substance catabolic process,http://purl.obolibrary.org/obo/GO_1901575
+GO:0072348,biological_process,sulfur compound transport,http://purl.obolibrary.org/obo/GO_0072348
+GO:0032787,biological_process,monocarboxylic acid metabolic process,http://purl.obolibrary.org/obo/GO_0032787
+GO:0042723,biological_process,thiamine-containing compound metabolic process,http://purl.obolibrary.org/obo/GO_0042723
+GO:0042724,biological_process,thiamine-containing compound biosynthetic process,http://purl.obolibrary.org/obo/GO_0042724
+GO:0042758,biological_process,long-chain fatty acid catabolic process,http://purl.obolibrary.org/obo/GO_0042758
+GO:0035461,biological_process,vitamin transmembrane transport,http://purl.obolibrary.org/obo/GO_0035461
+GO:0008380,biological_process,RNA splicing,http://purl.obolibrary.org/obo/GO_0008380
+GO:0045339,biological_process,farnesyl diphosphate catabolic process,http://purl.obolibrary.org/obo/GO_0045339
+GO:0045338,biological_process,farnesyl diphosphate metabolic process,http://purl.obolibrary.org/obo/GO_0045338
+GO:0003002,biological_process,regionalization,http://purl.obolibrary.org/obo/GO_0003002
+GO:0042594,biological_process,response to starvation,http://purl.obolibrary.org/obo/GO_0042594
+GO:0030974,biological_process,thiamine pyrophosphate transmembrane transport,http://purl.obolibrary.org/obo/GO_0030974
+GO:0052314,biological_process,phytoalexin metabolic process,http://purl.obolibrary.org/obo/GO_0052314
+GO:0052315,biological_process,phytoalexin biosynthetic process,http://purl.obolibrary.org/obo/GO_0052315
+GO:0015697,biological_process,quaternary ammonium group transport,http://purl.obolibrary.org/obo/GO_0015697
+GO:0015695,biological_process,organic cation transport,http://purl.obolibrary.org/obo/GO_0015695
+GO:0070887,biological_process,cellular response to chemical stimulus,http://purl.obolibrary.org/obo/GO_0070887
+GO:0008610,biological_process,lipid biosynthetic process,http://purl.obolibrary.org/obo/GO_0008610
+GO:0008655,biological_process,pyrimidine-containing compound salvage,http://purl.obolibrary.org/obo/GO_0008655
+GO:0070542,biological_process,response to fatty acid,http://purl.obolibrary.org/obo/GO_0070542
+GO:0006139,biological_process,nucleobase-containing compound metabolic process,http://purl.obolibrary.org/obo/GO_0006139
+GO:0044706,biological_process,multi-multicellular organism process,http://purl.obolibrary.org/obo/GO_0044706
+GO:0019827,biological_process,stem cell population maintenance,http://purl.obolibrary.org/obo/GO_0019827
+GO:0032870,biological_process,cellular response to hormone stimulus,http://purl.obolibrary.org/obo/GO_0032870
+GO:0042542,biological_process,response to hydrogen peroxide,http://purl.obolibrary.org/obo/GO_0042542
+GO:0003006,biological_process,developmental process involved in reproduction,http://purl.obolibrary.org/obo/GO_0003006
+GO:0042254,biological_process,ribosome biogenesis,http://purl.obolibrary.org/obo/GO_0042254
+GO:0042214,biological_process,terpene metabolic process,http://purl.obolibrary.org/obo/GO_0042214
+GO:0042221,biological_process,response to chemical,http://purl.obolibrary.org/obo/GO_0042221
+GO:0042440,biological_process,pigment metabolic process,http://purl.obolibrary.org/obo/GO_0042440
+GO:0042364,biological_process,water-soluble vitamin biosynthetic process,http://purl.obolibrary.org/obo/GO_0042364
+GO:0019748,biological_process,secondary metabolic process,http://purl.obolibrary.org/obo/GO_0019748
+GO:0019752,biological_process,carboxylic acid metabolic process,http://purl.obolibrary.org/obo/GO_0019752
+GO:0006082,biological_process,organic acid metabolic process,http://purl.obolibrary.org/obo/GO_0006082
+GO:0006091,biological_process,generation of precursor metabolites and energy,http://purl.obolibrary.org/obo/GO_0006091
+GO:0006066,biological_process,alcohol metabolic process,http://purl.obolibrary.org/obo/GO_0006066
+GO:0080027,biological_process,response to herbivore,http://purl.obolibrary.org/obo/GO_0080027
+GO:0043094,biological_process,cellular metabolic compound salvage,http://purl.obolibrary.org/obo/GO_0043094
+GO:0055085,biological_process,transmembrane transport,http://purl.obolibrary.org/obo/GO_0055085
+GO:0055086,biological_process,nucleobase-containing small molecule metabolic process,http://purl.obolibrary.org/obo/GO_0055086
+GO:0043043,biological_process,peptide biosynthetic process,http://purl.obolibrary.org/obo/GO_0043043
+GO:0019953,biological_process,sexual reproduction,http://purl.obolibrary.org/obo/GO_0019953
+GO:0015888,biological_process,thiamine transport,http://purl.obolibrary.org/obo/GO_0015888
+GO:0015868,biological_process,purine ribonucleotide transport,http://purl.obolibrary.org/obo/GO_0015868
+GO:0015865,biological_process,purine nucleotide transport,http://purl.obolibrary.org/obo/GO_0015865
+GO:0015880,biological_process,coenzyme A transport,http://purl.obolibrary.org/obo/GO_0015880
+GO:0061458,biological_process,reproductive system development,http://purl.obolibrary.org/obo/GO_0061458
+GO:0048437,biological_process,floral organ development,http://purl.obolibrary.org/obo/GO_0048437
+GO:0048439,biological_process,flower morphogenesis,http://purl.obolibrary.org/obo/GO_0048439
+GO:0048444,biological_process,floral organ morphogenesis,http://purl.obolibrary.org/obo/GO_0048444
+GO:0048450,biological_process,floral organ structural organization,http://purl.obolibrary.org/obo/GO_0048450
+GO:1990641,biological_process,response to iron ion starvation,http://purl.obolibrary.org/obo/GO_1990641
+GO:0015931,biological_process,nucleobase-containing compound transport,http://purl.obolibrary.org/obo/GO_0015931
+GO:0015979,biological_process,photosynthesis,http://purl.obolibrary.org/obo/GO_0015979
+GO:1990559,biological_process,mitochondrial coenzyme A transmembrane transport,http://purl.obolibrary.org/obo/GO_1990559
+GO:0010022,biological_process,meristem determinacy,http://purl.obolibrary.org/obo/GO_0010022
+GO:0010021,biological_process,amylopectin biosynthetic process,http://purl.obolibrary.org/obo/GO_0010021
+GO:0010016,biological_process,shoot system morphogenesis,http://purl.obolibrary.org/obo/GO_0010016
+GO:0010033,biological_process,response to organic substance,http://purl.obolibrary.org/obo/GO_0010033
+GO:0010074,biological_process,maintenance of meristem identity,http://purl.obolibrary.org/obo/GO_0010074
+GO:0048608,biological_process,reproductive structure development,http://purl.obolibrary.org/obo/GO_0048608
+GO:0010073,biological_process,meristem maintenance,http://purl.obolibrary.org/obo/GO_0010073
+GO:0009056,biological_process,catabolic process,http://purl.obolibrary.org/obo/GO_0009056
+GO:0009059,biological_process,macromolecule biosynthetic process,http://purl.obolibrary.org/obo/GO_0009059
+GO:0015711,biological_process,organic anion transport,http://purl.obolibrary.org/obo/GO_0015711
+GO:2000896,biological_process,amylopectin metabolic process,http://purl.obolibrary.org/obo/GO_2000896
+GO:0015748,biological_process,organophosphate ester transport,http://purl.obolibrary.org/obo/GO_0015748
+GO:0097237,biological_process,cellular response to toxic substance,http://purl.obolibrary.org/obo/GO_0097237
+GO:0048856,biological_process,anatomical structure development,http://purl.obolibrary.org/obo/GO_0048856
+GO:0048868,biological_process,pollen tube development,http://purl.obolibrary.org/obo/GO_0048868
+GO:0071368,biological_process,cellular response to cytokinin stimulus,http://purl.obolibrary.org/obo/GO_0071368
+GO:0046394,biological_process,carboxylic acid biosynthetic process,http://purl.obolibrary.org/obo/GO_0046394
+GO:0046395,biological_process,carboxylic acid catabolic process,http://purl.obolibrary.org/obo/GO_0046395
+GO:0009404,biological_process,toxin metabolic process,http://purl.obolibrary.org/obo/GO_0009404
+GO:0009403,biological_process,toxin biosynthetic process,http://purl.obolibrary.org/obo/GO_0009403
+GO:0009314,biological_process,response to radiation,http://purl.obolibrary.org/obo/GO_0009314
+GO:0034309,biological_process,primary alcohol biosynthetic process,http://purl.obolibrary.org/obo/GO_0034309
+GO:0034308,biological_process,primary alcohol metabolic process,http://purl.obolibrary.org/obo/GO_0034308
+GO:0009395,biological_process,phospholipid catabolic process,http://purl.obolibrary.org/obo/GO_0009395
+GO:0071310,biological_process,cellular response to organic substance,http://purl.obolibrary.org/obo/GO_0071310
+GO:0009058,biological_process,biosynthetic process,http://purl.obolibrary.org/obo/GO_0009058
+GO:0010038,biological_process,response to metal ion,http://purl.obolibrary.org/obo/GO_0010038
+GO:0010035,biological_process,response to inorganic substance,http://purl.obolibrary.org/obo/GO_0010035
+GO:0009062,biological_process,fatty acid catabolic process,http://purl.obolibrary.org/obo/GO_0009062
+GO:0046148,biological_process,pigment biosynthetic process,http://purl.obolibrary.org/obo/GO_0046148
+GO:0046165,biological_process,alcohol biosynthetic process,http://purl.obolibrary.org/obo/GO_0046165
+GO:0071106,biological_process,"adenosine 3',5'-bisphosphate transmembrane transport",http://purl.obolibrary.org/obo/GO_0071106
+GO:0009110,biological_process,vitamin biosynthetic process,http://purl.obolibrary.org/obo/GO_0009110
+GO:0010154,biological_process,fruit development,http://purl.obolibrary.org/obo/GO_0010154
+GO:0009141,biological_process,nucleoside triphosphate metabolic process,http://purl.obolibrary.org/obo/GO_0009141
+GO:0009142,biological_process,nucleoside triphosphate biosynthetic process,http://purl.obolibrary.org/obo/GO_0009142
+GO:0000377,biological_process,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",http://purl.obolibrary.org/obo/GO_0000377
+GO:1990748,biological_process,cellular detoxification,http://purl.obolibrary.org/obo/GO_1990748
+GO:0000375,biological_process,"RNA splicing, via transesterification reactions",http://purl.obolibrary.org/obo/GO_0000375
+GO:0000373,biological_process,Group II intron splicing,http://purl.obolibrary.org/obo/GO_0000373
+GO:0048827,biological_process,phyllome development,http://purl.obolibrary.org/obo/GO_0048827
+GO:0009237,biological_process,siderophore metabolic process,http://purl.obolibrary.org/obo/GO_0009237
+GO:0009228,biological_process,thiamine biosynthetic process,http://purl.obolibrary.org/obo/GO_0009228
+GO:0034214,biological_process,protein hexamerization,http://purl.obolibrary.org/obo/GO_0034214
+GO:0009266,biological_process,response to temperature stimulus,http://purl.obolibrary.org/obo/GO_0009266
+GO:0046246,biological_process,terpene biosynthetic process,http://purl.obolibrary.org/obo/GO_0046246
+GO:0048367,biological_process,shoot system development,http://purl.obolibrary.org/obo/GO_0048367
+GO:0048366,biological_process,leaf development,http://purl.obolibrary.org/obo/GO_0048366
+GO:0048316,biological_process,seed development,http://purl.obolibrary.org/obo/GO_0048316
+GO:0097305,biological_process,response to alcohol,http://purl.obolibrary.org/obo/GO_0097305
+GO:0000302,biological_process,response to reactive oxygen species,http://purl.obolibrary.org/obo/GO_0000302
+GO:0048461,biological_process,flower structural organization,http://purl.obolibrary.org/obo/GO_0048461
+GO:0048564,biological_process,photosystem I assembly,http://purl.obolibrary.org/obo/GO_0048564
+GO:0120251,biological_process,hydrocarbon biosynthetic process,http://purl.obolibrary.org/obo/GO_0120251
+GO:0120252,biological_process,hydrocarbon metabolic process,http://purl.obolibrary.org/obo/GO_0120252
+GO:0048532,biological_process,anatomical structure arrangement,http://purl.obolibrary.org/obo/GO_0048532
+GO:0048507,biological_process,meristem development,http://purl.obolibrary.org/obo/GO_0048507
+GO:0048511,biological_process,rhythmic process,http://purl.obolibrary.org/obo/GO_0048511
+GO:0048731,biological_process,system development,http://purl.obolibrary.org/obo/GO_0048731
+GO:0044085,biological_process,cellular component biogenesis,http://purl.obolibrary.org/obo/GO_0044085
+GO:0009725,biological_process,response to hormone,http://purl.obolibrary.org/obo/GO_0009725
+GO:0009723,biological_process,response to ethylene,http://purl.obolibrary.org/obo/GO_0009723
+GO:0009719,biological_process,response to endogenous stimulus,http://purl.obolibrary.org/obo/GO_0009719
+GO:0009753,biological_process,response to jasmonic acid,http://purl.obolibrary.org/obo/GO_0009753
+GO:0009751,biological_process,response to salicylic acid,http://purl.obolibrary.org/obo/GO_0009751
+GO:0009755,biological_process,hormone-mediated signaling pathway,http://purl.obolibrary.org/obo/GO_0009755
+GO:0009736,biological_process,cytokinin-activated signaling pathway,http://purl.obolibrary.org/obo/GO_0009736
+GO:0009735,biological_process,response to cytokinin,http://purl.obolibrary.org/obo/GO_0009735
+GO:0009733,biological_process,response to auxin,http://purl.obolibrary.org/obo/GO_0009733
+GO:0009739,biological_process,response to gibberellin,http://purl.obolibrary.org/obo/GO_0009739
+GO:0009737,biological_process,response to abscisic acid,http://purl.obolibrary.org/obo/GO_0009737
+GO:0009686,biological_process,gibberellin biosynthetic process,http://purl.obolibrary.org/obo/GO_0009686
+GO:0009685,biological_process,gibberellin metabolic process,http://purl.obolibrary.org/obo/GO_0009685
+GO:0009651,biological_process,response to salt stress,http://purl.obolibrary.org/obo/GO_0009651
+GO:0009653,biological_process,anatomical structure morphogenesis,http://purl.obolibrary.org/obo/GO_0009653
+GO:0009658,biological_process,chloroplast organization,http://purl.obolibrary.org/obo/GO_0009658
+GO:0009657,biological_process,plastid organization,http://purl.obolibrary.org/obo/GO_0009657
+GO:0022613,biological_process,ribonucleoprotein complex biogenesis,http://purl.obolibrary.org/obo/GO_0022613
+GO:0034660,biological_process,ncRNA metabolic process,http://purl.obolibrary.org/obo/GO_0034660
+GO:0034654,biological_process,nucleobase-containing compound biosynthetic process,http://purl.obolibrary.org/obo/GO_0034654
+GO:0034641,biological_process,cellular nitrogen compound metabolic process,http://purl.obolibrary.org/obo/GO_0034641
+GO:0007049,biological_process,cell cycle,http://purl.obolibrary.org/obo/GO_0007049
+GO:0007097,biological_process,nuclear migration,http://purl.obolibrary.org/obo/GO_0007097
+GO:0046688,biological_process,response to copper ion,http://purl.obolibrary.org/obo/GO_0046688
+GO:0009888,biological_process,tissue development,http://purl.obolibrary.org/obo/GO_0009888
+GO:0009856,biological_process,pollination,http://purl.obolibrary.org/obo/GO_0009856
+GO:0009790,biological_process,embryo development,http://purl.obolibrary.org/obo/GO_0009790
+GO:0009793,biological_process,embryo development ending in seed dormancy,http://purl.obolibrary.org/obo/GO_0009793
+GO:0009791,biological_process,post-embryonic development,http://purl.obolibrary.org/obo/GO_0009791
+GO:0071705,biological_process,nitrogen compound transport,http://purl.obolibrary.org/obo/GO_0071705
+GO:0071704,biological_process,organic substance metabolic process,http://purl.obolibrary.org/obo/GO_0071704
+GO:0071702,biological_process,organic substance transport,http://purl.obolibrary.org/obo/GO_0071702
+GO:0007154,biological_process,cell communication,http://purl.obolibrary.org/obo/GO_0007154
+GO:0007165,biological_process,signal transduction,http://purl.obolibrary.org/obo/GO_0007165
+GO:0019184,biological_process,nonribosomal peptide biosynthetic process,http://purl.obolibrary.org/obo/GO_0019184
+GO:1900619,biological_process,acetate ester metabolic process,http://purl.obolibrary.org/obo/GO_1900619
+GO:0071495,biological_process,cellular response to endogenous stimulus,http://purl.obolibrary.org/obo/GO_0071495
+GO:0009416,biological_process,response to light stimulus,http://purl.obolibrary.org/obo/GO_0009416
+GO:0009409,biological_process,response to cold,http://purl.obolibrary.org/obo/GO_0009409
+GO:0009407,biological_process,toxin catabolic process,http://purl.obolibrary.org/obo/GO_0009407
+GO:0010467,biological_process,gene expression,http://purl.obolibrary.org/obo/GO_0010467
+GO:0009451,biological_process,RNA modification,http://purl.obolibrary.org/obo/GO_0009451
+GO:0022414,biological_process,reproductive process,http://purl.obolibrary.org/obo/GO_0022414
+GO:0034470,biological_process,ncRNA processing,http://purl.obolibrary.org/obo/GO_0034470
+GO:0046483,biological_process,heterocycle metabolic process,http://purl.obolibrary.org/obo/GO_0046483
+GO:0046417,biological_process,chorismate metabolic process,http://purl.obolibrary.org/obo/GO_0046417
+GO:0046434,biological_process,organophosphate catabolic process,http://purl.obolibrary.org/obo/GO_0046434
+GO:0022607,biological_process,cellular component assembly,http://purl.obolibrary.org/obo/GO_0022607
+GO:0009636,biological_process,response to toxic substance,http://purl.obolibrary.org/obo/GO_0009636
+GO:0009628,biological_process,response to abiotic stimulus,http://purl.obolibrary.org/obo/GO_0009628
+GO:0009642,biological_process,response to light intensity,http://purl.obolibrary.org/obo/GO_0009642
+GO:0009646,biological_process,response to absence of light,http://purl.obolibrary.org/obo/GO_0009646
+GO:0009611,biological_process,response to wounding,http://purl.obolibrary.org/obo/GO_0009611
+GO:0009607,biological_process,response to biotic stimulus,http://purl.obolibrary.org/obo/GO_0009607
+GO:0009605,biological_process,response to external stimulus,http://purl.obolibrary.org/obo/GO_0009605
+GO:0009620,biological_process,response to fungus,http://purl.obolibrary.org/obo/GO_0009620
+GO:0009625,biological_process,response to insect,http://purl.obolibrary.org/obo/GO_0009625
+GO:0009617,biological_process,response to bacterium,http://purl.obolibrary.org/obo/GO_0009617
+GO:0010582,biological_process,floral meristem determinacy,http://purl.obolibrary.org/obo/GO_0010582
+GO:0032502,biological_process,developmental process,http://purl.obolibrary.org/obo/GO_0032502
+GO:0032501,biological_process,multicellular organismal process,http://purl.obolibrary.org/obo/GO_0032501
+GO:0044419,biological_process,biological process involved in interspecies interaction between organisms,http://purl.obolibrary.org/obo/GO_0044419
+GO:0007623,biological_process,circadian rhythm,http://purl.obolibrary.org/obo/GO_0007623
+GO:0019637,biological_process,organophosphate metabolic process,http://purl.obolibrary.org/obo/GO_0019637
+GO:0019684,biological_process,"photosynthesis, light reaction",http://purl.obolibrary.org/obo/GO_0019684
+GO:0044550,biological_process,secondary metabolite biosynthetic process,http://purl.obolibrary.org/obo/GO_0044550
+GO:0009908,biological_process,flower development,http://purl.obolibrary.org/obo/GO_0009908
+GO:0009956,biological_process,radial pattern formation,http://purl.obolibrary.org/obo/GO_0009956
+GO:0046907,biological_process,intracellular transport,http://purl.obolibrary.org/obo/GO_0046907
+GO:0009991,biological_process,response to extracellular stimulus,http://purl.obolibrary.org/obo/GO_0009991
+GO:0009987,biological_process,cellular process,http://purl.obolibrary.org/obo/GO_0009987
+GO:0007275,biological_process,multicellular organism development,http://purl.obolibrary.org/obo/GO_0007275
+GO:0044281,biological_process,small molecule metabolic process,http://purl.obolibrary.org/obo/GO_0044281
+GO:0044283,biological_process,small molecule biosynthetic process,http://purl.obolibrary.org/obo/GO_0044283
+GO:0044282,biological_process,small molecule catabolic process,http://purl.obolibrary.org/obo/GO_0044282
+GO:0019290,biological_process,siderophore biosynthetic process,http://purl.obolibrary.org/obo/GO_0019290
+GO:0044238,biological_process,primary metabolic process,http://purl.obolibrary.org/obo/GO_0044238
+GO:0044237,biological_process,cellular metabolic process,http://purl.obolibrary.org/obo/GO_0044237
+GO:0044242,biological_process,cellular lipid catabolic process,http://purl.obolibrary.org/obo/GO_0044242
+GO:0044249,biological_process,cellular biosynthetic process,http://purl.obolibrary.org/obo/GO_0044249
+GO:0044248,biological_process,cellular catabolic process,http://purl.obolibrary.org/obo/GO_0044248
+GO:0071840,biological_process,cellular component organization or biogenesis,http://purl.obolibrary.org/obo/GO_0071840
+GO:0044255,biological_process,cellular lipid metabolic process,http://purl.obolibrary.org/obo/GO_0044255
+GO:0044272,biological_process,sulfur compound biosynthetic process,http://purl.obolibrary.org/obo/GO_0044272
+GO:0044271,biological_process,cellular nitrogen compound biosynthetic process,http://purl.obolibrary.org/obo/GO_0044271
+GO:0019438,biological_process,aromatic compound biosynthetic process,http://purl.obolibrary.org/obo/GO_0019438
+GO:0071934,biological_process,thiamine transmembrane transport,http://purl.obolibrary.org/obo/GO_0071934
+GO:0007389,biological_process,pattern specification process,http://purl.obolibrary.org/obo/GO_0007389
+GO:1900865,biological_process,chloroplast RNA modification,http://purl.obolibrary.org/obo/GO_1900865
+GO:1900871,biological_process,chloroplast mRNA modification,http://purl.obolibrary.org/obo/GO_1900871
+GO:0006612,biological_process,protein targeting to membrane,http://purl.obolibrary.org/obo/GO_0006612
+GO:0006605,biological_process,protein targeting,http://purl.obolibrary.org/obo/GO_0006605
+GO:0043632,biological_process,modification-dependent macromolecule catabolic process,http://purl.obolibrary.org/obo/GO_0043632
+GO:0043647,biological_process,inositol phosphate metabolic process,http://purl.obolibrary.org/obo/GO_0043647
+GO:0016051,biological_process,carbohydrate biosynthetic process,http://purl.obolibrary.org/obo/GO_0016051
+GO:0031668,biological_process,cellular response to extracellular stimulus,http://purl.obolibrary.org/obo/GO_0031668
+GO:0031669,biological_process,cellular response to nutrient levels,http://purl.obolibrary.org/obo/GO_0031669
+GO:0016049,biological_process,cell growth,http://purl.obolibrary.org/obo/GO_0016049
+GO:0043562,biological_process,cellular response to nitrogen levels,http://purl.obolibrary.org/obo/GO_0043562
+GO:0006714,biological_process,sesquiterpenoid metabolic process,http://purl.obolibrary.org/obo/GO_0006714
+GO:0006715,biological_process,farnesol biosynthetic process,http://purl.obolibrary.org/obo/GO_0006715
+GO:0006750,biological_process,glutathione biosynthetic process,http://purl.obolibrary.org/obo/GO_0006750
+GO:0006749,biological_process,glutathione metabolic process,http://purl.obolibrary.org/obo/GO_0006749
+GO:0016106,biological_process,sesquiterpenoid biosynthetic process,http://purl.obolibrary.org/obo/GO_0016106
+GO:0006511,biological_process,ubiquitin-dependent protein catabolic process,http://purl.obolibrary.org/obo/GO_0006511
+GO:0006508,biological_process,proteolysis,http://purl.obolibrary.org/obo/GO_0006508
+GO:0006576,biological_process,biogenic amine metabolic process,http://purl.obolibrary.org/obo/GO_0006576
+GO:0006595,biological_process,polyamine metabolic process,http://purl.obolibrary.org/obo/GO_0006595
+GO:0006598,biological_process,polyamine catabolic process,http://purl.obolibrary.org/obo/GO_0006598
+GO:0016487,biological_process,farnesol metabolic process,http://purl.obolibrary.org/obo/GO_0016487
+GO:0110053,biological_process,regulation of actin filament organization,http://purl.obolibrary.org/obo/GO_0110053
+GO:0090150,biological_process,establishment of protein localization to membrane,http://purl.obolibrary.org/obo/GO_0090150
+GO:0006801,biological_process,superoxide metabolic process,http://purl.obolibrary.org/obo/GO_0006801
+GO:0016310,biological_process,phosphorylation,http://purl.obolibrary.org/obo/GO_0016310
+GO:0006995,biological_process,cellular response to nitrogen starvation,http://purl.obolibrary.org/obo/GO_0006995
+GO:0043953,biological_process,protein transport by the Tat complex,http://purl.obolibrary.org/obo/GO_0043953
+GO:0016093,biological_process,polyprenol metabolic process,http://purl.obolibrary.org/obo/GO_0016093
+GO:0016094,biological_process,polyprenol biosynthetic process,http://purl.obolibrary.org/obo/GO_0016094
+GO:0016098,biological_process,monoterpenoid metabolic process,http://purl.obolibrary.org/obo/GO_0016098
+GO:0016099,biological_process,monoterpenoid biosynthetic process,http://purl.obolibrary.org/obo/GO_0016099
+GO:0065008,biological_process,regulation of biological quality,http://purl.obolibrary.org/obo/GO_0065008
+GO:0065002,biological_process,intracellular protein transmembrane transport,http://purl.obolibrary.org/obo/GO_0065002
+GO:0065009,biological_process,regulation of molecular function,http://purl.obolibrary.org/obo/GO_0065009
+GO:0043693,biological_process,monoterpene biosynthetic process,http://purl.obolibrary.org/obo/GO_0043693
+GO:0043692,biological_process,monoterpene metabolic process,http://purl.obolibrary.org/obo/GO_0043692
+GO:0090066,biological_process,regulation of anatomical structure size,http://purl.obolibrary.org/obo/GO_0090066
+GO:0006457,biological_process,protein folding,http://purl.obolibrary.org/obo/GO_0006457
+GO:0043413,biological_process,macromolecule glycosylation,http://purl.obolibrary.org/obo/GO_0043413
+GO:0006486,biological_process,protein glycosylation,http://purl.obolibrary.org/obo/GO_0006486
+GO:0006468,biological_process,protein phosphorylation,http://purl.obolibrary.org/obo/GO_0006468
+GO:0031333,biological_process,negative regulation of protein-containing complex assembly,http://purl.obolibrary.org/obo/GO_0031333
+GO:0051493,biological_process,regulation of cytoskeleton organization,http://purl.obolibrary.org/obo/GO_0051493
+GO:0051494,biological_process,negative regulation of cytoskeleton organization,http://purl.obolibrary.org/obo/GO_0051494
+GO:1903046,biological_process,meiotic cell cycle process,http://purl.obolibrary.org/obo/GO_1903046
+GO:0050790,biological_process,regulation of catalytic activity,http://purl.obolibrary.org/obo/GO_0050790
+GO:0051129,biological_process,negative regulation of cellular component organization,http://purl.obolibrary.org/obo/GO_0051129
+GO:0051128,biological_process,regulation of cellular component organization,http://purl.obolibrary.org/obo/GO_0051128
+GO:0051156,biological_process,glucose 6-phosphate metabolic process,http://purl.obolibrary.org/obo/GO_0051156
+GO:0051651,biological_process,maintenance of location in cell,http://purl.obolibrary.org/obo/GO_0051651
+GO:0051668,biological_process,localization within membrane,http://purl.obolibrary.org/obo/GO_0051668
+GO:0051604,biological_process,protein maturation,http://purl.obolibrary.org/obo/GO_0051604
+GO:0051603,biological_process,proteolysis involved in protein catabolic process,http://purl.obolibrary.org/obo/GO_0051603
+GO:0061077,biological_process,chaperone-mediated protein folding,http://purl.obolibrary.org/obo/GO_0061077
+GO:1903448,biological_process,geraniol biosynthetic process,http://purl.obolibrary.org/obo/GO_1903448
+GO:1903446,biological_process,geraniol metabolic process,http://purl.obolibrary.org/obo/GO_1903446
+GO:0000002,biological_process,mitochondrial genome maintenance,http://purl.obolibrary.org/obo/GO_0000002
+GO:0098771,biological_process,inorganic ion homeostasis,http://purl.obolibrary.org/obo/GO_0098771
+GO:0002215,biological_process,defense response to nematode,http://purl.obolibrary.org/obo/GO_0002215
+GO:0051258,biological_process,protein polymerization,http://purl.obolibrary.org/obo/GO_0051258
+GO:0051276,biological_process,chromosome organization,http://purl.obolibrary.org/obo/GO_0051276
+GO:0110102,biological_process,ribulose bisphosphate carboxylase complex assembly,http://purl.obolibrary.org/obo/GO_0110102
+GO:0051235,biological_process,maintenance of location,http://purl.obolibrary.org/obo/GO_0051235
+GO:0000160,biological_process,phosphorelay signal transduction system,http://purl.obolibrary.org/obo/GO_0000160
+GO:0043254,biological_process,regulation of protein-containing complex assembly,http://purl.obolibrary.org/obo/GO_0043254
+GO:0016598,biological_process,protein arginylation,http://purl.obolibrary.org/obo/GO_0016598
+GO:0090480,biological_process,purine nucleotide-sugar transmembrane transport,http://purl.obolibrary.org/obo/GO_0090480
+GO:0006833,biological_process,water transport,http://purl.obolibrary.org/obo/GO_0006833
+GO:0006820,biological_process,monoatomic anion transport,http://purl.obolibrary.org/obo/GO_0006820
+GO:0006811,biological_process,monoatomic ion transport,http://purl.obolibrary.org/obo/GO_0006811
+GO:0006812,biological_process,monoatomic cation transport,http://purl.obolibrary.org/obo/GO_0006812
+GO:0006886,biological_process,intracellular protein transport,http://purl.obolibrary.org/obo/GO_0006886
+GO:0006873,biological_process,intracellular monoatomic ion homeostasis,http://purl.obolibrary.org/obo/GO_0006873
+GO:0006874,biological_process,intracellular calcium ion homeostasis,http://purl.obolibrary.org/obo/GO_0006874
+GO:0098662,biological_process,inorganic cation transmembrane transport,http://purl.obolibrary.org/obo/GO_0098662
+GO:0072594,biological_process,establishment of protein localization to organelle,http://purl.obolibrary.org/obo/GO_0072594
+GO:0072593,biological_process,reactive oxygen species metabolic process,http://purl.obolibrary.org/obo/GO_0072593
+GO:0072598,biological_process,protein localization to chloroplast,http://purl.obolibrary.org/obo/GO_0072598
+GO:0072596,biological_process,establishment of protein localization to chloroplast,http://purl.obolibrary.org/obo/GO_0072596
+GO:0060560,biological_process,developmental growth involved in morphogenesis,http://purl.obolibrary.org/obo/GO_0060560
+GO:1901698,biological_process,response to nitrogen compound,http://purl.obolibrary.org/obo/GO_1901698
+GO:0035556,biological_process,intracellular signal transduction,http://purl.obolibrary.org/obo/GO_0035556
+GO:1901654,biological_process,response to ketone,http://purl.obolibrary.org/obo/GO_1901654
+GO:0006259,biological_process,DNA metabolic process,http://purl.obolibrary.org/obo/GO_0006259
+GO:0018202,biological_process,peptidyl-histidine modification,http://purl.obolibrary.org/obo/GO_0018202
+GO:0070727,biological_process,cellular macromolecule localization,http://purl.obolibrary.org/obo/GO_0070727
+GO:0018193,biological_process,peptidyl-amino acid modification,http://purl.obolibrary.org/obo/GO_0018193
+GO:0098660,biological_process,inorganic ion transmembrane transport,http://purl.obolibrary.org/obo/GO_0098660
+GO:0098656,biological_process,monoatomic anion transmembrane transport,http://purl.obolibrary.org/obo/GO_0098656
+GO:0098655,biological_process,monoatomic cation transmembrane transport,http://purl.obolibrary.org/obo/GO_0098655
+GO:0098813,biological_process,nuclear chromosome segregation,http://purl.obolibrary.org/obo/GO_0098813
+GO:0050801,biological_process,monoatomic ion homeostasis,http://purl.obolibrary.org/obo/GO_0050801
+GO:0070192,biological_process,chromosome organization involved in meiotic cell cycle,http://purl.obolibrary.org/obo/GO_0070192
+GO:0045184,biological_process,establishment of protein localization,http://purl.obolibrary.org/obo/GO_0045184
+GO:0045185,biological_process,maintenance of protein location,http://purl.obolibrary.org/obo/GO_0045185
+GO:0008104,biological_process,protein localization,http://purl.obolibrary.org/obo/GO_0008104
+GO:0008154,biological_process,actin polymerization or depolymerization,http://purl.obolibrary.org/obo/GO_0008154
+GO:0045132,biological_process,meiotic chromosome segregation,http://purl.obolibrary.org/obo/GO_0045132
+GO:0045144,biological_process,meiotic sister chromatid segregation,http://purl.obolibrary.org/obo/GO_0045144
+GO:0045143,biological_process,homologous chromosome segregation,http://purl.obolibrary.org/obo/GO_0045143
+GO:0072657,biological_process,protein localization to membrane,http://purl.obolibrary.org/obo/GO_0072657
+GO:0070085,biological_process,glycosylation,http://purl.obolibrary.org/obo/GO_0070085
+GO:0008064,biological_process,regulation of actin polymerization or depolymerization,http://purl.obolibrary.org/obo/GO_0008064
+GO:0045038,biological_process,protein import into chloroplast thylakoid membrane,http://purl.obolibrary.org/obo/GO_0045038
+GO:0045036,biological_process,protein targeting to chloroplast,http://purl.obolibrary.org/obo/GO_0045036
+GO:0033043,biological_process,regulation of organelle organization,http://purl.obolibrary.org/obo/GO_0033043
+GO:0033036,biological_process,macromolecule localization,http://purl.obolibrary.org/obo/GO_0033036
+GO:0060359,biological_process,response to ammonium ion,http://purl.obolibrary.org/obo/GO_0060359
+GO:0030163,biological_process,protein catabolic process,http://purl.obolibrary.org/obo/GO_0030163
+GO:0042126,biological_process,nitrate metabolic process,http://purl.obolibrary.org/obo/GO_0042126
+GO:0042128,biological_process,nitrate assimilation,http://purl.obolibrary.org/obo/GO_0042128
+GO:0033332,biological_process,ent-kaurene biosynthetic process,http://purl.obolibrary.org/obo/GO_0033332
+GO:0033331,biological_process,ent-kaurene metabolic process,http://purl.obolibrary.org/obo/GO_0033331
+GO:0033365,biological_process,protein localization to organelle,http://purl.obolibrary.org/obo/GO_0033365
+GO:0045333,biological_process,cellular respiration,http://purl.obolibrary.org/obo/GO_0045333
+GO:0070482,biological_process,response to oxygen levels,http://purl.obolibrary.org/obo/GO_0070482
+GO:0015031,biological_process,protein transport,http://purl.obolibrary.org/obo/GO_0015031
+GO:0040007,biological_process,growth,http://purl.obolibrary.org/obo/GO_0040007
+GO:0042592,biological_process,homeostatic process,http://purl.obolibrary.org/obo/GO_0042592
+GO:0042989,biological_process,sequestering of actin monomers,http://purl.obolibrary.org/obo/GO_0042989
+GO:0005992,biological_process,trehalose biosynthetic process,http://purl.obolibrary.org/obo/GO_0005992
+GO:0005991,biological_process,trehalose metabolic process,http://purl.obolibrary.org/obo/GO_0005991
+GO:0005984,biological_process,disaccharide metabolic process,http://purl.obolibrary.org/obo/GO_0005984
+GO:0005975,biological_process,carbohydrate metabolic process,http://purl.obolibrary.org/obo/GO_0005975
+GO:0033517,biological_process,myo-inositol hexakisphosphate metabolic process,http://purl.obolibrary.org/obo/GO_0033517
+GO:0033554,biological_process,cellular response to stress,http://purl.obolibrary.org/obo/GO_0033554
+GO:0018106,biological_process,peptidyl-histidine phosphorylation,http://purl.obolibrary.org/obo/GO_0018106
+GO:0019725,biological_process,cellular homeostasis,http://purl.obolibrary.org/obo/GO_0019725
+GO:0044743,biological_process,protein transmembrane import into intracellular organelle,http://purl.obolibrary.org/obo/GO_0044743
+GO:0030029,biological_process,actin filament-based process,http://purl.obolibrary.org/obo/GO_0030029
+GO:0030003,biological_process,intracellular monoatomic cation homeostasis,http://purl.obolibrary.org/obo/GO_0030003
+GO:0042044,biological_process,fluid transport,http://purl.obolibrary.org/obo/GO_0042044
+GO:0017038,biological_process,protein import,http://purl.obolibrary.org/obo/GO_0017038
+GO:0030041,biological_process,actin filament polymerization,http://purl.obolibrary.org/obo/GO_0030041
+GO:0030036,biological_process,actin cytoskeleton organization,http://purl.obolibrary.org/obo/GO_0030036
+GO:0030845,biological_process,phospholipase C-inhibiting G protein-coupled receptor signaling pathway,http://purl.obolibrary.org/obo/GO_0030845
+GO:0030833,biological_process,regulation of actin filament polymerization,http://purl.obolibrary.org/obo/GO_0030833
+GO:0030832,biological_process,regulation of actin filament length,http://purl.obolibrary.org/obo/GO_0030832
+GO:0030837,biological_process,negative regulation of actin filament polymerization,http://purl.obolibrary.org/obo/GO_0030837
+GO:0042886,biological_process,amide transport,http://purl.obolibrary.org/obo/GO_0042886
+GO:0032958,biological_process,inositol phosphate biosynthetic process,http://purl.obolibrary.org/obo/GO_0032958
+GO:0032956,biological_process,regulation of actin cytoskeleton organization,http://purl.obolibrary.org/obo/GO_0032956
+GO:0032970,biological_process,regulation of actin filament-based process,http://purl.obolibrary.org/obo/GO_0032970
+GO:0042445,biological_process,hormone metabolic process,http://purl.obolibrary.org/obo/GO_0042445
+GO:0042446,biological_process,hormone biosynthetic process,http://purl.obolibrary.org/obo/GO_0042446
+GO:0042402,biological_process,cellular biogenic amine catabolic process,http://purl.obolibrary.org/obo/GO_0042402
+GO:0019751,biological_process,polyol metabolic process,http://purl.obolibrary.org/obo/GO_0019751
+GO:0019755,biological_process,one-carbon compound transport,http://purl.obolibrary.org/obo/GO_0019755
+GO:0006040,biological_process,amino sugar metabolic process,http://purl.obolibrary.org/obo/GO_0006040
+GO:0043086,biological_process,negative regulation of catalytic activity,http://purl.obolibrary.org/obo/GO_0043086
+GO:0055074,biological_process,calcium ion homeostasis,http://purl.obolibrary.org/obo/GO_0055074
+GO:0055082,biological_process,intracellular chemical homeostasis,http://purl.obolibrary.org/obo/GO_0055082
+GO:0055080,biological_process,monoatomic cation homeostasis,http://purl.obolibrary.org/obo/GO_0055080
+GO:0019941,biological_process,modification-dependent protein catabolic process,http://purl.obolibrary.org/obo/GO_0019941
+GO:0062197,biological_process,cellular response to chemical stress,http://purl.obolibrary.org/obo/GO_0062197
+GO:0015840,biological_process,urea transport,http://purl.obolibrary.org/obo/GO_0015840
+GO:0015866,biological_process,ADP transport,http://purl.obolibrary.org/obo/GO_0015866
+GO:1902074,biological_process,response to salt,http://purl.obolibrary.org/obo/GO_1902074
+GO:0015980,biological_process,energy derivation by oxidation of organic compounds,http://purl.obolibrary.org/obo/GO_0015980
+GO:0034059,biological_process,response to anoxia,http://purl.obolibrary.org/obo/GO_0034059
+GO:1900160,biological_process,plastid chromosome packaging,http://purl.obolibrary.org/obo/GO_1900160
+GO:0010043,biological_process,response to zinc ion,http://purl.obolibrary.org/obo/GO_0010043
+GO:0009057,biological_process,macromolecule catabolic process,http://purl.obolibrary.org/obo/GO_0009057
+GO:0015780,biological_process,nucleotide-sugar transmembrane transport,http://purl.obolibrary.org/obo/GO_0015780
+GO:0000280,biological_process,nuclear division,http://purl.obolibrary.org/obo/GO_0000280
+GO:0036293,biological_process,response to decreased oxygen levels,http://purl.obolibrary.org/obo/GO_0036293
+GO:0048285,biological_process,organelle fission,http://purl.obolibrary.org/obo/GO_0048285
+GO:0036211,biological_process,protein modification process,http://purl.obolibrary.org/obo/GO_0036211
+GO:0009310,biological_process,amine catabolic process,http://purl.obolibrary.org/obo/GO_0009310
+GO:0009312,biological_process,oligosaccharide biosynthetic process,http://purl.obolibrary.org/obo/GO_0009312
+GO:0009311,biological_process,oligosaccharide metabolic process,http://purl.obolibrary.org/obo/GO_0009311
+GO:0009308,biological_process,amine metabolic process,http://purl.obolibrary.org/obo/GO_0009308
+GO:0046351,biological_process,disaccharide biosynthetic process,http://purl.obolibrary.org/obo/GO_0046351
+GO:0061982,biological_process,meiosis I cell cycle process,http://purl.obolibrary.org/obo/GO_0061982
+GO:0061983,biological_process,meiosis II cell cycle process,http://purl.obolibrary.org/obo/GO_0061983
+GO:0009060,biological_process,aerobic respiration,http://purl.obolibrary.org/obo/GO_0009060
+GO:0010045,biological_process,response to nickel cation,http://purl.obolibrary.org/obo/GO_0010045
+GO:0046173,biological_process,polyol biosynthetic process,http://purl.obolibrary.org/obo/GO_0046173
+GO:0000819,biological_process,sister chromatid segregation,http://purl.obolibrary.org/obo/GO_0000819
+GO:0009101,biological_process,glycoprotein biosynthetic process,http://purl.obolibrary.org/obo/GO_0009101
+GO:0009100,biological_process,glycoprotein metabolic process,http://purl.obolibrary.org/obo/GO_0009100
+GO:1902600,biological_process,proton transmembrane transport,http://purl.obolibrary.org/obo/GO_1902600
+GO:0000902,biological_process,cell morphogenesis,http://purl.obolibrary.org/obo/GO_0000902
+GO:2001057,biological_process,reactive nitrogen species metabolic process,http://purl.obolibrary.org/obo/GO_2001057
+GO:0010264,biological_process,myo-inositol hexakisphosphate biosynthetic process,http://purl.obolibrary.org/obo/GO_0010264
+GO:0048878,biological_process,chemical homeostasis,http://purl.obolibrary.org/obo/GO_0048878
+GO:0034220,biological_process,monoatomic ion transmembrane transport,http://purl.obolibrary.org/obo/GO_0034220
+GO:0009267,biological_process,cellular response to starvation,http://purl.obolibrary.org/obo/GO_0009267
+GO:0010243,biological_process,response to organonitrogen compound,http://purl.obolibrary.org/obo/GO_0010243
+GO:1902903,biological_process,regulation of supramolecular fiber organization,http://purl.obolibrary.org/obo/GO_1902903
+GO:1902904,biological_process,negative regulation of supramolecular fiber organization,http://purl.obolibrary.org/obo/GO_1902904
+GO:0000305,biological_process,response to oxygen radical,http://purl.obolibrary.org/obo/GO_0000305
+GO:0000303,biological_process,response to superoxide,http://purl.obolibrary.org/obo/GO_0000303
+GO:0097435,biological_process,supramolecular fiber organization,http://purl.obolibrary.org/obo/GO_0097435
+GO:0048589,biological_process,developmental growth,http://purl.obolibrary.org/obo/GO_0048589
+GO:0120254,biological_process,olefinic compound metabolic process,http://purl.obolibrary.org/obo/GO_0120254
+GO:0120255,biological_process,olefinic compound biosynthetic process,http://purl.obolibrary.org/obo/GO_0120255
+GO:0048519,biological_process,negative regulation of biological process,http://purl.obolibrary.org/obo/GO_0048519
+GO:0048523,biological_process,negative regulation of cellular process,http://purl.obolibrary.org/obo/GO_0048523
+GO:0010167,biological_process,response to nitrate,http://purl.obolibrary.org/obo/GO_0010167
+GO:0044087,biological_process,regulation of cellular component biogenesis,http://purl.obolibrary.org/obo/GO_0044087
+GO:0044092,biological_process,negative regulation of molecular function,http://purl.obolibrary.org/obo/GO_0044092
+GO:0007010,biological_process,cytoskeleton organization,http://purl.obolibrary.org/obo/GO_0007010
+GO:0007015,biological_process,actin filament organization,http://purl.obolibrary.org/obo/GO_0007015
+GO:0034614,biological_process,cellular response to reactive oxygen species,http://purl.obolibrary.org/obo/GO_0034614
+GO:0010639,biological_process,negative regulation of organelle organization,http://purl.obolibrary.org/obo/GO_0010639
+GO:0007005,biological_process,mitochondrion organization,http://purl.obolibrary.org/obo/GO_0007005
+GO:0007059,biological_process,chromosome segregation,http://purl.obolibrary.org/obo/GO_0007059
+GO:0009699,biological_process,phenylpropanoid biosynthetic process,http://purl.obolibrary.org/obo/GO_0009699
+GO:0009698,biological_process,phenylpropanoid metabolic process,http://purl.obolibrary.org/obo/GO_0009698
+GO:0032042,biological_process,mitochondrial DNA metabolic process,http://purl.obolibrary.org/obo/GO_0032042
+GO:0032025,biological_process,response to cobalt ion,http://purl.obolibrary.org/obo/GO_0032025
+GO:0046686,biological_process,response to cadmium ion,http://purl.obolibrary.org/obo/GO_0046686
+GO:0010817,biological_process,regulation of hormone levels,http://purl.obolibrary.org/obo/GO_0010817
+GO:0009826,biological_process,unidimensional cell growth,http://purl.obolibrary.org/obo/GO_0009826
+GO:0009809,biological_process,lignin biosynthetic process,http://purl.obolibrary.org/obo/GO_0009809
+GO:0009808,biological_process,lignin metabolic process,http://purl.obolibrary.org/obo/GO_0009808
+GO:0009851,biological_process,auxin biosynthetic process,http://purl.obolibrary.org/obo/GO_0009851
+GO:0009850,biological_process,auxin metabolic process,http://purl.obolibrary.org/obo/GO_0009850
+GO:0007135,biological_process,meiosis II,http://purl.obolibrary.org/obo/GO_0007135
+GO:0007129,biological_process,homologous chromosome pairing at meiosis,http://purl.obolibrary.org/obo/GO_0007129
+GO:0007127,biological_process,meiosis I,http://purl.obolibrary.org/obo/GO_0007127
+GO:0007186,biological_process,G protein-coupled receptor signaling pathway,http://purl.obolibrary.org/obo/GO_0007186
+GO:0071496,biological_process,cellular response to external stimulus,http://purl.obolibrary.org/obo/GO_0071496
+GO:0071450,biological_process,cellular response to oxygen radical,http://purl.obolibrary.org/obo/GO_0071450
+GO:0071451,biological_process,cellular response to superoxide,http://purl.obolibrary.org/obo/GO_0071451
+GO:0022402,biological_process,cell cycle process,http://purl.obolibrary.org/obo/GO_0022402
+GO:0009410,biological_process,response to xenobiotic stimulus,http://purl.obolibrary.org/obo/GO_0009410
+GO:0009408,biological_process,response to heat,http://purl.obolibrary.org/obo/GO_0009408
+GO:0010438,biological_process,cellular response to sulfur starvation,http://purl.obolibrary.org/obo/GO_0010438
+GO:0010497,biological_process,plasmodesmata-mediated intercellular transport,http://purl.obolibrary.org/obo/GO_0010497
+GO:0010496,biological_process,intercellular transport,http://purl.obolibrary.org/obo/GO_0010496
+GO:0009631,biological_process,cold acclimation,http://purl.obolibrary.org/obo/GO_0009631
+GO:0009635,biological_process,response to herbicide,http://purl.obolibrary.org/obo/GO_0009635
+GO:0034599,biological_process,cellular response to oxidative stress,http://purl.obolibrary.org/obo/GO_0034599
+GO:0019538,biological_process,protein metabolic process,http://purl.obolibrary.org/obo/GO_0019538
+GO:0032507,biological_process,maintenance of protein location in cell,http://purl.obolibrary.org/obo/GO_0032507
+GO:0032469,biological_process,endoplasmic reticulum calcium ion homeostasis,http://purl.obolibrary.org/obo/GO_0032469
+GO:0032535,biological_process,regulation of cellular component size,http://purl.obolibrary.org/obo/GO_0032535
+GO:0022900,biological_process,electron transport chain,http://purl.obolibrary.org/obo/GO_0022900
+GO:0071806,biological_process,protein transmembrane transport,http://purl.obolibrary.org/obo/GO_0071806
+GO:0046835,biological_process,carbohydrate phosphorylation,http://purl.obolibrary.org/obo/GO_0046835
+GO:0032271,biological_process,regulation of protein polymerization,http://purl.obolibrary.org/obo/GO_0032271
+GO:0032272,biological_process,negative regulation of protein polymerization,http://purl.obolibrary.org/obo/GO_0032272
+GO:0046898,biological_process,response to cycloheximide,http://purl.obolibrary.org/obo/GO_0046898
+GO:0140013,biological_process,meiotic nuclear division,http://purl.obolibrary.org/obo/GO_0140013
+GO:0019430,biological_process,removal of superoxide radicals,http://purl.obolibrary.org/obo/GO_0019430
+GO:0034976,biological_process,response to endoplasmic reticulum stress,http://purl.obolibrary.org/obo/GO_0034976
+GO:0071941,biological_process,nitrogen cycle metabolic process,http://purl.obolibrary.org/obo/GO_0071941
+GO:0031326,biological_process,regulation of cellular biosynthetic process,http://purl.obolibrary.org/obo/GO_0031326
+GO:0031323,biological_process,regulation of cellular metabolic process,http://purl.obolibrary.org/obo/GO_0031323
+GO:0051252,biological_process,regulation of RNA metabolic process,http://purl.obolibrary.org/obo/GO_0051252
+GO:0051171,biological_process,regulation of nitrogen compound metabolic process,http://purl.obolibrary.org/obo/GO_0051171
+GO:0006355,biological_process,regulation of DNA-templated transcription,http://purl.obolibrary.org/obo/GO_0006355
+GO:0060255,biological_process,regulation of macromolecule metabolic process,http://purl.obolibrary.org/obo/GO_0060255
+GO:0080090,biological_process,regulation of primary metabolic process,http://purl.obolibrary.org/obo/GO_0080090
+GO:2001141,biological_process,regulation of RNA biosynthetic process,http://purl.obolibrary.org/obo/GO_2001141
+GO:0009889,biological_process,regulation of biosynthetic process,http://purl.obolibrary.org/obo/GO_0009889
+GO:0010468,biological_process,regulation of gene expression,http://purl.obolibrary.org/obo/GO_0010468
+GO:0010556,biological_process,regulation of macromolecule biosynthetic process,http://purl.obolibrary.org/obo/GO_0010556
+GO:0019219,biological_process,regulation of nucleobase-containing compound metabolic process,http://purl.obolibrary.org/obo/GO_0019219
+GO:0019222,biological_process,regulation of metabolic process,http://purl.obolibrary.org/obo/GO_0019222
+GO:0043621,molecular_function,protein self-association,http://purl.obolibrary.org/obo/GO_0043621
+GO:0004030,molecular_function,aldehyde dehydrogenase [NAD(P)+] activity,http://purl.obolibrary.org/obo/GO_0004030
+GO:0004031,molecular_function,aldehyde oxidase activity,http://purl.obolibrary.org/obo/GO_0004031
+GO:0004033,molecular_function,aldo-keto reductase (NADP) activity,http://purl.obolibrary.org/obo/GO_0004033
+GO:0004029,molecular_function,aldehyde dehydrogenase (NAD+) activity,http://purl.obolibrary.org/obo/GO_0004029
+GO:0016018,molecular_function,cyclosporin A binding,http://purl.obolibrary.org/obo/GO_0016018
+GO:0043546,molecular_function,molybdopterin cofactor binding,http://purl.obolibrary.org/obo/GO_0043546
+GO:0043565,molecular_function,sequence-specific DNA binding,http://purl.obolibrary.org/obo/GO_0043565
+GO:0004106,molecular_function,chorismate mutase activity,http://purl.obolibrary.org/obo/GO_0004106
+GO:0018488,molecular_function,aryl-aldehyde oxidase activity,http://purl.obolibrary.org/obo/GO_0018488
+GO:0004417,molecular_function,hydroxyethylthiazole kinase activity,http://purl.obolibrary.org/obo/GO_0004417
+GO:0004462,molecular_function,lactoylglutathione lyase activity,http://purl.obolibrary.org/obo/GO_0004462
+GO:0016491,molecular_function,oxidoreductase activity,http://purl.obolibrary.org/obo/GO_0016491
+GO:0004497,molecular_function,monooxygenase activity,http://purl.obolibrary.org/obo/GO_0004497
+GO:0016462,molecular_function,pyrophosphatase activity,http://purl.obolibrary.org/obo/GO_0016462
+GO:1905538,molecular_function,polysome binding,http://purl.obolibrary.org/obo/GO_1905538
+GO:0016903,molecular_function,"oxidoreductase activity, acting on the aldehyde or oxo group of donors",http://purl.obolibrary.org/obo/GO_0016903
+GO:0016645,molecular_function,"oxidoreductase activity, acting on the CH-NH group of donors",http://purl.obolibrary.org/obo/GO_0016645
+GO:0016647,molecular_function,"oxidoreductase activity, acting on the CH-NH group of donors, oxygen as acceptor",http://purl.obolibrary.org/obo/GO_0016647
+GO:0004659,molecular_function,prenyltransferase activity,http://purl.obolibrary.org/obo/GO_0004659
+GO:0016651,molecular_function,"oxidoreductase activity, acting on NAD(P)H",http://purl.obolibrary.org/obo/GO_0016651
+GO:0016653,molecular_function,"oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor",http://purl.obolibrary.org/obo/GO_0016653
+GO:0004672,molecular_function,protein kinase activity,http://purl.obolibrary.org/obo/GO_0004672
+GO:0004673,molecular_function,protein histidine kinase activity,http://purl.obolibrary.org/obo/GO_0004673
+GO:0016623,molecular_function,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, oxygen as acceptor",http://purl.obolibrary.org/obo/GO_0016623
+GO:0016624,molecular_function,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor",http://purl.obolibrary.org/obo/GO_0016624
+GO:0016627,molecular_function,"oxidoreductase activity, acting on the CH-CH group of donors",http://purl.obolibrary.org/obo/GO_0016627
+GO:0016628,molecular_function,"oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor",http://purl.obolibrary.org/obo/GO_0016628
+GO:0016614,molecular_function,"oxidoreductase activity, acting on CH-OH group of donors",http://purl.obolibrary.org/obo/GO_0016614
+GO:0016615,molecular_function,malate dehydrogenase activity,http://purl.obolibrary.org/obo/GO_0016615
+GO:0016616,molecular_function,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",http://purl.obolibrary.org/obo/GO_0016616
+GO:0016620,molecular_function,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",http://purl.obolibrary.org/obo/GO_0016620
+GO:0016679,molecular_function,"oxidoreductase activity, acting on diphenols and related substances as donors",http://purl.obolibrary.org/obo/GO_0016679
+GO:0016684,molecular_function,"oxidoreductase activity, acting on peroxide as acceptor",http://purl.obolibrary.org/obo/GO_0016684
+GO:0016667,molecular_function,"oxidoreductase activity, acting on a sulfur group of donors",http://purl.obolibrary.org/obo/GO_0016667
+GO:0016668,molecular_function,"oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor",http://purl.obolibrary.org/obo/GO_0016668
+GO:0016673,molecular_function,"oxidoreductase activity, acting on a sulfur group of donors, iron-sulfur protein as acceptor",http://purl.obolibrary.org/obo/GO_0016673
+GO:0016661,molecular_function,"oxidoreductase activity, acting on other nitrogenous compounds as donors",http://purl.obolibrary.org/obo/GO_0016661
+GO:0038023,molecular_function,signaling receptor activity,http://purl.obolibrary.org/obo/GO_0038023
+GO:0004340,molecular_function,glucokinase activity,http://purl.obolibrary.org/obo/GO_0004340
+GO:0004337,molecular_function,geranyltranstransferase activity,http://purl.obolibrary.org/obo/GO_0004337
+GO:0004357,molecular_function,glutamate-cysteine ligase activity,http://purl.obolibrary.org/obo/GO_0004357
+GO:0004332,molecular_function,fructose-bisphosphate aldolase activity,http://purl.obolibrary.org/obo/GO_0004332
+GO:0016301,molecular_function,kinase activity,http://purl.obolibrary.org/obo/GO_0016301
+GO:0004396,molecular_function,hexokinase activity,http://purl.obolibrary.org/obo/GO_0004396
+GO:0004362,molecular_function,glutathione-disulfide reductase (NADP) activity,http://purl.obolibrary.org/obo/GO_0004362
+GO:0004364,molecular_function,glutathione transferase activity,http://purl.obolibrary.org/obo/GO_0004364
+GO:0004363,molecular_function,glutathione synthase activity,http://purl.obolibrary.org/obo/GO_0004363
+GO:0016162,molecular_function,"cellulose 1,4-beta-cellobiosidase activity",http://purl.obolibrary.org/obo/GO_0016162
+GO:0016165,molecular_function,linoleate 13S-lipoxygenase activity,http://purl.obolibrary.org/obo/GO_0016165
+GO:0004096,molecular_function,catalase activity,http://purl.obolibrary.org/obo/GO_0004096
+GO:0031420,molecular_function,alkali metal ion binding,http://purl.obolibrary.org/obo/GO_0031420
+GO:0031402,molecular_function,sodium ion binding,http://purl.obolibrary.org/obo/GO_0031402
+GO:0051536,molecular_function,iron-sulfur cluster binding,http://purl.obolibrary.org/obo/GO_0051536
+GO:0051537,molecular_function,"2 iron, 2 sulfur cluster binding",http://purl.obolibrary.org/obo/GO_0051537
+GO:0051540,molecular_function,metal cluster binding,http://purl.obolibrary.org/obo/GO_0051540
+GO:0004611,molecular_function,phosphoenolpyruvate carboxykinase activity,http://purl.obolibrary.org/obo/GO_0004611
+GO:0004614,molecular_function,phosphoglucomutase activity,http://purl.obolibrary.org/obo/GO_0004614
+GO:0004601,molecular_function,peroxidase activity,http://purl.obolibrary.org/obo/GO_0004601
+GO:0004602,molecular_function,glutathione peroxidase activity,http://purl.obolibrary.org/obo/GO_0004602
+GO:0016767,molecular_function,geranylgeranyl-diphosphate geranylgeranyltransferase activity,http://purl.obolibrary.org/obo/GO_0016767
+GO:0004784,molecular_function,superoxide dismutase activity,http://purl.obolibrary.org/obo/GO_0004784
+GO:0016772,molecular_function,"transferase activity, transferring phosphorus-containing groups",http://purl.obolibrary.org/obo/GO_0016772
+GO:0016773,molecular_function,"phosphotransferase activity, alcohol group as acceptor",http://purl.obolibrary.org/obo/GO_0016773
+GO:0016775,molecular_function,"phosphotransferase activity, nitrogenous group as acceptor",http://purl.obolibrary.org/obo/GO_0016775
+GO:0016776,molecular_function,"phosphotransferase activity, phosphate group as acceptor",http://purl.obolibrary.org/obo/GO_0016776
+GO:0016755,molecular_function,aminoacyltransferase activity,http://purl.obolibrary.org/obo/GO_0016755
+GO:0016757,molecular_function,glycosyltransferase activity,http://purl.obolibrary.org/obo/GO_0016757
+GO:0016758,molecular_function,hexosyltransferase activity,http://purl.obolibrary.org/obo/GO_0016758
+GO:0004791,molecular_function,thioredoxin-disulfide reductase (NADP) activity,http://purl.obolibrary.org/obo/GO_0004791
+GO:0016765,molecular_function,"transferase activity, transferring alkyl or aryl (other than methyl) groups",http://purl.obolibrary.org/obo/GO_0016765
+GO:0016744,molecular_function,transketolase or transaldolase activity,http://purl.obolibrary.org/obo/GO_0016744
+GO:0016746,molecular_function,acyltransferase activity,http://purl.obolibrary.org/obo/GO_0016746
+GO:0016740,molecular_function,transferase activity,http://purl.obolibrary.org/obo/GO_0016740
+GO:0016741,molecular_function,"transferase activity, transferring one-carbon groups",http://purl.obolibrary.org/obo/GO_0016741
+GO:0016799,molecular_function,"hydrolase activity, hydrolyzing N-glycosyl compounds",http://purl.obolibrary.org/obo/GO_0016799
+GO:0016788,molecular_function,"hydrolase activity, acting on ester bonds",http://purl.obolibrary.org/obo/GO_0016788
+GO:0016791,molecular_function,phosphatase activity,http://purl.obolibrary.org/obo/GO_0016791
+GO:0016798,molecular_function,"hydrolase activity, acting on glycosyl bonds",http://purl.obolibrary.org/obo/GO_0016798
+GO:0016787,molecular_function,hydrolase activity,http://purl.obolibrary.org/obo/GO_0016787
+GO:0051117,molecular_function,ATPase binding,http://purl.obolibrary.org/obo/GO_0051117
+GO:0051087,molecular_function,protein-folding chaperone binding,http://purl.obolibrary.org/obo/GO_0051087
+GO:0004740,molecular_function,pyruvate dehydrogenase (acetyl-transferring) kinase activity,http://purl.obolibrary.org/obo/GO_0004740
+GO:0004739,molecular_function,pyruvate dehydrogenase (acetyl-transferring) activity,http://purl.obolibrary.org/obo/GO_0004739
+GO:0004738,molecular_function,pyruvate dehydrogenase activity,http://purl.obolibrary.org/obo/GO_0004738
+GO:0016721,molecular_function,"oxidoreductase activity, acting on superoxide radicals as acceptor",http://purl.obolibrary.org/obo/GO_0016721
+GO:0016701,molecular_function,"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen",http://purl.obolibrary.org/obo/GO_0016701
+GO:0016702,molecular_function,"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",http://purl.obolibrary.org/obo/GO_0016702
+GO:0016705,molecular_function,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",http://purl.obolibrary.org/obo/GO_0016705
+GO:0016706,molecular_function,2-oxoglutarate-dependent dioxygenase activity,http://purl.obolibrary.org/obo/GO_0016706
+GO:0016709,molecular_function,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",http://purl.obolibrary.org/obo/GO_0016709
+GO:0036094,molecular_function,small molecule binding,http://purl.obolibrary.org/obo/GO_0036094
+GO:0047107,molecular_function,gamma-guanidinobutyraldehyde dehydrogenase activity,http://purl.obolibrary.org/obo/GO_0047107
+GO:0047105,molecular_function,4-trimethylammoniobutyraldehyde dehydrogenase activity,http://purl.obolibrary.org/obo/GO_0047105
+GO:0047134,molecular_function,protein-disulfide reductase (NAD(P)) activity,http://purl.obolibrary.org/obo/GO_0047134
+GO:1901265,molecular_function,nucleoside phosphate binding,http://purl.obolibrary.org/obo/GO_1901265
+GO:0098772,molecular_function,molecular function regulator activity,http://purl.obolibrary.org/obo/GO_0098772
+GO:0001786,molecular_function,phosphatidylserine binding,http://purl.obolibrary.org/obo/GO_0001786
+GO:0016879,molecular_function,"ligase activity, forming carbon-nitrogen bonds",http://purl.obolibrary.org/obo/GO_0016879
+GO:0016881,molecular_function,acid-amino acid ligase activity,http://purl.obolibrary.org/obo/GO_0016881
+GO:0016866,molecular_function,intramolecular transferase activity,http://purl.obolibrary.org/obo/GO_0016866
+GO:0016868,molecular_function,intramolecular phosphotransferase activity,http://purl.obolibrary.org/obo/GO_0016868
+GO:0016874,molecular_function,ligase activity,http://purl.obolibrary.org/obo/GO_0016874
+GO:0016859,molecular_function,cis-trans isomerase activity,http://purl.obolibrary.org/obo/GO_0016859
+GO:0004888,molecular_function,transmembrane signaling receptor activity,http://purl.obolibrary.org/obo/GO_0004888
+GO:0051213,molecular_function,dioxygenase activity,http://purl.obolibrary.org/obo/GO_0051213
+GO:0004802,molecular_function,transketolase activity,http://purl.obolibrary.org/obo/GO_0004802
+GO:0004805,molecular_function,trehalose-phosphatase activity,http://purl.obolibrary.org/obo/GO_0004805
+GO:0016846,molecular_function,carbon-sulfur lyase activity,http://purl.obolibrary.org/obo/GO_0016846
+GO:0004857,molecular_function,enzyme inhibitor activity,http://purl.obolibrary.org/obo/GO_0004857
+GO:0016853,molecular_function,isomerase activity,http://purl.obolibrary.org/obo/GO_0016853
+GO:0016832,molecular_function,aldehyde-lyase activity,http://purl.obolibrary.org/obo/GO_0016832
+GO:0016835,molecular_function,carbon-oxygen lyase activity,http://purl.obolibrary.org/obo/GO_0016835
+GO:0016838,molecular_function,"carbon-oxygen lyase activity, acting on phosphates",http://purl.obolibrary.org/obo/GO_0016838
+GO:0016840,molecular_function,carbon-nitrogen lyase activity,http://purl.obolibrary.org/obo/GO_0016840
+GO:0016841,molecular_function,ammonia-lyase activity,http://purl.obolibrary.org/obo/GO_0016841
+GO:0016829,molecular_function,lyase activity,http://purl.obolibrary.org/obo/GO_0016829
+GO:0016830,molecular_function,carbon-carbon lyase activity,http://purl.obolibrary.org/obo/GO_0016830
+GO:0016831,molecular_function,carboxy-lyase activity,http://purl.obolibrary.org/obo/GO_0016831
+GO:0016817,molecular_function,"hydrolase activity, acting on acid anhydrides",http://purl.obolibrary.org/obo/GO_0016817
+GO:0016818,molecular_function,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",http://purl.obolibrary.org/obo/GO_0016818
+GO:0004842,molecular_function,ubiquitin-protein transferase activity,http://purl.obolibrary.org/obo/GO_0004842
+GO:0051765,molecular_function,inositol tetrakisphosphate kinase activity,http://purl.obolibrary.org/obo/GO_0051765
+GO:0051766,molecular_function,inositol trisphosphate kinase activity,http://purl.obolibrary.org/obo/GO_0051766
+GO:0000166,molecular_function,nucleotide binding,http://purl.obolibrary.org/obo/GO_0000166
+GO:0043167,molecular_function,ion binding,http://purl.obolibrary.org/obo/GO_0043167
+GO:0043169,molecular_function,cation binding,http://purl.obolibrary.org/obo/GO_0043169
+GO:0043168,molecular_function,anion binding,http://purl.obolibrary.org/obo/GO_0043168
+GO:0008940,molecular_function,nitrate reductase activity,http://purl.obolibrary.org/obo/GO_0008940
+GO:0008964,molecular_function,phosphoenolpyruvate carboxylase activity,http://purl.obolibrary.org/obo/GO_0008964
+GO:0004540,molecular_function,RNA nuclease activity,http://purl.obolibrary.org/obo/GO_0004540
+GO:0004550,molecular_function,nucleoside diphosphate kinase activity,http://purl.obolibrary.org/obo/GO_0004550
+GO:0004553,molecular_function,"hydrolase activity, hydrolyzing O-glycosyl compounds",http://purl.obolibrary.org/obo/GO_0004553
+GO:0004518,molecular_function,nuclease activity,http://purl.obolibrary.org/obo/GO_0004518
+GO:0004568,molecular_function,chitinase activity,http://purl.obolibrary.org/obo/GO_0004568
+GO:0090422,molecular_function,thiamine pyrophosphate transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0090422
+GO:0090482,molecular_function,vitamin transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0090482
+GO:0016209,molecular_function,antioxidant activity,http://purl.obolibrary.org/obo/GO_0016209
+GO:0008308,molecular_function,voltage-gated monoatomic anion channel activity,http://purl.obolibrary.org/obo/GO_0008308
+GO:0008234,molecular_function,cysteine-type peptidase activity,http://purl.obolibrary.org/obo/GO_0008234
+GO:0008233,molecular_function,peptidase activity,http://purl.obolibrary.org/obo/GO_0008233
+GO:0033218,molecular_function,amide binding,http://purl.obolibrary.org/obo/GO_0033218
+GO:0008270,molecular_function,zinc ion binding,http://purl.obolibrary.org/obo/GO_0008270
+GO:0008289,molecular_function,lipid binding,http://purl.obolibrary.org/obo/GO_0008289
+GO:1901702,molecular_function,salt transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_1901702
+GO:1901682,molecular_function,sulfur compound transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_1901682
+GO:0047526,molecular_function,2'-hydroxyisoflavone reductase activity,http://purl.obolibrary.org/obo/GO_0047526
+GO:1901611,molecular_function,phosphatidylglycerol binding,http://purl.obolibrary.org/obo/GO_1901611
+GO:0070064,molecular_function,proline-rich region binding,http://purl.obolibrary.org/obo/GO_0070064
+GO:0008802,molecular_function,betaine-aldehyde dehydrogenase activity,http://purl.obolibrary.org/obo/GO_0008802
+GO:0008865,molecular_function,fructokinase activity,http://purl.obolibrary.org/obo/GO_0008865
+GO:0008843,molecular_function,endochitinase activity,http://purl.obolibrary.org/obo/GO_0008843
+GO:0102145,molecular_function,(3R)-(E)-nerolidol synthase activity,http://purl.obolibrary.org/obo/GO_0102145
+GO:0047325,molecular_function,inositol tetrakisphosphate 1-kinase activity,http://purl.obolibrary.org/obo/GO_0047325
+GO:1901363,molecular_function,heterocyclic compound binding,http://purl.obolibrary.org/obo/GO_1901363
+GO:0050502,molecular_function,cis-zeatin O-beta-D-glucosyltransferase activity,http://purl.obolibrary.org/obo/GO_0050502
+GO:0050661,molecular_function,NADP binding,http://purl.obolibrary.org/obo/GO_0050661
+GO:0050660,molecular_function,flavin adenine dinucleotide binding,http://purl.obolibrary.org/obo/GO_0050660
+GO:0060089,molecular_function,molecular transducer activity,http://purl.obolibrary.org/obo/GO_0060089
+GO:0035091,molecular_function,phosphatidylinositol binding,http://purl.obolibrary.org/obo/GO_0035091
+GO:0035251,molecular_function,UDP-glucosyltransferase activity,http://purl.obolibrary.org/obo/GO_0035251
+GO:0098847,molecular_function,sequence-specific single stranded DNA binding,http://purl.obolibrary.org/obo/GO_0098847
+GO:0047243,molecular_function,flavanone 7-O-beta-glucosyltransferase activity,http://purl.obolibrary.org/obo/GO_0047243
+GO:0047254,molecular_function,"2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucosyltransferase activity",http://purl.obolibrary.org/obo/GO_0047254
+GO:0070402,molecular_function,NADPH binding,http://purl.obolibrary.org/obo/GO_0070402
+GO:0008121,molecular_function,ubiquinol-cytochrome-c reductase activity,http://purl.obolibrary.org/obo/GO_0008121
+GO:0008194,molecular_function,UDP-glycosyltransferase activity,http://purl.obolibrary.org/obo/GO_0008194
+GO:0008168,molecular_function,methyltransferase activity,http://purl.obolibrary.org/obo/GO_0008168
+GO:0008171,molecular_function,O-methyltransferase activity,http://purl.obolibrary.org/obo/GO_0008171
+GO:0035639,molecular_function,purine ribonucleoside triphosphate binding,http://purl.obolibrary.org/obo/GO_0035639
+GO:1901505,molecular_function,carbohydrate derivative transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_1901505
+GO:0008092,molecular_function,cytoskeletal protein binding,http://purl.obolibrary.org/obo/GO_0008092
+GO:0072341,molecular_function,modified amino acid binding,http://purl.obolibrary.org/obo/GO_0072341
+GO:1901474,molecular_function,azole transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_1901474
+GO:0005253,molecular_function,monoatomic anion channel activity,http://purl.obolibrary.org/obo/GO_0005253
+GO:0019899,molecular_function,enzyme binding,http://purl.obolibrary.org/obo/GO_0019899
+GO:0042162,molecular_function,telomeric DNA binding,http://purl.obolibrary.org/obo/GO_0042162
+GO:0015101,molecular_function,organic cation transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015101
+GO:0008422,molecular_function,beta-glucosidase activity,http://purl.obolibrary.org/obo/GO_0008422
+GO:0008320,molecular_function,protein transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0008320
+GO:0008324,molecular_function,monoatomic cation transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0008324
+GO:0070300,molecular_function,phosphatidic acid binding,http://purl.obolibrary.org/obo/GO_0070300
+GO:0008514,molecular_function,organic anion transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0008514
+GO:0008509,molecular_function,monoatomic anion transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0008509
+GO:0015038,molecular_function,glutathione disulfide oxidoreductase activity,http://purl.obolibrary.org/obo/GO_0015038
+GO:0015036,molecular_function,disulfide oxidoreductase activity,http://purl.obolibrary.org/obo/GO_0015036
+GO:0015035,molecular_function,protein-disulfide reductase activity,http://purl.obolibrary.org/obo/GO_0015035
+GO:0015078,molecular_function,proton transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015078
+GO:0015075,molecular_function,monoatomic ion transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015075
+GO:0042578,molecular_function,phosphoric ester hydrolase activity,http://purl.obolibrary.org/obo/GO_0042578
+GO:0015399,molecular_function,primary active transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015399
+GO:1904091,molecular_function,non-ribosomal peptide synthetase activity,http://purl.obolibrary.org/obo/GO_1904091
+GO:0015453,molecular_function,oxidoreduction-driven active transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015453
+GO:0050311,molecular_function,sulfite reductase (ferredoxin) activity,http://purl.obolibrary.org/obo/GO_0050311
+GO:0050302,molecular_function,indole-3-acetaldehyde oxidase activity,http://purl.obolibrary.org/obo/GO_0050302
+GO:0003690,molecular_function,double-stranded DNA binding,http://purl.obolibrary.org/obo/GO_0003690
+GO:0003691,molecular_function,double-stranded telomeric DNA binding,http://purl.obolibrary.org/obo/GO_0003691
+GO:0003697,molecular_function,single-stranded DNA binding,http://purl.obolibrary.org/obo/GO_0003697
+GO:0015651,molecular_function,quaternary ammonium group transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015651
+GO:0003674,molecular_function,molecular_function,http://purl.obolibrary.org/obo/GO_0003674
+GO:0003676,molecular_function,nucleic acid binding,http://purl.obolibrary.org/obo/GO_0003676
+GO:0003677,molecular_function,DNA binding,http://purl.obolibrary.org/obo/GO_0003677
+GO:0001067,molecular_function,transcription regulatory region nucleic acid binding,http://purl.obolibrary.org/obo/GO_0001067
+GO:0015605,molecular_function,organophosphate ester transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015605
+GO:0015318,molecular_function,inorganic molecular entity transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015318
+GO:0043295,molecular_function,glutathione binding,http://purl.obolibrary.org/obo/GO_0043295
+GO:0045548,molecular_function,phenylalanine ammonia-lyase activity,http://purl.obolibrary.org/obo/GO_0045548
+GO:0045551,molecular_function,cinnamyl-alcohol dehydrogenase activity,http://purl.obolibrary.org/obo/GO_0045551
+GO:0008757,molecular_function,S-adenosylmethionine-dependent methyltransferase activity,http://purl.obolibrary.org/obo/GO_0008757
+GO:0019787,molecular_function,ubiquitin-like protein transferase activity,http://purl.obolibrary.org/obo/GO_0019787
+GO:0017113,molecular_function,dihydropyrimidine dehydrogenase (NADP+) activity,http://purl.obolibrary.org/obo/GO_0017113
+GO:0017076,molecular_function,purine nucleotide binding,http://purl.obolibrary.org/obo/GO_0017076
+GO:0140640,molecular_function,"catalytic activity, acting on a nucleic acid",http://purl.obolibrary.org/obo/GO_0140640
+GO:0140678,molecular_function,molecular function inhibitor activity,http://purl.obolibrary.org/obo/GO_0140678
+GO:0005244,molecular_function,voltage-gated monoatomic ion channel activity,http://purl.obolibrary.org/obo/GO_0005244
+GO:0005215,molecular_function,transporter activity,http://purl.obolibrary.org/obo/GO_0005215
+GO:0015234,molecular_function,thiamine transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015234
+GO:0015228,molecular_function,coenzyme A transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015228
+GO:0042802,molecular_function,identical protein binding,http://purl.obolibrary.org/obo/GO_0042802
+GO:0042803,molecular_function,protein homodimerization activity,http://purl.obolibrary.org/obo/GO_0042803
+GO:0015216,molecular_function,purine nucleotide transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015216
+GO:0015215,molecular_function,nucleotide transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015215
+GO:0015250,molecular_function,water channel activity,http://purl.obolibrary.org/obo/GO_0015250
+GO:0015267,molecular_function,channel activity,http://purl.obolibrary.org/obo/GO_0015267
+GO:0015291,molecular_function,secondary active transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015291
+GO:0005515,molecular_function,protein binding,http://purl.obolibrary.org/obo/GO_0005515
+GO:0005524,molecular_function,ATP binding,http://purl.obolibrary.org/obo/GO_0005524
+GO:0005543,molecular_function,phospholipid binding,http://purl.obolibrary.org/obo/GO_0005543
+GO:0042562,molecular_function,hormone binding,http://purl.obolibrary.org/obo/GO_0042562
+GO:0030554,molecular_function,adenyl nucleotide binding,http://purl.obolibrary.org/obo/GO_0030554
+GO:0005346,molecular_function,purine ribonucleotide transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0005346
+GO:0005372,molecular_function,water transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0005372
+GO:0042277,molecular_function,peptide binding,http://purl.obolibrary.org/obo/GO_0042277
+GO:0030234,molecular_function,enzyme regulator activity,http://purl.obolibrary.org/obo/GO_0030234
+GO:0044877,molecular_function,protein-containing complex binding,http://purl.obolibrary.org/obo/GO_0044877
+GO:0005488,molecular_function,binding,http://purl.obolibrary.org/obo/GO_0005488
+GO:0033707,molecular_function,3''-deamino-3''-oxonicotianamine reductase activity,http://purl.obolibrary.org/obo/GO_0033707
+GO:0043022,molecular_function,ribosome binding,http://purl.obolibrary.org/obo/GO_0043022
+GO:0043021,molecular_function,ribonucleoprotein complex binding,http://purl.obolibrary.org/obo/GO_0043021
+GO:0080013,molecular_function,"(E,E)-geranyllinalool synthase activity",http://purl.obolibrary.org/obo/GO_0080013
+GO:0043047,molecular_function,single-stranded telomeric DNA binding,http://purl.obolibrary.org/obo/GO_0043047
+GO:0003755,molecular_function,peptidyl-prolyl cis-trans isomerase activity,http://purl.obolibrary.org/obo/GO_0003755
+GO:0003824,molecular_function,catalytic activity,http://purl.obolibrary.org/obo/GO_0003824
+GO:0015928,molecular_function,fucosidase activity,http://purl.obolibrary.org/obo/GO_0015928
+GO:0015926,molecular_function,glucosidase activity,http://purl.obolibrary.org/obo/GO_0015926
+GO:0015925,molecular_function,galactosidase activity,http://purl.obolibrary.org/obo/GO_0015925
+GO:0015923,molecular_function,mannosidase activity,http://purl.obolibrary.org/obo/GO_0015923
+GO:0003954,molecular_function,NADH dehydrogenase activity,http://purl.obolibrary.org/obo/GO_0003954
+GO:0003959,molecular_function,NADPH dehydrogenase activity,http://purl.obolibrary.org/obo/GO_0003959
+GO:0015932,molecular_function,nucleobase-containing compound transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0015932
+GO:0050463,molecular_function,nitrate reductase [NAD(P)H] activity,http://purl.obolibrary.org/obo/GO_0050463
+GO:0071077,molecular_function,"adenosine 3',5'-bisphosphate transmembrane transporter activity",http://purl.obolibrary.org/obo/GO_0071077
+GO:0010011,molecular_function,auxin binding,http://purl.obolibrary.org/obo/GO_0010011
+GO:0052726,molecular_function,"inositol-1,3,4-trisphosphate 5-kinase activity",http://purl.obolibrary.org/obo/GO_0052726
+GO:0052725,molecular_function,"inositol-1,3,4-trisphosphate 6-kinase activity",http://purl.obolibrary.org/obo/GO_0052725
+GO:0003723,molecular_function,RNA binding,http://purl.obolibrary.org/obo/GO_0003723
+GO:0003725,molecular_function,double-stranded RNA binding,http://purl.obolibrary.org/obo/GO_0003725
+GO:0003727,molecular_function,single-stranded RNA binding,http://purl.obolibrary.org/obo/GO_0003727
+GO:0003729,molecular_function,mRNA binding,http://purl.obolibrary.org/obo/GO_0003729
+GO:0003700,molecular_function,DNA-binding transcription factor activity,http://purl.obolibrary.org/obo/GO_0003700
+GO:0003785,molecular_function,actin monomer binding,http://purl.obolibrary.org/obo/GO_0003785
+GO:0003779,molecular_function,actin binding,http://purl.obolibrary.org/obo/GO_0003779
+GO:0000287,molecular_function,magnesium ion binding,http://purl.obolibrary.org/obo/GO_0000287
+GO:0000295,molecular_function,adenine nucleotide transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0000295
+GO:0097159,molecular_function,organic cyclic compound binding,http://purl.obolibrary.org/obo/GO_0097159
+GO:1990837,molecular_function,sequence-specific double-stranded DNA binding,http://purl.obolibrary.org/obo/GO_1990837
+GO:0000976,molecular_function,transcription cis-regulatory region binding,http://purl.obolibrary.org/obo/GO_0000976
+GO:0010334,molecular_function,sesquiterpene synthase activity,http://purl.obolibrary.org/obo/GO_0010334
+GO:0010333,molecular_function,terpene synthase activity,http://purl.obolibrary.org/obo/GO_0010333
+GO:0009055,molecular_function,electron transfer activity,http://purl.obolibrary.org/obo/GO_0009055
+GO:0034008,molecular_function,R-linalool synthase activity,http://purl.obolibrary.org/obo/GO_0034008
+GO:0034007,molecular_function,S-linalool synthase activity,http://purl.obolibrary.org/obo/GO_0034007
+GO:0000825,molecular_function,inositol tetrakisphosphate 6-kinase activity,http://purl.obolibrary.org/obo/GO_0000825
+GO:0097367,molecular_function,carbohydrate derivative binding,http://purl.obolibrary.org/obo/GO_0097367
+GO:0097599,molecular_function,xylanase activity,http://purl.obolibrary.org/obo/GO_0097599
+GO:0009703,molecular_function,nitrate reductase (NADH) activity,http://purl.obolibrary.org/obo/GO_0009703
+GO:0022803,molecular_function,passive transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0022803
+GO:0022804,molecular_function,active transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0022804
+GO:0019200,molecular_function,carbohydrate kinase activity,http://purl.obolibrary.org/obo/GO_0019200
+GO:0019203,molecular_function,carbohydrate phosphatase activity,http://purl.obolibrary.org/obo/GO_0019203
+GO:0019205,molecular_function,nucleobase-containing compound kinase activity,http://purl.obolibrary.org/obo/GO_0019205
+GO:0022839,molecular_function,monoatomic ion gated channel activity,http://purl.obolibrary.org/obo/GO_0022839
+GO:0022836,molecular_function,gated channel activity,http://purl.obolibrary.org/obo/GO_0022836
+GO:0009885,molecular_function,transmembrane histidine kinase cytokinin receptor activity,http://purl.obolibrary.org/obo/GO_0009885
+GO:0022832,molecular_function,voltage-gated channel activity,http://purl.obolibrary.org/obo/GO_0022832
+GO:0009884,molecular_function,cytokinin receptor activity,http://purl.obolibrary.org/obo/GO_0009884
+GO:0009784,molecular_function,transmembrane receptor histidine kinase activity,http://purl.obolibrary.org/obo/GO_0009784
+GO:0019156,molecular_function,isoamylase activity,http://purl.obolibrary.org/obo/GO_0019156
+GO:0019140,molecular_function,inositol 3-kinase activity,http://purl.obolibrary.org/obo/GO_0019140
+GO:0019145,molecular_function,aminobutyraldehyde dehydrogenase activity,http://purl.obolibrary.org/obo/GO_0019145
+GO:0019199,molecular_function,transmembrane receptor protein kinase activity,http://purl.obolibrary.org/obo/GO_0019199
+GO:0046527,molecular_function,glucosyltransferase activity,http://purl.obolibrary.org/obo/GO_0046527
+GO:0046592,molecular_function,polyamine oxidase activity,http://purl.obolibrary.org/obo/GO_0046592
+GO:0032559,molecular_function,adenyl ribonucleotide binding,http://purl.obolibrary.org/obo/GO_0032559
+GO:0032553,molecular_function,ribonucleotide binding,http://purl.obolibrary.org/obo/GO_0032553
+GO:0032555,molecular_function,purine ribonucleotide binding,http://purl.obolibrary.org/obo/GO_0032555
+GO:0140318,molecular_function,protein transporter activity,http://purl.obolibrary.org/obo/GO_0140318
+GO:0140110,molecular_function,transcription regulator activity,http://purl.obolibrary.org/obo/GO_0140110
+GO:0046905,molecular_function,15-cis-phytoene synthase activity,http://purl.obolibrary.org/obo/GO_0046905
+GO:0046914,molecular_function,transition metal ion binding,http://purl.obolibrary.org/obo/GO_0046914
+GO:0009927,molecular_function,histidine phosphotransfer kinase activity,http://purl.obolibrary.org/obo/GO_0009927
+GO:0009977,molecular_function,proton motive force dependent protein transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0009977
+GO:0046857,molecular_function,"oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor",http://purl.obolibrary.org/obo/GO_0046857
+GO:0022884,molecular_function,macromolecule transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0022884
+GO:0022890,molecular_function,inorganic cation transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0022890
+GO:0046872,molecular_function,metal ion binding,http://purl.obolibrary.org/obo/GO_0046872
+GO:0009899,molecular_function,ent-kaurene synthase activity,http://purl.obolibrary.org/obo/GO_0009899
+GO:0022857,molecular_function,transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0022857
+GO:0022853,molecular_function,active monoatomic ion transmembrane transporter activity,http://purl.obolibrary.org/obo/GO_0022853
+GO:0140098,molecular_function,"catalytic activity, acting on RNA",http://purl.obolibrary.org/obo/GO_0140098
+GO:0140096,molecular_function,"catalytic activity, acting on a protein",http://purl.obolibrary.org/obo/GO_0140096
+GO:0046982,molecular_function,protein heterodimerization activity,http://purl.obolibrary.org/obo/GO_0046982
+GO:0046983,molecular_function,protein dimerization activity,http://purl.obolibrary.org/obo/GO_0046983
+GO:0071949,molecular_function,FAD binding,http://purl.obolibrary.org/obo/GO_0071949
+GO:0000156,molecular_function,phosphorelay response regulator activity,http://purl.obolibrary.org/obo/GO_0000156
+GO:0044183,molecular_function,protein folding chaperone,http://purl.obolibrary.org/obo/GO_0044183
+GO:0016020,cellular_component,membrane,http://purl.obolibrary.org/obo/GO_0016020
+GO:0031981,cellular_component,nuclear lumen,http://purl.obolibrary.org/obo/GO_0031981
+GO:0031982,cellular_component,vesicle,http://purl.obolibrary.org/obo/GO_0031982
+GO:0031976,cellular_component,plastid thylakoid,http://purl.obolibrary.org/obo/GO_0031976
+GO:0031977,cellular_component,thylakoid lumen,http://purl.obolibrary.org/obo/GO_0031977
+GO:0031974,cellular_component,membrane-enclosed lumen,http://purl.obolibrary.org/obo/GO_0031974
+GO:0031975,cellular_component,envelope,http://purl.obolibrary.org/obo/GO_0031975
+GO:0031967,cellular_component,organelle envelope,http://purl.obolibrary.org/obo/GO_0031967
+GO:0031968,cellular_component,organelle outer membrane,http://purl.obolibrary.org/obo/GO_0031968
+GO:0031966,cellular_component,mitochondrial membrane,http://purl.obolibrary.org/obo/GO_0031966
+GO:0031410,cellular_component,cytoplasmic vesicle,http://purl.obolibrary.org/obo/GO_0031410
+GO:0048046,cellular_component,apoplast,http://purl.obolibrary.org/obo/GO_0048046
+GO:0110165,cellular_component,cellular anatomical entity,http://purl.obolibrary.org/obo/GO_0110165
+GO:0043229,cellular_component,intracellular organelle,http://purl.obolibrary.org/obo/GO_0043229
+GO:0043226,cellular_component,organelle,http://purl.obolibrary.org/obo/GO_0043226
+GO:0043228,cellular_component,non-membrane-bounded organelle,http://purl.obolibrary.org/obo/GO_0043228
+GO:0043227,cellular_component,membrane-bounded organelle,http://purl.obolibrary.org/obo/GO_0043227
+GO:0043231,cellular_component,intracellular membrane-bounded organelle,http://purl.obolibrary.org/obo/GO_0043231
+GO:0043233,cellular_component,organelle lumen,http://purl.obolibrary.org/obo/GO_0043233
+GO:0043232,cellular_component,intracellular non-membrane-bounded organelle,http://purl.obolibrary.org/obo/GO_0043232
+GO:0098588,cellular_component,bounding membrane of organelle,http://purl.obolibrary.org/obo/GO_0098588
+GO:0098552,cellular_component,side of membrane,http://purl.obolibrary.org/obo/GO_0098552
+GO:0098572,cellular_component,stromal side of plastid thylakoid membrane,http://purl.obolibrary.org/obo/GO_0098572
+GO:0098687,cellular_component,chromosomal region,http://purl.obolibrary.org/obo/GO_0098687
+GO:0070013,cellular_component,intracellular organelle lumen,http://purl.obolibrary.org/obo/GO_0070013
+GO:0042170,cellular_component,plastid membrane,http://purl.obolibrary.org/obo/GO_0042170
+GO:0005759,cellular_component,mitochondrial matrix,http://purl.obolibrary.org/obo/GO_0005759
+GO:0005730,cellular_component,nucleolus,http://purl.obolibrary.org/obo/GO_0005730
+GO:0005740,cellular_component,mitochondrial envelope,http://purl.obolibrary.org/obo/GO_0005740
+GO:0005743,cellular_component,mitochondrial inner membrane,http://purl.obolibrary.org/obo/GO_0005743
+GO:0005737,cellular_component,cytoplasm,http://purl.obolibrary.org/obo/GO_0005737
+GO:0005739,cellular_component,mitochondrion,http://purl.obolibrary.org/obo/GO_0005739
+GO:0005794,cellular_component,Golgi apparatus,http://purl.obolibrary.org/obo/GO_0005794
+GO:0005774,cellular_component,vacuolar membrane,http://purl.obolibrary.org/obo/GO_0005774
+GO:0005773,cellular_component,vacuole,http://purl.obolibrary.org/obo/GO_0005773
+GO:0005768,cellular_component,endosome,http://purl.obolibrary.org/obo/GO_0005768
+GO:0005783,cellular_component,endoplasmic reticulum,http://purl.obolibrary.org/obo/GO_0005783
+GO:0042735,cellular_component,endosperm protein body,http://purl.obolibrary.org/obo/GO_0042735
+GO:0042651,cellular_component,thylakoid membrane,http://purl.obolibrary.org/obo/GO_0042651
+GO:0030659,cellular_component,cytoplasmic vesicle membrane,http://purl.obolibrary.org/obo/GO_0030659
+GO:0005694,cellular_component,chromosome,http://purl.obolibrary.org/obo/GO_0005694
+GO:0042646,cellular_component,plastid nucleoid,http://purl.obolibrary.org/obo/GO_0042646
+GO:0042644,cellular_component,chloroplast nucleoid,http://purl.obolibrary.org/obo/GO_0042644
+GO:0015630,cellular_component,microtubule cytoskeleton,http://purl.obolibrary.org/obo/GO_0015630
+GO:0019867,cellular_component,outer membrane,http://purl.obolibrary.org/obo/GO_0019867
+GO:0019866,cellular_component,organelle inner membrane,http://purl.obolibrary.org/obo/GO_0019866
+GO:0005886,cellular_component,plasma membrane,http://purl.obolibrary.org/obo/GO_0005886
+GO:0005856,cellular_component,cytoskeleton,http://purl.obolibrary.org/obo/GO_0005856
+GO:0005829,cellular_component,cytosol,http://purl.obolibrary.org/obo/GO_0005829
+GO:0005840,cellular_component,ribosome,http://purl.obolibrary.org/obo/GO_0005840
+GO:0005576,cellular_component,extracellular region,http://purl.obolibrary.org/obo/GO_0005576
+GO:0005575,cellular_component,cellular_component,http://purl.obolibrary.org/obo/GO_0005575
+GO:0005634,cellular_component,nucleus,http://purl.obolibrary.org/obo/GO_0005634
+GO:0005622,cellular_component,intracellular anatomical structure,http://purl.obolibrary.org/obo/GO_0005622
+GO:0005618,cellular_component,cell wall,http://purl.obolibrary.org/obo/GO_0005618
+GO:0032991,cellular_component,protein-containing complex,http://purl.obolibrary.org/obo/GO_0032991
+GO:0030312,cellular_component,external encapsulating structure,http://purl.obolibrary.org/obo/GO_0030312
+GO:0031090,cellular_component,organelle membrane,http://purl.obolibrary.org/obo/GO_0031090
+GO:0055035,cellular_component,plastid thylakoid membrane,http://purl.obolibrary.org/obo/GO_0055035
+GO:0015934,cellular_component,large ribosomal subunit,http://purl.obolibrary.org/obo/GO_0015934
+GO:0010008,cellular_component,endosome membrane,http://purl.obolibrary.org/obo/GO_0010008
+GO:1990904,cellular_component,ribonucleoprotein complex,http://purl.obolibrary.org/obo/GO_1990904
+GO:0009295,cellular_component,nucleoid,http://purl.obolibrary.org/obo/GO_0009295
+GO:0010287,cellular_component,plastoglobule,http://purl.obolibrary.org/obo/GO_0010287
+GO:0034357,cellular_component,photosynthetic membrane,http://purl.obolibrary.org/obo/GO_0034357
+GO:0097708,cellular_component,intracellular vesicle,http://purl.obolibrary.org/obo/GO_0097708
+GO:0000775,cellular_component,"chromosome, centromeric region",http://purl.obolibrary.org/obo/GO_0000775
+GO:0000325,cellular_component,plant-type vacuole,http://purl.obolibrary.org/obo/GO_0000325
+GO:0012506,cellular_component,vesicle membrane,http://purl.obolibrary.org/obo/GO_0012506
+GO:0012505,cellular_component,endomembrane system,http://purl.obolibrary.org/obo/GO_0012505
+GO:0009705,cellular_component,plant-type vacuole membrane,http://purl.obolibrary.org/obo/GO_0009705
+GO:0022626,cellular_component,cytosolic ribosome,http://purl.obolibrary.org/obo/GO_0022626
+GO:0022625,cellular_component,cytosolic large ribosomal subunit,http://purl.obolibrary.org/obo/GO_0022625
+GO:0009513,cellular_component,etioplast,http://purl.obolibrary.org/obo/GO_0009513
+GO:0009507,cellular_component,chloroplast,http://purl.obolibrary.org/obo/GO_0009507
+GO:0009526,cellular_component,plastid envelope,http://purl.obolibrary.org/obo/GO_0009526
+GO:0009505,cellular_component,plant-type cell wall,http://purl.obolibrary.org/obo/GO_0009505
+GO:0009534,cellular_component,chloroplast thylakoid,http://purl.obolibrary.org/obo/GO_0009534
+GO:0009532,cellular_component,plastid stroma,http://purl.obolibrary.org/obo/GO_0009532
+GO:0009536,cellular_component,plastid,http://purl.obolibrary.org/obo/GO_0009536
+GO:0009535,cellular_component,chloroplast thylakoid membrane,http://purl.obolibrary.org/obo/GO_0009535
+GO:0009570,cellular_component,chloroplast stroma,http://purl.obolibrary.org/obo/GO_0009570
+GO:0009578,cellular_component,etioplast stroma,http://purl.obolibrary.org/obo/GO_0009578
+GO:0009579,cellular_component,thylakoid,http://purl.obolibrary.org/obo/GO_0009579
+GO:0009986,cellular_component,cell surface,http://purl.obolibrary.org/obo/GO_0009986
+GO:0009897,cellular_component,external side of plasma membrane,http://purl.obolibrary.org/obo/GO_0009897
+GO:0071944,cellular_component,cell periphery,http://purl.obolibrary.org/obo/GO_0071944
+GO:0044391,cellular_component,ribosomal subunit,http://purl.obolibrary.org/obo/GO_0044391
