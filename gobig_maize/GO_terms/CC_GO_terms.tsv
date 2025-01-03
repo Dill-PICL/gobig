@@ -1,0 +1,88 @@
+GO:0016020	cellular_component	membrane
+GO:0031981	cellular_component	nuclear lumen
+GO:0031982	cellular_component	vesicle
+GO:0031976	cellular_component	plastid thylakoid
+GO:0031977	cellular_component	thylakoid lumen
+GO:0031974	cellular_component	membrane-enclosed lumen
+GO:0031975	cellular_component	envelope
+GO:0031967	cellular_component	organelle envelope
+GO:0031968	cellular_component	organelle outer membrane
+GO:0031966	cellular_component	mitochondrial membrane
+GO:0031410	cellular_component	cytoplasmic vesicle
+GO:0048046	cellular_component	apoplast
+GO:0110165	cellular_component	cellular anatomical entity
+GO:0043229	cellular_component	intracellular organelle
+GO:0043226	cellular_component	organelle
+GO:0043228	cellular_component	non-membrane-bounded organelle
+GO:0043227	cellular_component	membrane-bounded organelle
+GO:0043231	cellular_component	intracellular membrane-bounded organelle
+GO:0043233	cellular_component	organelle lumen
+GO:0043232	cellular_component	intracellular non-membrane-bounded organelle
+GO:0098588	cellular_component	bounding membrane of organelle
+GO:0098552	cellular_component	side of membrane
+GO:0098572	cellular_component	stromal side of plastid thylakoid membrane
+GO:0098687	cellular_component	chromosomal region
+GO:0070013	cellular_component	intracellular organelle lumen
+GO:0042170	cellular_component	plastid membrane
+GO:0005759	cellular_component	mitochondrial matrix
+GO:0005730	cellular_component	nucleolus
+GO:0005740	cellular_component	mitochondrial envelope
+GO:0005743	cellular_component	mitochondrial inner membrane
+GO:0005737	cellular_component	cytoplasm
+GO:0005739	cellular_component	mitochondrion
+GO:0005794	cellular_component	Golgi apparatus
+GO:0005774	cellular_component	vacuolar membrane
+GO:0005773	cellular_component	vacuole
+GO:0005768	cellular_component	endosome
+GO:0005783	cellular_component	endoplasmic reticulum
+GO:0042735	cellular_component	endosperm protein body
+GO:0042651	cellular_component	thylakoid membrane
+GO:0030659	cellular_component	cytoplasmic vesicle membrane
+GO:0005694	cellular_component	chromosome
+GO:0042646	cellular_component	plastid nucleoid
+GO:0042644	cellular_component	chloroplast nucleoid
+GO:0015630	cellular_component	microtubule cytoskeleton
+GO:0019867	cellular_component	outer membrane
+GO:0019866	cellular_component	organelle inner membrane
+GO:0005886	cellular_component	plasma membrane
+GO:0005856	cellular_component	cytoskeleton
+GO:0005829	cellular_component	cytosol
+GO:0005840	cellular_component	ribosome
+GO:0005576	cellular_component	extracellular region
+GO:0005575	cellular_component	cellular_component
+GO:0005634	cellular_component	nucleus
+GO:0005622	cellular_component	intracellular anatomical structure
+GO:0005618	cellular_component	cell wall
+GO:0032991	cellular_component	protein-containing complex
+GO:0030312	cellular_component	external encapsulating structure
+GO:0031090	cellular_component	organelle membrane
+GO:0055035	cellular_component	plastid thylakoid membrane
+GO:0015934	cellular_component	large ribosomal subunit
+GO:0010008	cellular_component	endosome membrane
+GO:1990904	cellular_component	ribonucleoprotein complex
+GO:0009295	cellular_component	nucleoid
+GO:0010287	cellular_component	plastoglobule
+GO:0034357	cellular_component	photosynthetic membrane
+GO:0097708	cellular_component	intracellular vesicle
+GO:0000775	cellular_component	chromosome, centromeric region
+GO:0000325	cellular_component	plant-type vacuole
+GO:0012506	cellular_component	vesicle membrane
+GO:0012505	cellular_component	endomembrane system
+GO:0009705	cellular_component	plant-type vacuole membrane
+GO:0022626	cellular_component	cytosolic ribosome
+GO:0022625	cellular_component	cytosolic large ribosomal subunit
+GO:0009513	cellular_component	etioplast
+GO:0009507	cellular_component	chloroplast
+GO:0009526	cellular_component	plastid envelope
+GO:0009505	cellular_component	plant-type cell wall
+GO:0009534	cellular_component	chloroplast thylakoid
+GO:0009532	cellular_component	plastid stroma
+GO:0009536	cellular_component	plastid
+GO:0009535	cellular_component	chloroplast thylakoid membrane
+GO:0009570	cellular_component	chloroplast stroma
+GO:0009578	cellular_component	etioplast stroma
+GO:0009579	cellular_component	thylakoid
+GO:0009986	cellular_component	cell surface
+GO:0009897	cellular_component	external side of plasma membrane
+GO:0071944	cellular_component	cell periphery
+GO:0044391	cellular_component	ribosomal subunit
