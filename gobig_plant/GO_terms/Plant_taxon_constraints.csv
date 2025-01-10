@@ -1,0 +1,31 @@
+﻿GOID,ONTOLOGY,TERM
+GO:0000330,CC,plant-type vacuole lumen
+GO:0009541,CC,etioplast prolamellar body
+GO:0009545,CC,elaioplast
+GO:0009549,CC,cellulose microfibril
+GO:0009573,CC,chloroplast ribulose bisphosphate carboxylase complex
+GO:0009576,CC,leucoplast stroma
+GO:0009577,CC,elaioplast stroma
+GO:0009655,CC,"PSII associated light-harvesting complex II, core complex"
+GO:0009656,CC,"PSII associated light-harvesting complex II, peripheral complex"
+GO:0009761,BP,CAM photosynthesis
+GO:0010049,BP,acquisition of plant reproductive competence
+GO:0010278,CC,chloroplast outer membrane translocon
+GO:0010419,BP,rhamnogalacturonan II side chain metabolic process
+GO:0030085,CC,"PSII associated light-harvesting complex II, peripheral complex, LHCIIb subcomplex"
+GO:0031986,CC,proteinoplast
+GO:0033009,CC,nucleomorph
+GO:0033174,CC,"chloroplast proton-transporting ATP synthase complex, catalytic core CF(1)"
+GO:0033175,CC,"chloroplast proton-transporting ATP synthase complex, coupling factor CF(o)"
+GO:0034400,CC,gerontoplast
+GO:0042649,CC,prothylakoid
+GO:0042650,CC,prothylakoid membrane
+GO:0043082,CC,megagametophyte egg cell nucleus
+GO:0048217,CC,pectic matrix
+GO:0048223,CC,hemicellulose network
+GO:0048224,CC,lignin network
+GO:0048623,BP,seed germination on parent plant
+GO:0048624,BP,plantlet formation on parent plant
+GO:0097207,BP,bud dormancy process
+GO:0120307,CC,Hechtian strand
+GO:0141063,BP,epigenetic programming in the central cell
